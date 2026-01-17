@@ -1,0 +1,424 @@
+{
+  "candidatos": [
+    {
+      "id": 1,
+      "partyCode": "PUSC",
+      "partyName": "Partido Unidad Social Cristiana",
+      "candidateName": "Juan Carlos Hidalgo",
+      "slogan": "Emparejar la cancha",
+      "colorPrimary": "#0066CC",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 2.5,
+        "economy": 3.0,
+        "education": 4.0,
+        "health": 3.5,
+        "agriculture": 3.5,
+        "environment": 3.5,
+        "reforms": 4.0,
+        "social": 4.0
+      },
+      "planSummary": "Plan centrado en emparejar la cancha. Propone 6,500 efectivos policiales nuevos, Fondo de Seguridad Nacional, reformar sistema educativo con calidad y bilingüismo, fortalecer CCSS, apoyar sector agropecuario. Economía social de mercado con Estado facilitador.",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "partyCode": "CR1",
+      "partyName": "Alianza Costa Rica Primero",
+      "candidateName": "Douglas Caamaño Quirós",
+      "slogan": "Costa Rica es Primero",
+      "colorPrimary": "#FF6B35",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 2.0,
+        "economy": 3.0,
+        "education": 3.0,
+        "health": 3.0,
+        "agriculture": 4.5,
+        "environment": 2.5,
+        "reforms": 3.5,
+        "social": 3.5
+      },
+      "planSummary": "Énfasis en soberanía nacional, protección agricultores y familias. Revisar tratados internacionales (Agenda 2030 ONU, Decreto 40.203). Combate a mafias con inteligencia. Apoyo decisivo al sector agropecuario y seguridad alimentaria.",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "partyCode": "PEN",
+      "partyName": "Partido Esperanza Nacional",
+      "candidateName": "Claudio Alpízar Otoya",
+      "slogan": "Esperanza Nacional",
+      "colorPrimary": "#4CAF50",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.0,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 4.0,
+        "agriculture": 4.0,
+        "environment": 4.0,
+        "reforms": 3.5,
+        "social": 4.0
+      },
+      "planSummary": "Propuesta socialdemócrata. Gobernanza efectiva, educación calidad, seguridad integral, salud universal, producción nacional fortalecida. Descentralización, participación ciudadana, sostenibilidad ambiental, anti-corrupción.",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "partyCode": "PIN",
+      "partyName": "Partido Integración Nacional",
+      "candidateName": "Candidato PIN",
+      "slogan": "Trabajar con lo que tenemos / Construir el país que queremos",
+      "colorPrimary": "#9C27B0",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.5,
+        "economy": 3.0,
+        "education": 3.5,
+        "health": 3.5,
+        "agriculture": 3.5,
+        "environment": 4.0,
+        "reforms": 4.0,
+        "social": 4.0
+      },
+      "planSummary": "Dos ejes: trabajar con estructura actual estableciendo objetivos prioritarios, y construir transformaciones largo plazo. Gobernabilidad, diálogo, seguridad CONACO, diversidad cultural, transición ecológica, justicia climática.",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "partyCode": "PLP",
+      "partyName": "Partido Liberal Progresista",
+      "candidateName": "Candidato PLP",
+      "slogan": "Seguros, Libres y Prósperos",
+      "colorPrimary": "#FFD600",
+      "colorSecondary": "#000000",
+      "scores": {
+        "security": 2.0,
+        "economy": 1.5,
+        "education": 2.5,
+        "health": 2.0,
+        "agriculture": 2.5,
+        "environment": 3.0,
+        "reforms": 2.0,
+        "social": 2.0
+      },
+      "planSummary": "Liberalismo fuerte. Seguridad, apertura económica, reducir Estado, privatizaciones (BCR, BICSA), modernizar laboral, educación conectada, transformación digital, apertura mercados, eliminar monopolios estatales.",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "partyCode": "PUCD",
+      "partyName": "Partido Unión Costarricense Democrática",
+      "candidateName": "Boris Molina Acevedo",
+      "slogan": "Costa Rica Merece Más",
+      "colorPrimary": "#E91E63",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.0,
+        "economy": 3.5,
+        "education": 3.5,
+        "health": 3.5,
+        "agriculture": 4.0,
+        "environment": 3.5,
+        "reforms": 3.5,
+        "social": 4.0
+      },
+      "planSummary": "Pluralismo, consenso, unión. Economía (empleo, PYMES, tributación progresiva), seguridad, reforma agraria, libertad sindical, reivindicación funcionarios públicos. Respeto pensamiento ajeno, tolerancia.",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "partyCode": "CDS",
+      "partyName": "Centro Democrático y Social",
+      "candidateName": "Candidato CDS",
+      "slogan": "La persona en el centro",
+      "colorPrimary": "#2196F3",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.5,
+        "economy": 3.5,
+        "education": 4.5,
+        "health": 4.5,
+        "agriculture": 3.5,
+        "environment": 4.0,
+        "reforms": 3.5,
+        "social": 4.5
+      },
+      "planSummary": "Tres pilares: seguridad humana integral, salud digna, educación ciudadanía democrática. Fortalecer Estado Social Derecho, servicios públicos calidad, prevención delito, tecnología transversal.",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "partyCode": "PNG",
+      "partyName": "Partido Nueva Generación",
+      "candidateName": "Fernando Zamora",
+      "slogan": "Una Nueva Costa Rica",
+      "colorPrimary": "#00BCD4",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.0,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 3.5,
+        "agriculture": 4.0,
+        "environment": 3.5,
+        "reforms": 4.5,
+        "social": 3.5
+      },
+      "planSummary": "Transformación profunda visionaria. Infraestructura gran escala (aeropuertos, trenes, canal seco transoceánico), transformación energética, educación renovada, cultura productiva agraria, reforma constitucional.",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "partyCode": "PT",
+      "partyName": "Partido de la Clase Trabajadora",
+      "candidateName": "Candidato PT",
+      "slogan": "Nuestras vidas valen más que sus ganancias",
+      "colorPrimary": "#D32F2F",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 4.0,
+        "economy": 5.0,
+        "education": 5.0,
+        "health": 5.0,
+        "agriculture": 5.0,
+        "environment": 4.0,
+        "reforms": 5.0,
+        "social": 5.0
+      },
+      "planSummary": "Socialismo revolucionario. Expropiación grandes empresas, bancos, fábricas, constructoras, transporte, telecomunicaciones, clínicas privadas, universidades. Gobierno consejos obreros populares. Control obrero producción.",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "partyCode": "ND",
+      "partyName": "Partido de Natalia Díaz",
+      "candidateName": "Natalia Díaz",
+      "slogan": "El Siguiente Paso",
+      "colorPrimary": "#FF9800",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 2.0,
+        "economy": 2.5,
+        "education": 3.0,
+        "health": 3.0,
+        "agriculture": 2.5,
+        "environment": 3.0,
+        "reforms": 2.5,
+        "social": 2.5
+      },
+      "planSummary": "Continuidad gobierno actual. Seguridad firme, control migración, trabajo privados libertad, apoyo emprendedores PYMES, educación técnica, orden desarrollo, salud eficiente, gobierno territorial.",
+      "isActive": true
+    },
+    {
+      "id": 11,
+      "partyCode": "PSD",
+      "partyName": "Progreso Social Democrático",
+      "candidateName": "Luz Mary",
+      "slogan": "El Futuro es Progreso",
+      "colorPrimary": "#673AB7",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.0,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 4.0,
+        "agriculture": 3.5,
+        "environment": 4.0,
+        "reforms": 3.5,
+        "social": 4.5
+      },
+      "planSummary": "Socialdemocracia. Justicia social, desarrollo económico equidad, Estado Social Derecho. Valorar logros históricos Costa Rica con modernización. Equilibrio indicadores económicos y desarrollo social.",
+      "isActive": true
+    },
+    {
+      "id": 12,
+      "partyCode": "ACRM",
+      "partyName": "Aquí Costa Rica Manda",
+      "candidateName": "Ronny Castillo González",
+      "slogan": "Unidos por la Libertad, la Justicia y la Prosperidad",
+      "colorPrimary": "#009688",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.5,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 4.0,
+        "agriculture": 3.5,
+        "environment": 4.5,
+        "reforms": 5.0,
+        "social": 3.5
+      },
+      "planSummary": "Partido idealista. Nueva constitución vía Asamblea Constituyente. Ni derecha ni izquierda, pragmatismo. Economía regenerativa, medicina regenerativa CCSS, monedas sociales, tesoro ecológico, fondo soberano, comunidad binacional CR-Panamá.",
+      "isActive": true
+    },
+    {
+      "id": 13,
+      "partyCode": "AVANZA",
+      "partyName": "Partido Avanza",
+      "candidateName": "Candidato Avanza",
+      "slogan": "Avanza Costa Rica",
+      "colorPrimary": "#3F51B5",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 2.5,
+        "economy": 2.0,
+        "education": 3.5,
+        "health": 3.0,
+        "agriculture": 2.5,
+        "environment": 3.5,
+        "reforms": 2.5,
+        "social": 2.5
+      },
+      "planSummary": "Liberalismo clásico sensibilidad social. Seguridad autoridad inteligencia, educación propósito, oportunidades todos. Tecnología, ética, transparencia. Estado facilitador, no asistencialismo. Reducir trabas, empleo digno.",
+      "isActive": true
+    },
+    {
+      "id": 14,
+      "partyCode": "EYL",
+      "partyName": "Esperanza y Libertad",
+      "candidateName": "Candidato EYL",
+      "slogan": "Con Esperanza y Libertad, Costa Rica va cambiar",
+      "colorPrimary": "#8BC34A",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.5,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 4.0,
+        "agriculture": 4.0,
+        "environment": 4.5,
+        "reforms": 3.5,
+        "social": 4.0
+      },
+      "planSummary": "Plan integral 2026-2030. Reducir desigualdad pobreza, reforma infraestructura inversión pública, combate crisis fiscal, emergencia educativa, rescate sector agrícola, emergencia seguridad, ambiente energía, igualdad derechos.",
+      "isActive": true
+    },
+    {
+      "id": 15,
+      "partyCode": "PLN",
+      "partyName": "Partido Liberación Nacional",
+      "candidateName": "Candidato PLN",
+      "slogan": "Una Democracia que Resuelve",
+      "colorPrimary": "#006400",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.0,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 4.0,
+        "agriculture": 4.0,
+        "environment": 4.0,
+        "reforms": 3.5,
+        "social": 4.0
+      },
+      "planSummary": "Democracia resuelve problemas. Bienes públicos calidad: seguridad, salud, educación. Tres motores: agroalimentario, ciencias vida, turismo. Estrategia multipolar ciudades emergentes. Liderazgo paz ambiente tecnología. Confianza diálogo.",
+      "isActive": true
+    },
+    {
+      "id": 16,
+      "partyCode": "NR",
+      "partyName": "Nueva República",
+      "candidateName": "Candidato Nueva República",
+      "slogan": "Hacia una Costa Rica Inteligente",
+      "colorPrimary": "#795548",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.5,
+        "economy": 3.5,
+        "education": 4.5,
+        "health": 4.0,
+        "agriculture": 4.0,
+        "environment": 4.0,
+        "reforms": 4.5,
+        "social": 4.0
+      },
+      "planSummary": "Estado estratégico inteligente. Gerencia pública estratégica, organizaciones públicas inteligentes, reactivación económica, Fondo Desarrollo Nacional, infraestructura movilidad, sostenibilidad ambiental, transformación educativa integral.",
+      "isActive": true
+    },
+    {
+      "id": 17,
+      "partyCode": "PJSC",
+      "partyName": "Partido Justicia Social Costarricense",
+      "candidateName": "Candidato PJSC",
+      "slogan": "Justicia social con eficiencia económica",
+      "colorPrimary": "#FF5722",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 3.0,
+        "economy": 3.5,
+        "education": 4.0,
+        "health": 4.0,
+        "agriculture": 4.5,
+        "environment": 3.5,
+        "reforms": 3.5,
+        "social": 4.5
+      },
+      "planSummary": "Frase Rodrigo Facio: justicia no mate eficiencia ni eficiencia mate justicia. Crítica corrupción (7% PIB), TLCs, deuda pública alta. Desigualdad extrema. Recuperar Estado Social Bienestar. Reforma fiscal progresiva.",
+      "isActive": true
+    },
+    {
+      "id": 18,
+      "partyCode": "LF",
+      "partyName": "Partido Laura Fernández",
+      "candidateName": "Laura Fernández Delgado",
+      "slogan": "Por un País Seguro, Próspero e Innovador",
+      "colorPrimary": "#E040FB",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 2.5,
+        "economy": 2.5,
+        "education": 3.5,
+        "health": 3.5,
+        "agriculture": 3.0,
+        "environment": 3.5,
+        "reforms": 3.0,
+        "social": 3.0
+      },
+      "planSummary": "Continuidad administración Chaves Robles. Crecimiento 5%, reducción desempleo 6.9%, inflación negativa, deuda 57.4% PIB. 5 objetivos: seguridad, salud seguridad social, desarrollo económico, progreso social, medio ambiente cambio climático.",
+      "isActive": true
+    },
+    {
+      "id": 19,
+      "partyCode": "PAC",
+      "partyName": "Partido Acción Ciudadana",
+      "candidateName": "Candidato PAC",
+      "slogan": "Reformas y soluciones para una casa común",
+      "colorPrimary": "#FFC107",
+      "colorSecondary": "#000000",
+      "scores": {
+        "security": 3.5,
+        "economy": 3.5,
+        "education": 4.5,
+        "health": 4.5,
+        "agriculture": 4.0,
+        "environment": 4.5,
+        "reforms": 4.0,
+        "social": 4.5
+      },
+      "planSummary": "Transformación democrática. Equidad tejido social, inversión social pilar, entrega democrática (servicios esenciales), fortalecimiento institucional. Estado eficiente transparente cercano. Desarrollo justo economía servicio vida. Acción climática justicia ambiental.",
+      "isActive": true
+    },
+    {
+      "id": 20,
+      "partyCode": "FA",
+      "partyName": "Frente Amplio",
+      "candidateName": "Candidato Frente Amplio",
+      "slogan": "Un nuevo proyecto de país",
+      "colorPrimary": "#C62828",
+      "colorSecondary": "#FFFFFF",
+      "scores": {
+        "security": 4.0,
+        "economy": 4.5,
+        "education": 5.0,
+        "health": 5.0,
+        "agriculture": 4.5,
+        "environment": 5.0,
+        "reforms": 5.0,
+        "social": 5.0
+      },
+      "planSummary": "Izquierda progresista. Confrontar vieja política élites privilegios. Justicia social, sostenibilidad ambiental, equidad género, protagonismo territorios. Recuperar soberanía recursos, fortalecer Estado social, romper captura élites, democracia participativa, economía solidaria.",
+      "isActive": true
+    }
+  ]
+}

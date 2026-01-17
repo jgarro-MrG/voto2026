@@ -1,0 +1,88 @@
+{
+  "party": "FA",
+  "candidate": "Andres Ariel Robles Barrantes",
+  "overallSummary": "Ariel Robles del Frente Amplio se presenta como un candidato progresista con raíces en Pérez Zeledón y experiencia en la Universidad Nacional. Su visión se centra en construir un país con acuerdos del siglo XXI, nuevos pactos sociales y económicos que prioricen el desarrollo inclusivo. Propone un modelo económico que beneficie a productores locales, con énfasis en reducir intermediarios y fortalecer mercados. Su enfoque busca equilibrar inversión social, protección ambiental y desarrollo económico sostenible.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "El candidato menciona el tema de seguridad en el contexto de la violencia que afecta a poblaciones vulnerables, particularmente mujeres. Reconoce el aumento en las tasas de violencia y propone estrategias gubernamentales para abordar esta problemática desde un enfoque de protección social.",
+      "keyProposals": [
+        "Implementar estrategias para reducir la violencia contra mujeres y poblaciones vulnerables",
+        "Abordar la seguridad desde una perspectiva de inversión social y protección"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone un modelo económico que priorice a los productores locales sobre los intermediarios. Enfatiza que no basta con tener tecnología o eficiencia productiva si no hay mercados para los productos. Su visión económica busca fortalecer la producción local y generar condiciones para que los productores puedan sostenerse en el tiempo, garantizando acceso a mercados y reduciendo la dependencia de importaciones.",
+      "keyProposals": [
+        "Reducir el poder de intermediarios en la economía y fortalecer a productores directos",
+        "Garantizar mercados para la producción local y sostenibilidad económica de productores",
+        "Reformar el sistema para priorizar producción nacional sobre importaciones"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "education",
+      "summary": "Robles tiene una conexión personal profunda con la educación pública, siendo hijo de maestra y habiendo trabajado en la Universidad Nacional. Considera la educación pública (escuela, colegio, universidad) como fundamental y la herramienta que le dio todas las oportunidades. Propone que el país debe lograr acuerdos educativos del siglo XXI que respondan a las necesidades actuales.",
+      "keyProposals": [
+        "Fortalecer la educación pública en todos sus niveles como motor de movilidad social",
+        "Lograr nuevos pactos educativos del siglo XXI adaptados a realidades contemporáneas",
+        "Invertir en formación que genere herramientas para el desarrollo profesional y personal"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "Menciona el sistema de salud en el contexto de su historia familiar, con su padre trabajando inicialmente en el hospital. Vincula el tema de salud con la inversión social necesaria para atender a poblaciones vulnerables. Reconoce la importancia del sistema público de salud como parte de la red de protección social.",
+      "keyProposals": [
+        "Aumentar la inversión social en el sistema de salud",
+        "Fortalecer la atención a poblaciones vulnerables en el sistema de salud"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Tiene una posición muy clara sobre el sector agropecuario, identificando tres problemas principales: el poder excesivo de intermediarios, la falta de mercados garantizados para productores, y la competencia desigual con importaciones. Su experiencia en zonas rurales como Pérez Zeledón, Corredores, Golfito y Puerto Jiménez le da perspectiva sobre las necesidades del sector. Propone tres acciones concretas para transformar esta realidad.",
+      "keyProposals": [
+        "Eliminar o reducir significativamente el poder de intermediarios en la cadena agropecuaria",
+        "Crear mecanismos de mercado garantizado para productores locales",
+        "Establecer políticas que favorezcan producción nacional sobre importaciones agrícolas",
+        "Dar seguridad económica a productores para sostenibilidad en el tiempo"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona la existencia de fondos verdes y compromisos internacionales que el país ha firmado. Propone utilizar estos recursos y préstamos para renovación ambiental y proyectos sostenibles. Su visión conecta protección ambiental con desarrollo económico sostenible, particularmente en el contexto rural.",
+      "keyProposals": [
+        "Utilizar fondos verdes internacionales disponibles para renovación ambiental",
+        "Destinar préstamos ambientales comprometidos a proyectos de sostenibilidad",
+        "Integrar protección ambiental con desarrollo económico en zonas rurales"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Enfatiza la necesidad de lograr 'acuerdos del siglo XXI' y 'nuevos pactos históricos' que transformen las instituciones del Estado. Reconoce cambios demográficos importantes (población adulta mayor creciente frente a menor población joven) que requieren reformas estructurales. Propone modernizar el Estado para responder a las realidades contemporáneas del país.",
+      "keyProposals": [
+        "Lograr nuevos pactos históricos y acuerdos del siglo XXI para modernizar instituciones",
+        "Adaptar instituciones a cambios demográficos (envejecimiento poblacional)",
+        "Reformar el Estado para mayor eficiencia en inversión social"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Su historia personal de migración familiar (padre migrando a Estados Unidos para generar recursos) y beneficiario de la educación pública le da una perspectiva clara sobre política social. Se define como una persona comprometida con la solidaridad y la reducción de desigualdades. Propone aumentar la inversión social para atender a poblaciones vulnerables, con énfasis en mujeres que enfrentan violencia y comunidades rurales.",
+      "keyProposals": [
+        "Aumentar significativamente la inversión social en poblaciones vulnerables",
+        "Crear redes de protección para personas en condiciones de vulnerabilidad",
+        "Garantizar condiciones de sostenibilidad económica para sectores excluidos",
+        "Implementar programas focalizados para reducir desigualdades estructurales"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-11T16:13:43.449088"
+}

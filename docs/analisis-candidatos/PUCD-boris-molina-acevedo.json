@@ -1,0 +1,84 @@
+{
+  "party": "PUCD",
+  "candidate": "Boris Molina Acevedo",
+  "overallSummary": "Boris Molina Acevedo del Partido Unión Costarricense Democrática se presenta como un candidato centrohumanista con enfoque en derechos humanos y justicia social. Su propuesta central incluye la creación de una 'ventanilla única del Estado' para formalizar a trabajadores informales y apoyar a las PYMES. Enfatiza la necesidad de generar empleo digno fuera del GAM, fortalecer la seguridad alimentaria apoyando a agricultores, y reformar el sistema educativo devolviendo la administración de escuelas al Ministerio de Educación.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Menciona propuestas concretas para la seguridad física y laboral, especialmente para mujeres. Relaciona la seguridad con la generación de empleo para evitar que personas en zonas rurales caigan en redes del crimen organizado.",
+      "keyProposals": [
+        "Propuestas concretas para garantizar seguridad física y laboral de las mujeres",
+        "Prevenir que personas en zonas rurales caigan en redes del crimen organizado mediante generación de empleo"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone la creación de una ventanilla única del Estado para sacar de la informalidad al 40% de trabajadores y convertirlos en emprendedores reales. Enfatiza la generación de empleo digno fuera del GAM mediante zonas francas, comercio y recuperación territorial en zonas costeras y rurales.",
+      "keyProposals": [
+        "Ventanilla única del Estado para formalizar al 40% de trabajadores informales y convertirlos en emprendedores",
+        "Generar empleo digno en zonas rurales y costeras a través de zonas francas y recuperación territorial",
+        "Apoyo a las PYMES para incrementar su riqueza"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "education",
+      "summary": "Critica el sistema actual de juntas de educación, señalando que se les dio la administración de escuelas y colegios a personas sin experticia, lo que genera denuncias semanales. Propone devolver el manejo administrativo al Ministerio de Educación. También menciona el problema de la falta de meriendas en las escuelas.",
+      "keyProposals": [
+        "Devolver el manejo administrativo de escuelas y colegios al Ministerio de Educación",
+        "Garantizar merienda en las escuelas para los estudiantes",
+        "Reformar el modelo de educación estructural"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "health",
+      "summary": "Menciona la necesidad de asegurar inversión social sostenida en materia de salud y acceso a seguridad social para los trabajadores. No presenta propuestas específicas detalladas sobre el sistema de salud o CCSS.",
+      "keyProposals": [
+        "Garantizar acceso a la seguridad social para todos los trabajadores",
+        "Inversión social sostenida en salud"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Enfatiza la seguridad alimentaria como urgencia nacional. Propone apoyar a agricultores y arroceros, especialmente en Guanacaste. Plantea que el Estado debería subvencionar la seguridad alimentaria para que el país consuma lo que produce, logrando un balance económico.",
+      "keyProposals": [
+        "Fortalecer la seguridad alimentaria nacional como prioridad urgente",
+        "Subvención estatal para la producción agrícola",
+        "Balance económico para que el país consuma lo que produce",
+        "Apoyo específico a agricultores y arroceros"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "environment",
+      "summary": "No se mencionan propuestas específicas sobre medio ambiente, cambio climático o políticas ambientales en las secciones analizadas.",
+      "keyProposals": [],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reforma al sistema de pensiones, criticando el sistema actual de regímenes que no permite retirar el ROP y no ofrece pensiones que crezcan adecuadamente. Menciona la necesidad de evitar que la vejez se convierta en etapa de pobreza.",
+      "keyProposals": [
+        "Reforma al sistema de regímenes de pensiones para mejorar las condiciones de retiro",
+        "Permitir el retiro del ROP (Régimen Obligatorio de Pensiones)",
+        "Garantizar pensiones que crezcan adecuadamente"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Enfatiza que sin trabajo las personas siempre estarán en situación de pobreza. Señala la discriminación estructural y problemas con la niñez descuidada. Propone inversión social sostenida en materia de cuido, salud y educación. Menciona que la pobreza genera más discapacidad y viceversa.",
+      "keyProposals": [
+        "Generación de empleo como solución fundamental contra la pobreza",
+        "Inversión social sostenida en cuido, salud y educación",
+        "Atender la discriminación estructural y la niñez descuidada",
+        "Romper el círculo de pobreza-discapacidad"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T02:15:01.090063"
+}

@@ -1,0 +1,106 @@
+{
+  "party": "PA",
+  "candidate": "Jose Miguel Aguilar Berrocal",
+  "overallSummary": "José Miguel Aguilar Berrocal del partido Avanza se presenta como un candidato con formación internacional (London School of Economics, Oxford) y experiencia en desarrollo humano. Su visión se centra en tres pilares fundamentales: seguridad como requisito básico, educación como motor de transformación, y apoyo decidido a emprendedores e iniciativa privada. Propone un modelo de país que priorice la reducción de cargas sociales, la modernización del sistema educativo con enfoque en tecnología e inteligencia artificial, y una lucha frontal contra la delincuencia organizada. Su enfoque es pragmático y orientado a resultados, con énfasis en la articulación entre sectores y el uso de tecnología.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Aguilar identifica la seguridad como el primer y más fundamental elemento que hace posibles todas las demás reformas. Reconoce que el país está 'entregado al narco' y rompiendo todos los umbrales de delitos. Describe la situación como una 'tormenta perfecta' causada por la combinación de drogas, delincuencia organizada y una 'catástrofe educativa' que deja jóvenes sin propósito ni valores. Su enfoque es contundente y prioriza la seguridad como condición necesaria para cualquier otra política pública.",
+      "keyProposals": [
+        "Priorizar la seguridad como pilar fundamental antes que cualquier otra reforma",
+        "Enfrentar frontalmente al narcotráfico y la delincuencia organizada",
+        "Combatir la 'tormenta perfecta' de drogas, crimen y falta de valores en jóvenes",
+        "Garantizar condiciones de seguridad para que la iniciativa privada pueda operar"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Su visión económica se centra en liberar y potenciar la iniciativa privada, especialmente a pequeños y medianos empresarios que representan el 97.5% del sector y generan 9 de cada 10 empleos. Critica duramente las cargas sociales 'groseras' que 'garrotean y persiguen' a emprendedores. Propone crear un 'ecosistema amigable' para emprendedores mediante reducción de impuestos, simplificación de trámites, acceso a crédito y reducción de costos de energía y gasolina. Enfatiza que cada emprendimiento genera empleo formal y alimenta la 'turbina económica' que sostiene el Estado.",
+      "keyProposals": [
+        "Reducir significativamente las cargas sociales que asfixian a pequeños y medianos empresarios",
+        "Crear un ecosistema amigable para emprendedores con menos tramitología e impuestos",
+        "Facilitar acceso a crédito para empresas y emprendedores (97.5% son pequeños emprendedores)",
+        "Reducir costos de gasolina y energía para mejorar competitividad",
+        "Dar competitividad al sector turístico y agroindustria exportadora",
+        "Promover formalización empresarial mediante incentivos en lugar de persecución"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "education",
+      "summary": "Aguilar considera la educación como el segundo pilar fundamental de su propuesta. Describe la situación actual como una 'catástrofe educativa' que ha dejado jóvenes sin propósito ni valores. Propone una 'reforma educativa feroz, decidida con urgencia' que saque al país del siglo XIX hacia el siglo XXI. Su visión incluye modernización tecnológica con inteligencia artificial, articulación directa entre sistema educativo y economía, y un 'esfuerzo enormemente focalizado en el desarrollo de valores'. Enfatiza educación religiosa o cívica voluntaria para preparar ciudadanos respetuosos.",
+      "keyProposals": [
+        "Implementar reforma educativa feroz y urgente como cuestión de supervivencia nacional",
+        "Modernizar educación hacia siglo XXI con innovación, tecnología e inteligencia artificial",
+        "Articular directamente el sistema educativo con las necesidades de la economía",
+        "Desarrollar valores de manera focalizada en el sistema educativo",
+        "Ofrecer opción voluntaria de educación religiosa ecuménica o educación cívica",
+        "Preparar estudiantes para vida en sociedad con ciudadanía respetuosa y correcta"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "health",
+      "summary": "Aunque no es un tema central en su discurso, Aguilar menciona el sistema de salud principalmente en el contexto de las cargas sociales. Critica que las contribuciones a la Caja y las cargas sociales son 'muy groseras' y persiguen a emprendedores. Reconoce que el sistema requiere financiamiento pero propone reformar el modelo de contribución. Menciona inversión social en salud como parte del desarrollo humano necesario para poblaciones vulnerables.",
+      "keyProposals": [
+        "Reformar el modelo de cargas sociales que financian la Caja",
+        "Mantener inversión social en salud como parte de la red de protección",
+        "Simplificar cobros y persecución de la Caja hacia emprendedores"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Su experiencia personal en una finca ganadera y agrícola en Guanacaste le da perspectiva sobre el sector. Menciona la importancia de dar competitividad a la agroindustria exportadora. Propone mejorar trazabilidad de contaminación por agroquímicos y dar incentivos fiscales para que los productores accedan a moléculas eficientes y baratas. Reconoce las zonas rurales como áreas donde trabaja frecuentemente y donde identifica problemáticas sociales específicas.",
+      "keyProposals": [
+        "Dar competitividad al sector de agroindustria exportadora",
+        "Mejorar trazabilidad de contaminación por agroquímicos en producción",
+        "Ofrecer incentivos fiscales para acceso a insumos eficientes y baratos",
+        "Atender problemáticas específicas de zonas rurales con enfoque diferenciado"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Su postura ambiental es pragmática y orientada a balance entre desarrollo y sostenibilidad. Reconoce que la minería 'no es la industria más limpia' pero defiende la explotación de recursos minerales 'con la ciencia y la técnica tan sostenible como se puede' bajo principios de democracia republicana. Propone mejorar controles de contaminación por agroquímicos. Su enfoque prioriza el desarrollo económico con consideraciones ambientales técnicas y científicas, sin posturas ambientalistas radicales.",
+      "keyProposals": [
+        "Permitir explotación de recursos minerales con ciencia y técnica sostenible",
+        "Aplicar mejores controles y trazabilidad de contaminación por agroquímicos",
+        "Usar tecnología para minimizar impacto ambiental en actividades productivas",
+        "Balance entre desarrollo económico y consideraciones ambientales técnicas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Aguilar enfatiza la necesidad de reformas profundas y urgentes, particularmente en educación que califica como 'feroz y decidida'. Propone modernizar el país desde una visión 'del siglo XIX' hacia el siglo XXI. Su enfoque de reforma incluye reducción de cargas sociales, simplificación de tramitología, reforma del sistema de pensiones para adaptarse al envejecimiento poblacional, y transformación del papel del Estado de perseguidor a facilitador del desarrollo. Critica el modelo actual de cargas e impuestos como obsoleto.",
+      "keyProposals": [
+        "Reforma educativa urgente y feroz como prioridad nacional absoluta",
+        "Modernizar instituciones del Estado del siglo XIX al siglo XXI",
+        "Reformar sistema de cargas sociales y tributación para pequeños emprendedores",
+        "Adaptar sistema de pensiones a realidad demográfica (envejecimiento poblacional)",
+        "Transformar rol del Estado de perseguidor a facilitador del desarrollo",
+        "Simplificar tramitología que constituye 'maraña infernal' para empresarios"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Su enfoque social se centra en romper el asistencialismo y promover desarrollo humano sostenible. Enfatiza la necesidad de redes de cuido para mujeres cabeza de hogar, especialmente en zonas rurales donde la ausencia de figura paterna es frecuente. Propone que las mujeres accedan a oportunidades mediante redes de cuido que les permitan trabajar. Reconoce problemáticas como violencia contra mujeres y abuso infantil que requieren sanciones severas. Su visión articula sector empresarial, gobiernos, comunidad, iglesia y academia para resolver problemas de manera innovadora usando tecnología.",
+      "keyProposals": [
+        "Expandir red de cuido para mujeres cabeza de hogar, especialmente en zonas rurales",
+        "Combatir violencia contra mujeres y reducir femicidios mediante protección efectiva",
+        "Eliminar asistencialismo y promover desarrollo humano sostenible",
+        "Articular sector empresarial, gobiernos, comunidad, iglesia y academia para políticas sociales",
+        "Usar plataformas tecnológicas para entregar servicios sociales de manera innovadora",
+        "Atender población con discapacidad con infraestructura accesible y programas de inclusión",
+        "Implementar sanciones severas contra abuso infantil y trata de personas",
+        "Reformar sistema penitenciario con enfoque diferenciado según tipo de delito",
+        "Ofrecer capacitación y reinserción para población privada de libertad rehabilitable"
+      ],
+      "stance": "moderate"
+    }
+  ],
+  "generatedAt": "2026-01-11"
+}

@@ -1,0 +1,104 @@
+{
+  "party": "PEL",
+  "candidate": "Marco David Rodriguez Badilla",
+  "overallSummary": "Marco David Rodriguez Badilla, candidato del Partido Esperanza y Libertad, es administrador de empresas con maestría en gerencia pública y experiencia en instituciones como ICE, Ministerio de Hacienda y CONAPAN. Su propuesta se centra en educación de calidad, apoyo a adultos mayores, fortalecimiento económico con enfoque en emprendimiento, y reformas a las pensiones. Propone un país tolerante, respetuoso y próspero con inversión social sostenida y protección a poblaciones vulnerables.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Menciona la problemática del crimen y narcotráfico que afecta a las comunidades, especialmente cómo recluta jóvenes. Propone trabajar en prevención y protección de niños y jóvenes ante las redes criminales.",
+      "keyProposals": [
+        "Trabajo de prevención con las familias para evitar que jóvenes caigan en redes del narcotráfico",
+        "Protección de niños y adolescentes de las garras del crimen",
+        "Trabajo social con economía solidaria en las comunidades para atacar el problema de raíz"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone un modelo económico enfocado en competitividad, atracción de inversiones y apoyo al emprendimiento. Busca generar empleos de calidad y fortalecer la economía solidaria. Menciona la importancia de que Costa Rica sea atractiva para inversión y que todos los sectores puedan aportar a la economía nacional.",
+      "keyProposals": [
+        "Generación de empleos de calidad para las familias",
+        "Fomento a la economía solidaria en las comunidades",
+        "Apoyo al emprendimiento y competitividad empresarial",
+        "Atracción de inversiones para infraestructura y desarrollo",
+        "Fortalecimiento de encadenamientos productivos nacionales e internacionales"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "education",
+      "summary": "Como hijo de la escuela pública y docente universitario, enfatiza la educación de calidad como pilar fundamental. Propone transformaciones en la política educativa y garantiza respetar la inversión del 8% del PIB en educación en todas sus etapas para que los jóvenes puedan tener una profesión.",
+      "keyProposals": [
+        "Inversión del 8% del PIB en educación para todas las etapas",
+        "Transformación de la política educativa pública",
+        "Educación de calidad desde primera infancia hasta educación superior",
+        "Enfoque en prevención desde las familias y la educación",
+        "Garantizar que jóvenes puedan tener una profesión"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone inversión social sostenida que incluya salud. Reconoce la necesidad de garantizar atención de calidad y acceso a servicios de salud para toda la población, especialmente poblaciones vulnerables.",
+      "keyProposals": [
+        "Inversión social sostenida en materia de salud",
+        "Garantizar atención de calidad para toda la población",
+        "Protección de salud de niñez y adolescencia"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Reconoce la crisis del sector agrícola con 100 agricultores abandonando sus tierras en los últimos 2 años por no poder competir con importaciones. Propone darle competitividad al agricultor nacional y proteger la producción de productos básicos como arroz y frijoles.",
+      "keyProposals": [
+        "Darle competitividad necesaria al agricultor nacional para competir con importaciones",
+        "Proteger a agricultores nacionales que producen alimentos básicos (arroz, frijoles, tomate)",
+        "Evitar tercerización excesiva que encarece productos",
+        "Fortalecimiento de instituciones como INTA, MAG y sanidad fitosanitaria",
+        "Generar encadenamientos productivos nacionales e internacionales con trazabilidad",
+        "Apoyo técnico y acompañamiento a productores"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona brevemente temas ambientales sin desarrollar propuestas específicas detalladas.",
+      "keyProposals": [],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reforma importante al sistema de pensiones, enfocándose en mejorar rentabilidad de fondos y garantizar pensiones dignas. Plantea que fondos de pensiones inviertan en infraestructura nacional para aumentar rentabilidad del 3-4% actual al 7-12%.",
+      "keyProposals": [
+        "Reforma al sistema de pensiones con enfoque de corto y largo plazo",
+        "Inversión de fondos de pensiones en infraestructura nacional para aumentar rentabilidad del 3-4% al 7-12%",
+        "Garantizar pensión digna a adultos mayores, incluso quienes no pudieron cotizar en sistema formal",
+        "Respuesta inmediata con devolución de RB (régimen básico)",
+        "Reforma contributiva que garantice pensión mínima digna (más de 82,000 colones actuales)",
+        "Explorar modelos exitosos como Jupema para regímenes de pensiones",
+        "Trabajo legislativo con mesa de legalidad pertinente"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Tiene fuerte compromiso con poblaciones vulnerables, especialmente adultos mayores (trabajó en CONAPAN), mujeres y juventud. Propone protección integral de niñez, apoyo a mujeres con jornadas flexibles, y atención digna a adultos mayores. Busca conservar valores familiares y prevenir que jóvenes caigan en criminalidad.",
+      "keyProposals": [
+        "Protección integral de niñez y adolescencia",
+        "Garantizar que niños no sean víctimas directas de violencia",
+        "Apoyo a mujeres con jornadas laborales flexibles para atender familia",
+        "Programas de prevención para mujeres a través de INAMO y otras instituciones",
+        "Unidades de prospección y observatorios de calidad para mujeres",
+        "Conservación de la familia como valor fundamental",
+        "Política pública a través de PIEG y CEDO de corto, mediano y largo plazo para mujeres",
+        "Atención digna a adultos mayores con pensiones adecuadas",
+        "Garantizar calidad de vida en la vejez sin abuso físico, psicológico o económico",
+        "Fortalecimiento de observatorios de envejecimiento (Costa Rica será país envejecido en 2050 con 33% adultos mayores)",
+        "Que adultos mayores puedan administrar recursos de forma segura",
+        "Programas para jóvenes que generen oportunidades y eviten criminalidad"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T16:12:27.473282+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "party": "PPSD",
+  "candidate": "Luz Mary Alpizar Loaiza",
+  "overallSummary": "Luz Mary Alpizar Loaiza es una ingeniera química con máster en administración, empresaria de 25 años de experiencia en consultoría técnica, ex investigadora docente de la UCR y actual diputada. Proviene de zona rural (Puriscal-Mora) y enfoca su propuesta en reducir brechas de desigualdad, fortalecer valores democráticos y garantizar oportunidades equitativas para todas las poblaciones, con especial énfasis en mujeres, niñez, personas con discapacidad y zonas rurales.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone una seguridad integral que va más allá de la seguridad ciudadana, enfocándose en seguridad laboral, equidad y un país donde las personas se sientan realmente seguras. Menciona reforma al sistema carcelario con enfoque en trabajo y reinserción, así como tipificación de prisioneros por niveles según delitos.",
+      "keyProposals": [
+        "Reforma al sistema carcelario con dignificación a través del trabajo para población privada de libertad",
+        "Tipificación de personas privadas de libertad por niveles según delitos",
+        "Reformas legislativas para endurecer penas y asegurar cumplimiento efectivo de sentencias",
+        "Control del bullying con acciones serias y preventivas mediante texto sustitutivo en la Asamblea"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Busca generar oportunidades económicas equitativas para evitar migración forzada, con énfasis en desarrollo local, empleo digno fuera del GAM, apoyo al emprendimiento femenino y fortalecimiento de zonas rurales y costeras. Propone revisión de TLC y promoción de inversión extranjera con desarrollo de capacidades locales.",
+      "keyProposals": [
+        "Creación de polos de desarrollo en zonas costeras y rurales con inversión extranjera y zona franca",
+        "Créditos facilitados para mujeres emprendedoras y reinsertadas al mercado laboral",
+        "Revisión de balanza comercial de TLC para beneficiar agricultores nacionales",
+        "Infraestructura y conectividad para zonas costeras y rurales",
+        "Economía circular y fortalecimiento de economía social solidaria como en Zona Norte",
+        "Reforma a obra pública para inversión segura de fondos de pensiones con buena rentabilidad"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "education",
+      "summary": "Propone transformar el sistema educativo en espacios felices y seguros, con currícula relevante al territorio, nivelación real antes de séptimo año, fortalecimiento de valores, habilidades blandas y rescate de lectoescritura. Enfatiza cumplimiento constitucional de educación obligatoria hasta bachillerato.",
+      "keyProposals": [
+        "Hacer efectiva la educación obligatoria hasta bachillerato según la Constitución",
+        "Nivelación real y efectiva con meses dedicados para estudiantes que salen de sexto grado antes de entrar a sétimo",
+        "Currícula relevante al territorio (ejemplo: deportes acuáticos en zonas costeras como surf)",
+        "Fortalecimiento de valores de convivencia, compañerismo y habilidades blandas",
+        "Campaña nacional para rescate de lectoescritura y mentalidad crítica",
+        "Fortalecer espacios deportivos y culturales en centros educativos",
+        "Fortalecimiento de participación en oratoria a mayor nivel",
+        "Respeto a lenguas indígenas en pueblos originarios con maestros que hablen las lenguas"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "Menciona la necesidad de fortalecer el control de salud de la niñez y la urgencia de un nuevo hospital geriátrico para atención de adultos mayores, pero no desarrolla propuestas específicas para el sistema de salud en general.",
+      "keyProposals": [
+        "Fortalecer controles de salud para la niñez",
+        "Construcción de nuevo hospital geriátrico para atención de adultos mayores",
+        "Fortalecimiento de EBAIS"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Desde su experiencia rural, propone políticas claras de apoyo al agro con respeto a la tradición agrícola, apoyo técnico del MAG, comercialización fortalecida, innovación tecnológica y campaña nacional de consumo de productos nacionales. Enfatiza seguridad alimentaria como urgencia nacional.",
+      "keyProposals": [
+        "Políticas claras de apoyo al agro con respeto a la tradición agrícola nacional",
+        "Retomar apoyo técnico efectivo del MAG a agricultores",
+        "Fortalecer comercialización con acceso a ferias del agricultor y herramientas como High Lux",
+        "Campaña nacional de promoción de productos agrícolas nacionales de calidad",
+        "Apoyo en planes de desarrollo con enfoque de economía circular",
+        "Innovación y tecnología internacional para agricultura costarricense",
+        "Revisión de balanza comercial de TLC para proteger agricultores"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona cambio climático y su afectación en agricultura, y habla de recursos naturales en zonas costeras, pero no desarrolla propuestas ambientales específicas más allá de economía circular.",
+      "keyProposals": [
+        "Economía circular relacionada con cambio climático y agricultura"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reformas constitucionales para reconocer LESCO como lengua oficial, eliminar la interdicción judicial para personas con discapacidad, y reformas al sistema carcelario y de justicia. Enfatiza fortalecimiento de valores democráticos y mejora de gestión institucional.",
+      "keyProposals": [
+        "Reforma constitucional para reconocer LESCO (Lenguaje de Señas Costarricense) como lengua oficial",
+        "Reforma constitucional para eliminar interdicción judicial de personas con discapacidad",
+        "Proyecto de ley para eliminar exigencia de testigos a personas con discapacidad visual en trámites bancarios y comerciales",
+        "Reformas legislativas al sistema de justicia para cumplimiento efectivo de penas",
+        "Fortalecer valores democráticos como eje de gobierno",
+        "Mejora de gestión institucional según recomendaciones del Estado de la Nación"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Prioriza reducción de brechas de desigualdad con enfoque en mujeres, niñez, personas con discapacidad, adultos mayores, pueblos indígenas y afrodescendientes. Propone sistema de cuidados, combate frontal al femicidio, cumplimiento de ley 5% para personas con discapacidad, y presencia estatal real en territorios históricamente abandonados.",
+      "keyProposals": [
+        "Implementación de política nacional de cuidados para niños, personas con discapacidad y adultos mayores",
+        "Decreto de emergencia en primeros 100 días para atención del femicidio con recursos necesarios",
+        "Cumplimiento efectivo de ley del 5% de contratación para personas con discapacidad",
+        "Estudio de barreras según discapacidad desde nacimiento o ingreso a preescolar",
+        "Educación de calidad con eliminación de barreras para personas con discapacidad",
+        "Proyecto de ley para créditos oportunos y formación para emprendedores con discapacidad",
+        "Programa de vivienda para personas con discapacidad",
+        "Créditos específicos para mujeres emprendedoras y reinsertadas al mercado laboral",
+        "Fortalecimiento de alimentación escolar en escuelas públicas",
+        "Campaña nacional de valores desde edades tempranas con objetivos medibles",
+        "Presencia institucional real en pueblos indígenas con respeto a cultura y lenguas",
+        "Conectividad e infraestructura para pueblos indígenas y comunidades afrodescendientes",
+        "Representación afrodescendiente en papeleta presidencial",
+        "Reforma al sistema de pensiones con inversiones productivas",
+        "Cultura de respeto al adulto mayor con espacios de desarrollo e integración",
+        "Migración controlada, registrada y segura con respeto mutuo",
+        "Campaña de información sobre aporte real de migrantes a la economía nacional"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T02:14:19.408374"
+}

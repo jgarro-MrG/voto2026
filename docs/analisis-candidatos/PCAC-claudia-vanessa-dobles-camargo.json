@@ -1,0 +1,126 @@
+{
+  "party": "PCAC",
+  "candidate": "Claudia Vanessa Dobles Camargo",
+  "overallSummary": "Claudia Dobles de la coalición Agenda Ciudadana se presenta como una candidata con experiencia en gobierno (fue Primera Dama) y formación técnica en arquitectura. Su visión se centra en retomar el optimismo y la capacidad de soñar en grande que caracterizó a Costa Rica históricamente. Propone cerrar brechas de desigualdad mediante inversión social focalizada, desarrollo de talento humano integral, y modernización de infraestructura. Su enfoque busca no dejar a nadie atrás, con especial énfasis en mujeres, niñez, juventud, personas con discapacidad, y zonas rurales. Destaca su propuesta de fortalecer sectores productivos tradicionales (agro y turismo) mientras se diversifica la economía, y su estrategia integral de seguridad que combina control territorial con prevención.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Presenta una estrategia integral y detallada de seguridad ciudadana que reconoce la crisis actual de homicidios (más de 700) y el avance del crimen organizado. Critica fuertemente la inacción del gobierno actual y propone acciones concretas desde el primer día. Su enfoque combina control territorial inmediato mediante megaoperativos y coordinación institucional, con prevención a largo plazo en comunidades vulnerables. Rechaza el levantamiento de garantías individuales propuesto por otros candidatos, argumentando que primero deben implementarse medidas básicas de control.",
+      "keyProposals": [
+        "Activar el Consejo Nacional Presidencial de Seguridad para coordinar los tres poderes de la República",
+        "Implementar megaoperativos policiales con coordinación entre todas las fuerzas (ejecutivo, OIJ, policía municipal)",
+        "Fortalecer control de fronteras y reaperturar punto de guardacostas en Bahía Drake",
+        "Incautar armas ilegales sistemáticamente para reducir homicidios por sicariato",
+        "Girar presupuesto aprobado al OIJ para investigación de crimen organizado",
+        "Reestablecer policía de control de drogas en puntos fronterizos",
+        "Implementar programa de prevención 'Sembremos Seguridad' en comunidades vulnerables",
+        "Mejorar gestión carcelaria para evitar llamadas telefónicas desde prisiones",
+        "Coordinación de inteligencia policial y análisis criminal entre todas las fuerzas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone una agenda de competitividad país enfocada en crecimiento económico sostenible que genere empleo de calidad. Reconoce el aumento de la desigualdad y busca diversificar la economía mientras protege sectores productivos tradicionales. Su visión incluye transición de la informalidad a la formalidad (40-45% de población), eliminación de requisitos burocráticos innecesarios para microempresas, y alianzas con sector privado. Destaca su experiencia dejando proyectos como estudios de factibilidad del tren. Busca posicionar a Costa Rica frente a desafíos como inteligencia artificial y automatización robótica.",
+      "keyProposals": [
+        "Política nacional de desarrollo productivo con visión de futuro hacia IA y automatización",
+        "Eliminar requisitos burocráticos y crear sistema progresivo para formalización de microempresas",
+        "No penalizar retroactivamente a emprendedores que transicionen de informalidad a formalidad",
+        "Fortalecer sectores agro y turismo como motores inmediatos de desarrollo en zonas rurales",
+        "Diversificar economía mediante mejor educación y desarrollo de talento humano",
+        "Aumentar base contributiva incorporando sector informal al régimen de pensiones",
+        "Mejorar infraestructura vial y conectividad en todo el territorio nacional"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "education",
+      "summary": "Considera la educación como absolutamente fundamental para el desarrollo del talento humano y la movilidad social. Propone transformación del sistema educativo con énfasis en aspectos básicos que actualmente fallan: comedores, transporte escolar, becas. Critica duramente la pérdida de 115,000 becas Avancemos en la administración actual, vinculándola con deserción escolar y vulnerabilidad ante crimen organizado. Su visión incluye modernización curricular con enfoque en Colegios Técnicos Profesionales, pasantías y educación dual para facilitar inserción laboral.",
+      "keyProposals": [
+        "Aumento progresivo del presupuesto de educación con compromiso en plan de gobierno",
+        "Recuperar y aumentar 115,000 becas Avancemos perdidas como programa de equidad",
+        "Mejorar sistema de comedores escolares (niños con hambre no aprenden)",
+        "Fortalecer transporte escolar para evitar exclusión por falta de acceso",
+        "Transformar mallas curriculares priorizando Colegios Técnicos Profesionales (CTP)",
+        "Implementar pasantías y educación dual vinculando estudiantes con sector privado",
+        "Regionalizar mallas curriculares de CTP según sectores productivos locales",
+        "Acuerdo nacional por la educación con sector universitario público y privado",
+        "Certificaciones y microcertificaciones mediante INA y otras instituciones",
+        "Inclusión real para personas con discapacidad adaptando sistema a sus necesidades"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone aumentar la inversión social en salud como parte de su compromiso general de mayor gasto social sin comprometer finanzas públicas. Vincula salud con el sistema nacional de cuidados y atención a poblaciones vulnerables. Menciona que la administración anterior tomó decisiones difíciles que ahora permiten mayor inversión social, pero el gobierno actual no lo hace por falta de voluntad política.",
+      "keyProposals": [
+        "Aumentar inversión social en salud e infraestructura de salud",
+        "Fortalecer atención a poblaciones vulnerables en sistema de salud",
+        "Inversión social efectiva y eficiente para generar movilidad social"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Muestra compromiso profundo con el sector agropecuario, al cual considera aliado histórico de su movimiento político. Vincula la crisis del sector con seguridad nacional: pérdida de empleos formales en zonas rurales facilita avance del narcotráfico. Critica severamente a la administración actual por destruir proactivamente el sector en momento geopolítico que requiere seguridad alimentaria. Enfatiza que agro y turismo son los únicos motores de empleo digno en zonas rurales y costeras. Firmó pacto por el agro con organizaciones del sector.",
+      "keyProposals": [
+        "Recuperar empleos perdidos en sector agropecuario como prioridad inmediata",
+        "Implementar 10 compromisos del Pacto por el Agro firmado con organizaciones del sector",
+        "Esquemas de financiamiento reales y diferenciados para productores",
+        "Restablecer seguros de cosechas indexados con disparadores climáticos automáticos",
+        "Garantizar seguridad alimentaria manteniendo producción nacional robusta",
+        "Apoyo directo al sector como estrategia de seguridad nacional contra narcotráfico",
+        "Mejorar infraestructura vial en zonas rurales productoras",
+        "Aumentar conectividad digital en regiones agropecuarias",
+        "Vinculación de CTPs con sectores productivos agropecuarios locales"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Integra consideraciones ambientales en su propuesta de desarrollo urbano y transporte. Los estudios de factibilidad del tren que dejó en la administración anterior incorporaban por primera vez perspectiva ambiental junto con análisis de género y accesibilidad. Propone ciudades accesibles y sistemas de transporte que reduzcan dependencia del vehículo privado. Su enfoque busca compatibilizar desarrollo económico con sostenibilidad ambiental.",
+      "keyProposals": [
+        "Proyectos de infraestructura con enfoque integral de sostenibilidad ambiental",
+        "Sistema de transporte público moderno y eficiente que reduzca uso de vehículo privado",
+        "Ciudades accesibles con infraestructura urbana sostenible",
+        "Integrar consideraciones ambientales en desarrollo de zonas rurales y costeras"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reformas estructurales para garantizar sostenibilidad del régimen de pensiones ante cambio demográfico (pirámide poblacional invertida). Su enfoque combina tres pilares: crecimiento económico, aumento de base contributiva mediante formalización, e inyección de fondos extraordinarios. Rechaza narrativas punitivas y propone reformas institucionales para facilitar emprendimiento y formalización progresiva. Busca modernizar Estado para responder a desafíos del siglo XXI.",
+      "keyProposals": [
+        "Reforma del régimen de pensiones mediante crecimiento económico y competitividad",
+        "Aumentar base contributiva incorporando 40-45% de población en informalidad",
+        "Inyectar fondos del FLAR al sistema de pensiones para sostenibilidad",
+        "Sistema progresivo de cotización para transición gradual de informal a formal",
+        "Eliminar penalizaciones retroactivas a emprendedores que se formalizan",
+        "Modernizar institucionalidad para convertirla en facilitadora (no obstáculo) del crecimiento",
+        "Reforma regulatoria eliminando requisitos innecesarios para micro y pequeñas empresas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Su propuesta social es integral y transversal, enfocada en 'no dejar a nadie atrás' con especial atención a poblaciones vulnerables. Lanzó programa 'Familias Primero' enfocado en familias jefeadas por mujeres. Propone sistema nacional de cuidados bajo principio de corresponsabilidad social. Su visión personal (esposa, madre, profesional) informa políticas de género y conciliación trabajo-familia. Reconoce interseccionalidad: ser mujer, con discapacidad, indígena, afrodescendiente o LGTB multiplica vulnerabilidades.",
+      "keyProposals": [
+        "Programa 'Familias Primero' con apoyo integral a familias jefeadas por mujeres",
+        "Fortalecer sistema nacional de cuidados con corresponsabilidad Estado-sociedad",
+        "Vivienda de interés social con financiamiento accesible para familias vulnerables",
+        "Apoyo a mujeres: capacitación, cuido infantil, financiamiento semilla, eliminación de trabas",
+        "Hacer valer ley del 5% de plazas para personas con discapacidad en sector público",
+        "Trabajar con sector privado para empleabilidad de personas con discapacidad",
+        "Accesibilidad universal: ciudades, transporte público (buses USEES), espacios públicos",
+        "Políticas con enfoque interseccional reconociendo vulnerabilidades múltiples",
+        "Participación activa de comunidades indígenas y afrodescendientes en decisiones que les afectan",
+        "Respeto a cosmovisión indígena y diversidad cultural",
+        "Política migratoria basada en dignidad humana, derechos humanos, orden y legalidad",
+        "Financiamiento diferenciado para personas jóvenes (vivienda, emprendimiento)",
+        "Enfoque preventivo de seguridad mediante inversión social en comunidades vulnerables"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-11"
+}

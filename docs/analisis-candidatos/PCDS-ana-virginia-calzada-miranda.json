@@ -1,0 +1,106 @@
+{
+  "party": "PCDS",
+  "candidate": "Ana Virginia Calzada Miranda",
+  "overallSummary": "Ana Virginia Calzada del PCDS enfatiza su experiencia de 20 años en la Sala Constitucional defendiendo derechos humanos. Su plataforma se centra en protección de poblaciones vulnerables (mujeres, niñez, adultos mayores), inclusión de personas con discapacidad, combate preventivo al crimen, reconstrucción de la clase media, y reforma educativa. Propone sacar niños del sicariato ofreciendo oportunidades, apoyar mujeres emprendedoras, y reducir la brecha entre ricos y pobres. Su visión incluye: no más femicidios, educación de calidad, reducir desigualdad, y rescatar la democracia que considera en peligro de tiranía.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Enfoque en rescatar niños y jóvenes del crimen organizado y sicariato. Combate al narcotráfico mediante oportunidades de desarrollo.",
+      "keyProposals": [
+        "Sacar niños de 12 años del sicariato y jóvenes del crimen organizado",
+        "Robar jóvenes al narcotráfico ofreciendo oportunidades de estudio y trabajo",
+        "Enfoque preventivo: que los niños tengan juguetes o libros en vez de armas"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Apoyo a mujeres emprendedoras y empresas regionales. Reducir brechas entre ricos y pobres, reconstruir clase media.",
+      "keyProposals": [
+        "Subvención del Estado en primer año para pymes de mujeres (pago de Caja Costarricense de Seguro Social)",
+        "Exoneraciones en primer año para mujeres emprendedoras",
+        "Incentivos a empresas regionales que contraten mujeres y jóvenes",
+        "Modificación de bonos de vivienda para jóvenes (primera vivienda)",
+        "Acceso a créditos blandos para mujeres en sector formal",
+        "Reducir intermediarios en productos agrícolas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "education",
+      "summary": "Revertir el apagón educativo. Solo 10% recibe educación completa. Crear centros educativos seguros y modernizar la oferta educativa.",
+      "keyProposals": [
+        "Enderezar rumbo educativo: actualmente solo 10% completa educación, 90% no",
+        "Fortalecer INA y educación técnica flexible",
+        "Reconstruir 800 escuelas con infraestructura deficiente (órdenes sanitarias)",
+        "Crear centros educativos seguros como centros de comunidad",
+        "Educación desde edad escolar para profesiones del siglo XXI (no tradicionales)",
+        "Reforzamiento académico en centros: inglés, matemáticas, otros idiomas",
+        "Educación intergeneracional: adultos mayores comparten experiencia, niños dan tecnología",
+        "Restaurar educación cívica tradicional sobre democracia y derechos",
+        "Fortalecer PANI (Patronato Nacional de la Infancia)"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "No se mencionaron propuestas explícitas específicas de salud o CCSS en el texto analizado.",
+      "keyProposals": [],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Acompañamiento integral al sector agro con créditos blandos y reducción de intermediarios. Fortalecer seguridad alimentaria.",
+      "keyProposals": [
+        "Créditos blandos para agricultores",
+        "Proceso de reconstrucción del agro con acompañamiento",
+        "Crear plan de seguridad alimentaria (actualmente solo hay reservas para 3-4 meses)",
+        "Reducir o eliminar intermediarios para que agricultores reciban precio justo",
+        "Etiquetar productos nacionales en supermercados mostrando precio al agricultor"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "environment",
+      "summary": "No se mencionaron propuestas explícitas sobre medio ambiente, cambio climático o recursos naturales.",
+      "keyProposals": [],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Reforma migratoria para formalización. Enfoque en reinserción social del sistema penitenciario.",
+      "keyProposals": [
+        "Suavizar trámites migratorios para reducir tiempo de permisos de trabajo",
+        "Formalizar trabajadores migrantes: que coticen en caja y paguen impuestos",
+        "Política migratoria: bienvenida quien venga a trabajar, no quien venga a delinquir",
+        "Reinserción social de personas privadas de libertad mediante proyectos productivos",
+        "Flexibilizar educación técnica (actualmente condiciona bachillerato)",
+        "Negociar con pueblos indígenas y afrodescendientes sobre territorios traslapados"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Protección a mujeres víctimas de violencia, inclusión de personas con discapacidad, pensión universal para adultos mayores, ciudades accesibles.",
+      "keyProposals": [
+        "Programa Alerta Naranja: seguimiento 24/7 a mujeres agredidas",
+        "Medios electrónicos para detectar si agresor se acerca a la víctima",
+        "Construir más albergues para mujeres (vía responsabilidad social empresarial)",
+        "Capacitación laboral en albergues para empoderar a las mujeres",
+        "Ciudades accesibles para personas con discapacidad",
+        "Más oportunidades de trabajo e inclusión para personas con discapacidad",
+        "Pensión universal para adultos mayores sin acceso a medios económicos",
+        "Transporte seguro y accesible para adultos mayores",
+        "Ciudades accesibles para adultos mayores (aceras, transporte)",
+        "Respeto y agradecimiento a adultos mayores",
+        "Inversión social sostenida en niñez: cuido, salud, educación",
+        "Albergues seguros para menores",
+        "Pasar mujeres emprendedoras al sector formal",
+        "Incentivar turismo local en zonas costeras",
+        "Flexibilizar tarifas de CCSS para empresas turísticas según temporada"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T02:21:00.000Z"
+}

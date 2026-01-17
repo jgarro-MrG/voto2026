@@ -1,0 +1,99 @@
+{
+  "party": "PPSO",
+  "candidate": "Laura Fernandez Delgado",
+  "overallSummary": "Laura Fernández se presenta como una candidata con experiencia en gobierno (fue ministra de Planificación y de la Presidencia con Rodrigo Chávez) que busca ser recordada como la 'gran transformadora del Estado'. Su visión combina modernización institucional, lucha contra la corrupción, reforma del Estado y resolución de problemas estructurales. Defiende un enfoque de eficiencia del gasto público manteniendo disciplina fiscal, pero con inversión estratégica en infraestructura y desarrollo regional, especialmente fuera del GAM.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone un enfoque de mano dura contra el crimen organizado y la delincuencia. Enfatiza endurecer penas, especialmente para sicariato y narcotráfico, y recuperar el control de las cárceles. Crítica de la impunidad actual y de un sistema que prioriza derechos de privados de libertad sobre víctimas. Defiende revisión del Código Procesal Penal y Penal Juvenil.",
+      "keyProposals": [
+        "Endurecer penas para delitos de sicariato, narcotráfico y crimen organizado",
+        "Revisar Código Procesal Penal y Código Penal Juvenil para aumentar castigos",
+        "Recuperar control del Ministerio de Justicia sobre las cárceles y poner a privados de libertad a trabajar en proyectos productivos",
+        "Aumentar penas a la violencia contra mujeres con sanciones más fuertes"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Enfatiza la importancia de mantener orden en las finanzas públicas y disciplina fiscal como base para cualquier inversión social. Propone continuar atrayendo inversión extranjera y aprobar reformas estructurales pendientes como jornadas excepcionales. Defiende venta de bancos estatales (BICSA, BCR) para capitalizar el régimen de pensiones del IVM, manteniendo solo el Banco Nacional fortalecido.",
+      "keyProposals": [
+        "Aprobar ley de jornadas excepcionales para atraer inversión en zonas francas",
+        "Vender BICSA y BCR para inyectar recursos (aprox $1800 millones) al régimen de pensiones del IVM de la CCSS",
+        "Modernizar el mercado eléctrico nacional para aumentar disponibilidad de energía",
+        "Continuar políticas de eficiencia en el gasto público y crecimiento económico"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "education",
+      "summary": "Propone una transformación profunda del sistema educativo enfocada en actualización tecnológica y pertinencia laboral. Busca incorporar robótica, inteligencia artificial y actualizar programas del MEP. Gran énfasis en reforma del INA para hacerlo más flexible, con modalidad virtual y horarios extendidos que permitan a personas trabajadoras capacitarse.",
+      "keyProposals": [
+        "Transformar el INA para ofrecer modalidad virtual con horarios nocturnos y flexibles, adaptados a personas que trabajan",
+        "Reformar modalidad de contratación de instructores del INA para alinear oferta académica con demanda laboral",
+        "Incorporar robótica, inteligencia artificial y actualización de programas educativos del MEP",
+        "Dotar a docentes de herramientas específicas para atención diferenciada de estudiantes con discapacidad"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "health",
+      "summary": "Su principal propuesta en salud se enfoca en el tema de pensiones, proponiendo capitalizar el régimen de IVM de la CCSS mediante venta de bancos estatales. Rechaza aumentar edad de jubilación o incrementar cargas sociales. Propone ampliar cobertura del régimen no contributivo tomando 0.25% de la cuota obrero-patronal que va al Banco Popular.",
+      "keyProposals": [
+        "Capitalizar el IVM de la CCSS con recursos de venta del BCR (aprox $1800 millones de dólares)",
+        "Ampliar régimen de pensiones no contributivas redirigiendo 0.25% de cuota obrero-patronal del Banco Popular",
+        "No aumentar edad de jubilación ni cargas sociales a trabajadores y patronos",
+        "Aumentar monto y cobertura de pensiones del régimen no contributivo"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Reconoce limitaciones territoriales para autosuficiencia alimentaria por áreas protegidas, pero propone modernización institucional del sector. Enfatiza actualización de legislación agropecuaria (40 años sin reformarse), seguros agrícolas, combate al contrabando y comercio ilícito, y agricultura de precisión con tecnología. Propone transformación del MAG, SENASA y extensión agrícola.",
+      "keyProposals": [
+        "Actualizar ley del sector agropecuario (40 años sin reforma) incorporando cambio climático, gestión de riesgos y seguros",
+        "Implementar seguros agropecuarios con apoyo estatal en primas (proyecto diseñado con INS)",
+        "Estrategia de cero tolerancia al contrabando y comercio ilícito en frutas, carne y lácteos",
+        "Transformar extensión agrícola del MAG para estar en fincas junto a productores",
+        "Promover agricultura de precisión con drones, inteligencia artificial y tecnología",
+        "Mejorar programa nacional de semillas y etiquetado de alimentos"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "No se abordó específicamente el tema ambiental en términos de políticas de protección o cambio climático. Se menciona tangencialmente al hablar de seguridad alimentaria, reconociendo que gran parte del territorio nacional está dedicado a áreas de conservación y patrimonio natural, lo que limita territorio para actividades productivas.",
+      "keyProposals": [
+        "Planes forestales para territorios indígenas para recibir recursos de pago de servicios ambientales del FONAFIFO (ya implementado en gobierno Chávez)"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Su propuesta central es la transformación del Estado y modernización institucional. Quiere ser recordada como 'la gran transformadora del Estado' que eliminó la corrupción. Propone reformas en CONAPDIS, INAMU, PANI, MAG, INA y digitalización de servicios públicos. Enfatiza eliminar burocracia y tramitología, especialmente para poblaciones en regiones fuera de San José.",
+      "keyProposals": [
+        "Reforma integral del CONAPDIS: eliminar burocracia, digitalizar procesos, evaluar su ubicación en Ministerio de Trabajo",
+        "Hacer accesibles todas las páginas web e instituciones públicas para personas con discapacidad",
+        "Reformar INAMU para focalizar mejor atención a mujeres víctimas de violencia",
+        "Regionalizar y modernizar el PANI con mayor presencia en costas y fronteras",
+        "Transformación institucional del MAG, SENASA y servicio fitosanitario",
+        "Eliminar corrupción y poner instituciones al servicio de la ciudadanía"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Propone fortalecer redes de cuido tanto para niños como adultos mayores, lo que vincula directamente con empoderamiento económico de mujeres. Enfatiza independencia económica sobre asistencialismo, promoviendo capacitación y empleo. Defiende enfoque de no institucionalización de niños salvo casos extremos. Critica abandono de jóvenes de albergues PANI al cumplir 18 años. Propone vivienda de interés social con fast-track.",
+      "keyProposals": [
+        "Fortalecer y ampliar red de cuido de niños y adultos mayores, aumentando cobertura y regionalización",
+        "Promover independencia económica de mujeres mediante capacitación en INA reformado",
+        "Programas de vivienda de interés social con fast-track, especialmente para jóvenes y personas con discapacidad",
+        "Programa 'ABC de la discapacidad': capacitación para todo el sector público",
+        "Enfoque de no institucionalización de niños y acompañamiento post-18 años para jóvenes de albergues PANI",
+        "Ampliar cobertura y monto de pensiones no contributivas"
+      ],
+      "stance": "moderate"
+    }
+  ],
+  "generatedAt": "2026-01-11T00:00:00Z"
+}

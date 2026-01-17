@@ -1,0 +1,104 @@
+{
+  "party": "CR1",
+  "candidate": "Douglas Caamaño Quirós",
+  "overallSummary": "Douglas Caamaño Quirós presenta una agenda centrada en la transparencia, la reducción del gasto público y la reorganización del Estado. Su enfoque principal está en combatir la corrupción mediante la reducción del tamaño del gobierno, eliminar privilegios de políticos, y promover una mayor participación ciudadana en las decisiones. Propone reformas profundas al sistema político incluyendo consultas populares y auditorías a instituciones públicas. En lo económico, defiende el libre mercado con reducción de impuestos y menos intervención estatal. Su postura es fuertemente anti-establishment, criticando al bipartidismo tradicional (PLN y PUSC) y prometiendo devolver el poder a la ciudadanía.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone reformar el sistema de seguridad pública eliminando el Ministerio de Seguridad y creando una Secretaría de Seguridad Ciudadana bajo la Presidencia. Enfatiza la necesidad de auditar las instituciones de seguridad, eliminar la corrupción policial y garantizar que los recursos lleguen efectivamente a los policías de calle. Plantea mejoras en las condiciones laborales de los oficiales y mayor coordinación entre fuerzas de seguridad.",
+      "keyProposals": [
+        "Eliminar el Ministerio de Seguridad Pública y crear una Secretaría de Seguridad Ciudadana directamente bajo la Presidencia",
+        "Realizar auditorías exhaustivas del presupuesto de seguridad para eliminar corrupción",
+        "Mejorar las condiciones laborales y salariales de los policías de calle",
+        "Garantizar que el presupuesto de seguridad llegue efectivamente a los oficiales y no se quede en intermediarios"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Defiende un modelo económico de libre mercado con mínima intervención estatal. Propone reducir impuestos, eliminar trabas burocráticas para emprendedores, y recortar el gasto público significativamente. Critica el tamaño del Estado y propone reducir ministerios y fusionar instituciones. Su enfoque es pro-empresa privada, anti-monopolios estatales, y favorable a la competencia libre. Plantea eliminar privilegios fiscales de políticos y reducir el aparato gubernamental.",
+      "keyProposals": [
+        "Reducir el número de ministerios de 23 a aproximadamente 12-14",
+        "Eliminar impuestos y reducir la carga tributaria sobre empresas y ciudadanos",
+        "Eliminar trabas burocráticas que dificultan el emprendimiento",
+        "Reducir el gasto público eliminando privilegios de diputados y funcionarios de alto nivel",
+        "Promover libre competencia y eliminar monopolios estatales",
+        "Fusionar instituciones públicas para reducir duplicidad y costos"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "education",
+      "summary": "Critica fuertemente el sistema educativo actual, especialmente el MEP, por considerar que está politizado y no responde a las necesidades reales. Propone auditar profundamente el MEP, reducir su burocracia y garantizar que los recursos lleguen a las aulas. Defiende la libertad educativa y critica el adoctrinamiento ideológico en escuelas. Plantea mayor autonomía para centros educativos y participación de padres de familia en decisiones educativas.",
+      "keyProposals": [
+        "Auditar exhaustivamente el Ministerio de Educación Pública",
+        "Reducir la burocracia administrativa del MEP y dirigir más recursos a las aulas",
+        "Eliminar contenidos ideológicos y políticos de los programas educativos",
+        "Garantizar libertad educativa y mayor participación de padres en decisiones escolares",
+        "Mejorar condiciones de infraestructura educativa"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone reformar la CCSS eliminando privilegios de la cúpula administrativa y garantizando que el presupuesto se destine efectivamente a la atención médica. Critica la corrupción y el mal manejo de recursos en la institución. Defiende el derecho a servicios de salud de calidad y plantea auditorías para mejorar la eficiencia. Menciona la necesidad de mejorar salarios del personal médico y reducir tiempos de espera.",
+      "keyProposals": [
+        "Realizar auditoría completa de la CCSS para identificar y eliminar corrupción",
+        "Eliminar privilegios y lujos de los jerarcas de la CCSS",
+        "Mejorar salarios y condiciones del personal médico y de enfermería",
+        "Reducir tiempos de espera para citas y cirugías",
+        "Garantizar que el presupuesto de salud se destine efectivamente a la atención de pacientes"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Defiende al sector agrícola nacional criticando los tratados de libre comercio que considera han perjudicado a los productores locales. Propone eliminar trabas burocráticas que dificultan la producción agropecuaria, reducir costos de insumos y apoyar la competitividad del sector. Menciona la necesidad de proteger a pequeños y medianos productores frente a la competencia desleal de importaciones subsidiadas.",
+      "keyProposals": [
+        "Revisar tratados de libre comercio que perjudican a productores nacionales",
+        "Eliminar trabas burocráticas para la producción agropecuaria",
+        "Reducir costos de insumos agrícolas",
+        "Apoyar a pequeños y medianos productores",
+        "Proteger la producción nacional frente a importaciones subsidiadas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona la importancia de proteger el medio ambiente pero critica políticas que considera exageradas o que perjudican el desarrollo económico. Su enfoque parece equilibrar conservación con desarrollo productivo, cuestionando regulaciones ambientales que considera excesivas.",
+      "keyProposals": [
+        "Balancear protección ambiental con desarrollo económico",
+        "Revisar regulaciones ambientales que considera excesivas o que frenan la producción"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Su propuesta central es una reforma profunda del Estado y del sistema político. Plantea implementar mecanismos de democracia directa como consultas populares vinculantes, revocatoria de mandato, e iniciativa popular. Propone reformar la Asamblea Legislativa eliminando privilegios de diputados, reduciendo su número y limitando la reelección. Busca descentralizar el poder y devolverlo a la ciudadanía mediante referéndums sobre decisiones importantes.",
+      "keyProposals": [
+        "Implementar consultas populares vinculantes para decisiones importantes del gobierno",
+        "Establecer revocatoria de mandato para funcionarios electos",
+        "Implementar iniciativa popular para presentación de leyes",
+        "Reducir el número de diputados y eliminar sus privilegios (carros, choferes, pensiones especiales)",
+        "Limitar la reelección de diputados y otros funcionarios",
+        "Establecer mecanismos de rendición de cuentas y transparencia total",
+        "Permitir referéndums vinculantes sobre tratados internacionales y decisiones estratégicas"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Su enfoque social se centra en reducir el asistencialismo estatal y promover oportunidades mediante reducción de impuestos y eliminación de barreras burocráticas. Critica los programas sociales que considera clientelistas. Defiende valores tradicionales de familia y se opone a lo que considera 'ideología de género' en escuelas. Propone ayudas focalizadas en casos de verdadera necesidad pero priorizando la generación de empleo y emprendimiento como solución a la pobreza.",
+      "keyProposals": [
+        "Reducir programas asistencialistas y promover generación de empleo",
+        "Eliminar barreras para que las personas puedan emprender y generar ingresos",
+        "Focalizar ayudas sociales en casos de verdadera necesidad",
+        "Defender valores tradicionales de familia",
+        "Eliminar contenidos de 'ideología de género' en educación",
+        "Promover emprendimiento como solución a la pobreza"
+      ],
+      "stance": "conservative"
+    }
+  ],
+  "generatedAt": "2026-01-12T10:09:10.089140"
+}

@@ -1,0 +1,118 @@
+{
+  "party": "PIN",
+  "candidate": "Luis Esteban Amador Jimenez",
+  "overallSummary": "Luis Amador propone un modelo de desarrollo basado en su experiencia internacional (Canadá, Emiratos Árabes, Qatar) y como exministro de Obras Públicas. Su visión busca transformar Costa Rica en un país desarrollado mediante concesiones, titularización de activos, modernización de infraestructura y apertura de oportunidades educativas y laborales. Enfatiza la liberación de recursos presupuestarios mediante esquemas de financiamiento alternativos para invertir en programas sociales. Propone reformas en educación (curricular hacia destrezas prácticas), modernización agrícola, desarrollo de zonas económicas especiales y mejora de infraestructura (transporte, aeropuertos, ferrocarril interoceánico).",
+  "dimensions": [
+    {
+      "name": "security",
+      "summary": "No presenta propuestas específicas de seguridad ciudadana. Menciona brevemente programas de prevención de violencia contra mujeres en el sector público y la necesidad de reinserción para ciertos delitos, pero sin detallar estrategias de combate al crimen organizado o fortalecimiento policial.",
+      "keyProposals": [
+        "Programas obligatorios cada dos meses sobre prevención de violencia y acoso (harassment) en el sector público",
+        "Entrenamientos de concientización con evaluaciones (quiz) para empleados públicos",
+        "Políticas públicas que obligan al sector privado a implementar programas similares de prevención de violencia",
+        "Programas de reinserción para personas privadas de libertad que permitan aprender oficios y reinsertarse según magnitud del delito"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "name": "economy",
+      "summary": "Propone un modelo de desarrollo económico basado en liberación de recursos presupuestarios mediante concesiones, titularización de activos (gas natural, hidrocarburos) y esquemas de financiamiento alternativos. Busca reducir presión fiscal, negociar mejores tasas de interés en deuda internacional y generar empleo mediante zonas francas, infraestructura y sectores no tradicionales.",
+      "keyProposals": [
+        "Esquema de concesión y titularización para liberar presión presupuestaria y financiar programas sociales",
+        "Certificación de recursos de gas natural e hidrocarburos para negociar mejores tasas de interés en deuda internacional",
+        "Utilización de zona marítimo-terrestre mediante concesiones de 20 años a municipalidades para generar recursos",
+        "Construcción de aeropuerto en zona sur y expansión de infraestructura (ruta 32, ruta 35) para generar empleo",
+        "Desarrollo de ferrocarril interoceánico para conectar carga y atraer empresas internacionales",
+        "Apertura de dos puertos adicionales (Jabillo como granelero) para acelerar crecimiento",
+        "Expansión de zonas francas en el GAM y otras regiones para generar nuevas fuentes de empleo",
+        "Desarrollo de sectores no tradicionales: industria automotriz, manufactura de equipos y herramientas, dispositivos médicos",
+        "Modelo educativo vinculado con industria mediante alianzas gobierno-industria para incubadoras de empresas",
+        "Programas de apoyo financiero con seguros de riesgo pagados por el Estado para personas de edad con bajos ingresos"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "education",
+      "summary": "Propone una reforma curricular profunda que abandone el conocimiento memorístico y se enfoque en desarrollo de destrezas, habilidades y aplicación práctica del conocimiento. Busca vincular educación con mercado laboral mediante alianzas universidad-industria y abrir oportunidades de educación universitaria gratuita según capacidades.",
+      "keyProposals": [
+        "Reforma curricular que elimina el sistema memorístico y enfoca en desarrollo de destrezas y habilidades aplicables",
+        "Enseñanza de técnicas prácticas desde el colegio para que estudiantes puedan aplicar conocimiento",
+        "Universidad gratuita para ciertas poblaciones según sus capacidades",
+        "Modelo de financiamiento universitario orientado a investigación con participación de industria",
+        "Alianzas gobierno-industria para financiar proyectos específicos e incubadoras de empresas",
+        "Apertura de puertas para que estudiantes trabajen mientras estudian en universidades",
+        "Programa de psicopedagogos en escuelas para acompañar estudiantes con deficiencias en capacidades de aprendizaje",
+        "Acceso educativo mejorado para personas en zonas rurales (ejemplo: antenas satelitales UNET)"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "name": "health",
+      "summary": "No presenta propuestas específicas detalladas sobre el sistema de salud. Menciona únicamente la necesidad de inversión social sostenida en salud mediante liberación de recursos presupuestarios, pero no detalla reformas, reducción de listas de espera o mejoras en servicios de la CCSS.",
+      "keyProposals": [
+        "Inversión social sostenida en salud mediante liberación de recursos presupuestarios",
+        "Uso de esquemas de concesión y titularización para financiar programas de salud",
+        "Redes de cuido para que madres puedan dejar niños y adultos mayores (integración de servicios)"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "name": "agriculture",
+      "summary": "Propone modernización integral del sector agrícola mediante apoyo técnico, financiero y tecnológico. Busca evolucionar de agricultura de subsistencia hacia seguridad alimentaria y agroindustria de valor agregado, garantizando precios y mercados para productores.",
+      "keyProposals": [
+        "Enseñanza de técnicas modernas de producción (hidroponía) y equipos modernos",
+        "Apoyo financiero a través de la banca pública (Banco Nacional, MAC)",
+        "Protección mediante Canon para uso adecuado de recursos y apoyo tecnológico",
+        "Evolución hacia agroindustria: no solo producir yuca sino productos terminados (enyucado congelado, productos empacados)",
+        "Garantía de compra por parte del CNP y otras instituciones públicas (sistema educativo, carcelario) a precio fijo para dar tranquilidad a agricultores",
+        "Apoyo técnico y modernización del sector agrícola a través del MAG",
+        "Sistema de comercialización mediante PROCOMER para acceso a mercados internacionales",
+        "Transición hacia autosuficiencia alimentaria siguiendo modelos de países como los del Medio Oriente"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "environment",
+      "summary": "No menciona propuestas específicas sobre políticas ambientales, energías renovables, cambio climático o conservación. Solo hace referencia indirecta al uso del Canon (recursos naturales) como fuente de financiamiento para apoyo tecnológico al agro.",
+      "keyProposals": [
+        "Uso del Canon para apoyo tecnológico en agricultura",
+        "Fondos de FONAFIFO para comunidades indígenas como ingreso por conservación de montañas"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "name": "reforms",
+      "summary": "Propone reformas estructurales en educación (curricular), mejoramiento urbano mediante códigos que protejan patrimonio arquitectónico, y modernización de infraestructura. Menciona necesidad de instrumentalizar recursos del Estado mediante concesiones y esquemas de financiamiento alternativos.",
+      "keyProposals": [
+        "Reforma curricular educativa basada en desarrollo de destrezas en lugar de conocimiento memorístico",
+        "Código urbano que protege joyas arquitectónicas y obliga armonización de fachadas con patrimonio histórico",
+        "Mejoramiento de barrios urbanos: soterrado de cables, creación de estacionamientos públicos",
+        "Instrumentalización de recursos estatales mediante concesiones y titularización",
+        "Reforma en transporte público: compra obligatoria de buses urbanos con piso bajo y rampa (desde octubre del año anterior)",
+        "Expansión de zonas francas y desarrollo de sectores económicos no tradicionales",
+        "Regulación fronteriza y sistema de canon para residencia/ciudadanía de migrantes de alto nivel (expats)"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "social",
+      "summary": "Enfoca en inclusión para personas con discapacidad, mujeres, niñez, adultos mayores y poblaciones indígenas. Propone redes de cuido, programas de apoyo económico para personas de edad con bajos ingresos, mejoras en accesibilidad física y oportunidades para jóvenes mediante vinculación educación-empleo.",
+      "keyProposals": [
+        "Mejoras en accesibilidad: aceras con rampas, buses urbanos con piso bajo y rampa para personas con discapacidad",
+        "Garantía de transporte público accesible en rutas urbanas y rurales",
+        "Programas de prevención de acoso y violencia contra mujeres en sector público y privado",
+        "Redes de cuido para niños y adultos mayores integradas en estaciones de tren y áreas comunes",
+        "Programas de apoyo financiero para personas de edad con pensiones bajas (17,000-20,000 colones) mediante seguros de riesgo pagados por el Estado",
+        "Sistema de apoyo para pago de alquiler mediante seguros que el Estado paga a bancos",
+        "Desarrollo turístico en comunidades indígenas (turismo vivencial, cultural) y sistema tipo duty-free en territorios indígenas",
+        "Acceso a recursos de FONAFIFO para comunidades indígenas como fuente de ingreso",
+        "Capacitación y conectividad (antenas satelitales UNET) en zonas remotas y comunidades marginalizadas",
+        "Coparticipación de comunidades indígenas en decisiones estatales respetando su cosmovisión",
+        "Regularización migratoria con programas de acompañamiento para que población migrante pueda trabajar en sectores que costarricenses no desean",
+        "Sistema de canon para otorgar residencia/ciudadanía a migrantes de alto nivel (expats) para subsidiar poblaciones vulnerables"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T16:30:00-06:00"
+}

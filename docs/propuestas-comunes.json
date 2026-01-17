@@ -1,0 +1,1148 @@
+{
+  "metadata": {
+    "descripcion": "Propuestas agrupadas por similitud de los 20 candidatos presidenciales 2026",
+    "totalCandidatos": 20,
+    "partidos": ["ACRM", "CR1", "FA", "PA", "PCAC", "PCDS", "PDLCT", "PEL", "PEN", "PIN", "PJSC", "PLN", "PLP", "PNG", "PNR", "PPSD", "PPSO", "PUCD", "PUSC", "UP"],
+    "generadoEn": "2026-01-16"
+  },
+  "security": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Endurecer penas para delitos graves (sicariato, narcotrafico, crimen organizado)",
+        "candidatos": ["ACRM", "CR1", "PEN", "PNG", "PNR", "PPSD", "PPSO"],
+        "variantes": [
+          "Endurecer las penas para delitos graves",
+          "Mano dura con aumento de penas hasta 50 años para sicariato",
+          "Reformas legislativas para endurecer penas y asegurar cumplimiento efectivo de sentencias",
+          "Endurecer penas para delitos de sicariato, narcotrafico y crimen organizado",
+          "Reforma al procedimiento penal para eliminar medidas alternativas en casos de femicidios, sicariato y narcotrafico"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma del sistema carcelario con enfoque en trabajo obligatorio y rehabilitacion",
+        "candidatos": ["ACRM", "PA", "PCDS", "PDLCT", "PEN", "PIN", "PJSC", "PNG", "PPSD", "PPSO", "UP"],
+        "variantes": [
+          "Hacer que poblacion privada de libertad trabaje para no ser carga del Estado",
+          "Reformar sistema penitenciario con enfoque diferenciado segun tipo de delito",
+          "Programas de reinsercion para personas privadas de libertad",
+          "Reforma del sistema carcelario con enfoque rehabilitador",
+          "Mejora de condiciones carcelarias para dignificar a las personas privadas de libertad",
+          "Trabajo obligatorio para privados de libertad",
+          "Reforma al sistema carcelario con dignificacion a traves del trabajo",
+          "Recuperar control del Ministerio de Justicia sobre las carceles y poner a privados de libertad a trabajar"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer y mejorar condiciones de la policia",
+        "candidatos": ["ACRM", "CR1", "PEN", "PLN"],
+        "variantes": [
+          "Fortalecer policia con mecanismos de choque y control de bandas organizadas",
+          "Mejorar las condiciones laborales y salariales de los policias de calle",
+          "Mejora salarial y de condiciones para oficiales de policia y guardas penitenciarios",
+          "Reforzar la policia y mejorar coordinacion con OIJ y fiscalia"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Crear unidades especializadas anticorrupcion y antinarcotrafico",
+        "candidatos": ["ACRM", "PLP"],
+        "variantes": [
+          "Crear unidades especializadas para combatir corrupcion, narcotrafico y crimen organizado",
+          "Aumentar recursos a la Fiscalia para contratar fiscales nuevos en areas de narcotrafico"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer control de fronteras",
+        "candidatos": ["PCAC", "PLN", "UP"],
+        "variantes": [
+          "Fortalecer control de fronteras y reaperturar punto de guardacostas en Bahia Drake",
+          "Restablecer controles fronterizos (maritimos, terrestres y aereos)",
+          "Control fronterizo con tecnologia y alianzas con sector privado"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Enfoque preventivo: rescatar jovenes del crimen mediante oportunidades",
+        "candidatos": ["PCDS", "PA", "PEL", "PEN", "UP"],
+        "variantes": [
+          "Sacar ninos de 12 anos del sicariato y jovenes del crimen organizado",
+          "Robar jovenes al narcotrafico ofreciendo oportunidades de estudio y trabajo",
+          "Combatir la tormenta perfecta de drogas, crimen y falta de valores en jovenes",
+          "Trabajo de prevencion con las familias para evitar que jovenes caigan en redes del narcotrafico",
+          "Enfoque preventivo trabajando con comunidades y jovenes en riesgo",
+          "Prevencion del crimen mediante oportunidades de empleo"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Estado de excepcion o medidas extraordinarias en zonas criticas",
+        "candidatos": ["PNR"],
+        "variantes": [
+          "Estado de excepcion para comunidades con alta criminalidad",
+          "Grupos policiales de choque contra crimen organizado"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer coordinacion entre fuerzas de seguridad y poder judicial",
+        "candidatos": ["PCAC", "PEN", "PLP"],
+        "variantes": [
+          "Activar el Consejo Nacional Presidencial de Seguridad para coordinar los tres poderes",
+          "Creacion de una Comision Nacional de Seguridad que coordine ministerios y entidades",
+          "Fortalecer capacidad del OIJ para investigar y de la Fiscalia para preparar casos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Colaboracion internacional contra crimen organizado",
+        "candidatos": ["ACRM"],
+        "variantes": [
+          "Fortalecer alianzas con agencias extranjeras (DEA, CIA, agencias colombiana, mexicana e italiana)"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Implementar tribunales especializados en delitos organizados",
+        "candidatos": ["ACRM"],
+        "variantes": [
+          "Implementar tribunales especializados en delitos organizados (ya aprobados pero sin presupuesto)"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Eliminar call centers y extorsiones desde carceles",
+        "candidatos": ["ACRM", "PCAC"],
+        "variantes": [
+          "Eliminar call centers y mecanismos de extorsion desde las carceles",
+          "Mejorar gestion carcelaria para evitar llamadas telefonicas desde prisiones"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Rechazar construccion de megacarcel",
+        "candidatos": ["PJSC", "PUSC"],
+        "variantes": [
+          "Rechazar construccion de megacarcel para 5,000 personas, crear centros de maximo 800 privados de libertad",
+          "Rechaza medidas populistas como megacarceles"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Separar criminales violentos de no violentos en sistema carcelario",
+        "candidatos": ["PLP", "PUSC", "UP"],
+        "variantes": [
+          "Invertir en nuevos modulos carcelarios y separacion de poblaciones criminales segun perfilamiento",
+          "Separar criminales violentos de no violentos y crear centro penitenciario especializado",
+          "Tipificacion de personas privadas de libertad por niveles segun delitos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Deportacion de delincuentes migrantes",
+        "candidatos": ["PNR", "UP"],
+        "variantes": [
+          "Deportacion de delincuentes migrantes",
+          "Deportacion inmediata de personas identificadas en redes de crimen organizado"
+        ]
+      }
+    ]
+  },
+  "economy": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Reducir cargas sociales e impuestos para emprendedores y PYMES",
+        "candidatos": ["ACRM", "CR1", "PA", "PEN", "PUSC"],
+        "variantes": [
+          "Eliminar impuesto de ventas para abaratar costo de vida",
+          "Reducir el numero de ministerios y el gasto publico",
+          "Reducir significativamente las cargas sociales que asfixian a pequenos y medianos empresarios",
+          "Reduccion significativa de la carga impositiva para empresas y ciudadanos",
+          "Reducir cargas sociales patronales de 26.6% a 19%"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Simplificar tramites y reducir burocracia para emprendedores",
+        "candidatos": ["ACRM", "CR1", "PA", "PCAC", "PEN", "PUCD"],
+        "variantes": [
+          "Simplificar tramites empresariales y permisos de construccion mediante plataforma digital unica",
+          "Eliminar trabas burocraticas que dificultan el emprendimiento",
+          "Simplificar tramitologia que constituye marana infernal para empresarios",
+          "Eliminar requisitos burocraticos para formalizacion de microempresas",
+          "Simplificacion y digitalizacion de tramites para reducir burocracia",
+          "Ventanilla unica del Estado para formalizar trabajadores informales"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Apoyo a pequenas y medianas empresas (PYMES)",
+        "candidatos": ["ACRM", "PA", "PCDS", "PEN", "PUCD"],
+        "variantes": [
+          "Transformar BPDC en banca de desarrollo enfocada en PYMES con capital semilla",
+          "Apoyar a pequenos y medianos empresarios que representan el 97.5% del sector",
+          "Exoneraciones en primer ano para mujeres emprendedoras",
+          "Apoyo a PYMES mediante acceso a credito y reduccion de cargas tributarias",
+          "Apoyo a las PYMES para incrementar su riqueza"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Atraer inversion extranjera y zonas francas",
+        "candidatos": ["ACRM", "PA", "PEN", "PIN", "PLP", "PPSD", "PPSO"],
+        "variantes": [
+          "Atraer inversion extranjera de alto valor agregado mediante ventanilla unica digital",
+          "Dar competitividad al sector turistico y agroindustria exportadora",
+          "Promocion de zonas francas y atraccion de inversion extranjera",
+          "Expansion de zonas francas en el GAM y otras regiones",
+          "Crear zonas economicas especiales con beneficios adicionales fuera del GAM",
+          "Creacion de polos de desarrollo en zonas costeras y rurales con inversion extranjera"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reducir aparato estatal y eliminar duplicidades institucionales",
+        "candidatos": ["ACRM", "CR1", "PEN"],
+        "variantes": [
+          "Reducir aparato estatal eliminando duplicidades y burocracia",
+          "Reducir el numero de ministerios de 23 a aproximadamente 12-14",
+          "Eliminacion de instituciones autonomas y semi-autonomas, centralizando funciones en ministerios"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Formalizar economia informal",
+        "candidatos": ["PCAC", "PLP", "PUCD", "UP"],
+        "variantes": [
+          "Eliminar requisitos burocraticos para formalizacion de microempresas",
+          "Transicion de la informalidad a la formalidad (40-45% de poblacion)",
+          "Dignificar al productor nacional",
+          "Ventanilla unica del Estado para formalizar al 40% de trabajadores informales",
+          "Formalizacion del 37-38% de la fuerza laboral informal que no cotiza"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Desarrollo economico descentralizado (fuera del GAM)",
+        "candidatos": ["ACRM", "PIN", "PLP", "PLN", "PPSD", "PUCD", "PUSC"],
+        "variantes": [
+          "Crear ecosistemas de innovacion basados en ADN productivo regional",
+          "Construccion de aeropuerto en zona sur y expansion de infraestructura",
+          "Crear zonas economicas especiales fuera del GAM",
+          "Modelo multipolar con inversion prioritaria en infraestructura fuera del GAM",
+          "Creacion de polos de desarrollo en zonas costeras y rurales",
+          "Generar empleo digno en zonas rurales y costeras",
+          "Fomentar industrias intensivas en mano de obra en zonas costeras y rurales"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Grandes proyectos de infraestructura (ferrocarril, aeropuertos, puertos)",
+        "candidatos": ["PIN", "PJSC", "PNG", "PNR"],
+        "variantes": [
+          "Desarrollo de ferrocarril interoceanico para conectar carga",
+          "Apertura de dos puertos adicionales",
+          "Construccion de ferrocarril de frontera a frontera",
+          "Corredor noratleantico: ruta de alta velocidad con ferrocarril",
+          "Canal Verde Interoceanico (Siquirres-La Cruz)"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar el sistema financiero y bancario",
+        "candidatos": ["ACRM", "PJSC", "PPSO", "PLN"],
+        "variantes": [
+          "Transformar BPDC en verdadera banca de desarrollo para PYMES",
+          "Usar fondos de pensiones para construir obra publica",
+          "Vender BICSA y BCR para inyectar recursos al regimen de pensiones",
+          "Reformular sistema financiero agricola: tasas de interes mas bajas"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Economia planificada/intervencion estatal en economia",
+        "candidatos": ["PDLCT", "FA"],
+        "variantes": [
+          "Implementar una economia planificada que priorice las necesidades de la clase trabajadora",
+          "Nacionalizacion de tierras y grandes conglomerados economicos",
+          "Reformar el sistema para priorizar produccion nacional sobre importaciones"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reducir costos de energia y combustibles",
+        "candidatos": ["PA", "PUSC"],
+        "variantes": [
+          "Reducir costos de gasolina y energia para mejorar competitividad",
+          "Apertura del mercado electrico con inversion privada para bajar costos de electricidad"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Digitalizar tramites y servicios del Estado",
+        "candidatos": ["ACRM", "PEN"],
+        "variantes": [
+          "Implementar sistema de tramites 100% digitales con firma digital",
+          "Simplificacion y digitalizacion total de tramites gubernamentales"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Entrega del ROP (Regimen Obligatorio de Pensiones)",
+        "candidatos": ["UP", "PUCD"],
+        "variantes": [
+          "Entrega escalonada del ROP segun solvencia fiscal",
+          "Permitir el retiro del ROP"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Fortalecer educacion tecnica y colegios tecnicos profesionales",
+        "candidatos": ["ACRM", "PCAC", "PCDS", "PEN", "PJSC", "PLP", "PUSC"],
+        "variantes": [
+          "Fortalecer educacion STEM y carreras tecnicas alineadas con demanda laboral",
+          "Transformar mallas curriculares priorizando Colegios Tecnicos Profesionales (CTP)",
+          "Fortalecer INA y educacion tecnica flexible",
+          "Fortalecimiento de colegios tecnicos y vinculacion con sectores productivos",
+          "Ampliar modelo de colegios tecnicos",
+          "Lograr que 50% de jovenes se graduen de colegios tecnicos",
+          "Convertir mas colegios academicos en tecnicos con oferta adaptada a realidades regionales"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Implementar bilinguismo efectivo (ingles) desde temprana edad",
+        "candidatos": ["ACRM", "PJSC", "PLN", "PNR", "PUSC"],
+        "variantes": [
+          "Implementar bilinguismo efectivo (ingles) como prioridad",
+          "Crear grupos de conversacion en ingles con adultos mayores bilingues",
+          "Universalizar educacion preescolar bilingue",
+          "Ingles y mandarin desde primaria",
+          "Educacion bilingue en ingles (no solo clases de ingles)"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Ensenanza de programacion, tecnologia e inteligencia artificial",
+        "candidatos": ["ACRM", "PA", "PEN", "PNR", "PPSO"],
+        "variantes": [
+          "Ensenar programacion y habilidades digitales desde primaria",
+          "Implementar educacion tecnica en areas emergentes: IA, blockchain",
+          "Modernizar educacion con innovacion, tecnologia e inteligencia artificial",
+          "Modernizacion tecnologica de centros educativos",
+          "Educacion STEAM con conectividad universal",
+          "Incorporar robotica, inteligencia artificial y actualizacion de programas educativos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar curriculo educativo hacia habilidades del siglo XXI",
+        "candidatos": ["ACRM", "PA", "PIN", "PLP", "PPSD"],
+        "variantes": [
+          "Reformar curriculo para enfocarse en habilidades del siglo XXI: pensamiento critico, creatividad",
+          "Articular directamente el sistema educativo con las necesidades de la economia",
+          "Reforma curricular que elimina el sistema memoristico y enfoca en destrezas",
+          "Ensenar pensamiento critico y capacidad de investigacion desde temprana edad",
+          "Fortalecer la educacion con habilidades blandas y mentalidad critica"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Capacitar y mejorar condiciones de docentes",
+        "candidatos": ["ACRM", "PEN", "PUSC", "UP"],
+        "variantes": [
+          "Capacitar docentes en metodologias modernas y uso de tecnologia educativa",
+          "Capacitacion docente en nuevas tecnologias y metodologias",
+          "Reforma educativa enfocada en calidad docente: reducir cargas burocraticas, mas capacitacion",
+          "Reduccion de labores administrativas para que profesores se dediquen a ensenar"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer educacion publica en todos los niveles",
+        "candidatos": ["FA", "PEL", "PDLCT"],
+        "variantes": [
+          "Fortalecer la educacion publica en todos sus niveles como motor de movilidad social",
+          "Inversion del 8% del PIB en educacion para todas las etapas",
+          "Garantizar acceso universal a educacion de calidad"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Aumentar o mantener inversion en educacion (8% PIB)",
+        "candidatos": ["PCAC", "PEL", "PLN", "PLP"],
+        "variantes": [
+          "Aumento progresivo del presupuesto de educacion con compromiso en plan de gobierno",
+          "Inversion del 8% del PIB en educacion para todas las etapas",
+          "Volver al 8% del PIB en educacion",
+          "Incrementar inversion en educacion significativamente desde el actual menos de 5% del PIB"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Implementar educacion dual (estudio + trabajo)",
+        "candidatos": ["PCAC", "PNR", "PUSC", "UP"],
+        "variantes": [
+          "Implementar pasantias y educacion dual vinculando estudiantes con sector privado",
+          "Educacion dual con empresas",
+          "Flexibilizar requisitos de educacion dual para aumentar estudiantes con experiencia laboral",
+          "Educacion dual con programas de 9-18 meses que ofrecen compensacion economica"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Mejorar infraestructura educativa",
+        "candidatos": ["CR1", "PCDS", "PEN", "PNG"],
+        "variantes": [
+          "Mejorar condiciones de infraestructura educativa",
+          "Reconstruir 800 escuelas con infraestructura deficiente",
+          "Mejora de infraestructura educativa (reparacion de techos, banos, mobiliario)",
+          "Infraestructura educativa mediante alianzas publico-privadas"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer valores, educacion civica y principios",
+        "candidatos": ["PA", "PEN", "PJSC", "PNG", "PNR", "PPSD"],
+        "variantes": [
+          "Desarrollar valores de manera focalizada en el sistema educativo",
+          "Promocion de valores civicos, morales y eticos desde la educacion",
+          "Fortalecer educacion civica realista y ensenar historia verdadera",
+          "Definir ruta educativa centrada en principios, valores e identidad",
+          "Rechazo a ideologia de genero, enfasis en valores cristianos",
+          "Campana nacional de valores desde edades tempranas"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Auditar y reformar el MEP",
+        "candidatos": ["CR1", "PUCD"],
+        "variantes": [
+          "Auditar exhaustivamente el Ministerio de Educacion Publica",
+          "Reducir la burocracia administrativa del MEP",
+          "Devolver el manejo administrativo de escuelas y colegios al Ministerio de Educacion"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar y modernizar el INA",
+        "candidatos": ["ACRM", "PCDS", "PPSO", "UP"],
+        "variantes": [
+          "Reformar INA para crear capacitaciones tecnicas alineadas con ecosistemas de innovacion",
+          "Fortalecer INA y educacion tecnica flexible",
+          "Transformar el INA para ofrecer modalidad virtual con horarios flexibles",
+          "Modernizacion del INA: horarios flexibles, oferta ajustada a demanda regional"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Recuperar becas y apoyo a estudiantes vulnerables",
+        "candidatos": ["PCAC", "PEN"],
+        "variantes": [
+          "Recuperar y aumentar 115,000 becas Avancemos perdidas como programa de equidad",
+          "Programas de becas para estudiantes en condicion de vulnerabilidad"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Mejorar comedores y alimentacion escolar",
+        "candidatos": ["PCAC", "PPSD", "PUCD"],
+        "variantes": [
+          "Mejorar sistema de comedores escolares",
+          "Fortalecimiento de alimentacion escolar en escuelas publicas",
+          "Garantizar merienda en las escuelas para los estudiantes"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Volver a examenes y premiar excelencia academica",
+        "candidatos": ["PJSC"],
+        "variantes": [
+          "Volver a implementar examenes y premiar la excelencia, rechazar nivelar para abajo"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Programas de idiomas adicionales (mandarin, etc.)",
+        "candidatos": ["PNG", "PNR"],
+        "variantes": [
+          "Plataforma virtual de idiomas (segundo y tercer idioma)",
+          "Ingles y mandarin desde primaria"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Educacion especial y atencion a discapacidad",
+        "candidatos": ["PDLCT", "PPSO", "UP"],
+        "variantes": [
+          "Fortalecer red con profesionales especializados en educacion especial",
+          "Dotar a docentes de herramientas para atencion de estudiantes con discapacidad",
+          "Expansion de centros educativos especializados para personas con discapacidad"
+        ]
+      }
+    ]
+  },
+  "health": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Reformar o eliminar monopolio de la CCSS, permitir competencia privada",
+        "candidatos": ["ACRM", "PEN"],
+        "variantes": [
+          "Eliminar monopolio de CCSS manteniendo cobertura universal obligatoria",
+          "Implementar modelo de seguro obligatorio con opcion de proveedores privados o CCSS",
+          "Eliminacion del monopolio de la CCSS y apertura a competencia privada",
+          "Creacion de un sistema de salud mixto con aseguradores publicos y privados"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Aumentar inversion social en salud",
+        "candidatos": ["FA", "PCAC", "PEL", "PIN", "PUCD"],
+        "variantes": [
+          "Aumentar la inversion social en el sistema de salud",
+          "Aumentar inversion social en salud e infraestructura de salud",
+          "Inversion social sostenida en materia de salud",
+          "Inversion social sostenida en salud mediante liberacion de recursos presupuestarios",
+          "Inversion social sostenida en salud"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reducir listas de espera",
+        "candidatos": ["ACRM", "CR1", "PEN"],
+        "variantes": [
+          "Reducir listas de espera a traves de competencia y mayor capacidad instalada",
+          "Reducir tiempos de espera para citas y cirugias",
+          "Reduccion drastica de listas de espera mediante mayor eficiencia y competencia"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar sistema de pensiones para sostenibilidad",
+        "candidatos": ["PEL", "PLP", "PPSO", "PUCD", "PUSC"],
+        "variantes": [
+          "Reforma al sistema de pensiones con enfoque de corto y largo plazo",
+          "Reforma al sistema de pensiones de CCSS para hacerlo sostenible ante cambio demografico",
+          "Capitalizar el IVM de la CCSS con recursos de venta del BCR",
+          "Reforma al sistema de regimenes de pensiones para mejorar las condiciones de retiro",
+          "Reformas a sistemas de pensiones protegiendo IVM, ROP y fomentando pensiones voluntarias"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Auditar la CCSS y eliminar corrupcion/privilegios",
+        "candidatos": ["CR1"],
+        "variantes": [
+          "Realizar auditoria completa de la CCSS para identificar y eliminar corrupcion",
+          "Eliminar privilegios y lujos de los jerarcas de la CCSS"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Mejorar salarios y condiciones del personal de salud",
+        "candidatos": ["CR1", "PEN"],
+        "variantes": [
+          "Mejorar salarios y condiciones del personal medico y de enfermeria",
+          "Mejora salarial para medicos, enfermeras y personal de salud"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer atencion primaria (EBAIS)",
+        "candidatos": ["PLN", "PPSD"],
+        "variantes": [
+          "Completar y equipar los 400 EBAIS pendientes para fortalecer red de salud fisica comunitaria",
+          "Fortalecimiento de EBAIS"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reducir costos de medicamentos",
+        "candidatos": ["PJSC"],
+        "variantes": [
+          "Revisar legislacion que permite refacturacion de medicamentos encareciendo precios",
+          "Negociar con India para establecer produccion de farmacos genericos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Crear sistema de salud mental comunitario",
+        "candidatos": ["PLN"],
+        "variantes": [
+          "Crear SECOSAM (centros comunitarios de salud mental) para apoyar familias"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer red de cuido integrada con salud",
+        "candidatos": ["PIN", "PNG", "UP"],
+        "variantes": [
+          "Redes de cuido para que madres puedan dejar ninos y adultos mayores",
+          "Destinar recursos subejecultados del Estado a redes de cuido",
+          "Red de cuido con horarios flexibles"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proteger y fortalecer regimenes especiales de pensiones",
+        "candidatos": ["PDLCT"],
+        "variantes": [
+          "Proteger y fortalecer los regimenes especiales de pensiones"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Atencion a adultos mayores y red geriatrica",
+        "candidatos": ["PLN", "PJSC", "PPSD"],
+        "variantes": [
+          "Reforzar red geriatrica nacional con enfoque regional y local",
+          "Crear centros de cuido para adultos mayores para combatir sindrome de soledad",
+          "Construccion de nuevo hospital geriatrico"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Ampliar pensiones no contributivas",
+        "candidatos": ["PPSO"],
+        "variantes": [
+          "Ampliar regimen de pensiones no contributivas redirigiendo 0.25% de cuota obrero-patronal del Banco Popular",
+          "Aumentar monto y cobertura de pensiones del regimen no contributivo"
+        ]
+      }
+    ]
+  },
+  "agriculture": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Eliminar o reducir intermediarios para mejorar precios al productor",
+        "candidatos": ["ACRM", "FA", "PCDS", "PEN", "PJSC", "PNR"],
+        "variantes": [
+          "Eliminar intermediarios conectando productores directamente con compradores",
+          "Eliminar o reducir significativamente el poder de intermediarios en la cadena agropecuaria",
+          "Reducir o eliminar intermediarios para que agricultores reciban precio justo",
+          "Eliminacion de intermediarios excesivos para mejorar rentabilidad del productor",
+          "Regular margenes de ganancia de intermediarios",
+          "Eliminacion de intermediarios"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proveer asistencia tecnica y tecnologica a productores",
+        "candidatos": ["ACRM", "PA", "PEN", "PLP", "PNG", "PPSD", "PPSO", "UP"],
+        "variantes": [
+          "Proveer asistencia tecnica y tecnologica a pequenos productores",
+          "Dar competitividad al sector de agroindustria exportadora",
+          "Tecnificacion del agro mediante capacitacion y transferencia tecnologica",
+          "Recuperar el rol del MAG como asesor tecnico del agricultor",
+          "Asistencia tecnica y tecnologica al sector agropecuario",
+          "Retomar apoyo tecnico efectivo del MAG a agricultores",
+          "Transformar extension agricola del MAG para estar en fincas junto a productores",
+          "MAG como rector directo del registro de moleculas"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Facilitar acceso a credito para agricultores",
+        "candidatos": ["ACRM", "PCDS", "PEN", "PIN", "PLN", "PNG", "PUSC"],
+        "variantes": [
+          "Proveer capital semilla para proyectos de agroindustria",
+          "Creditos blandos para agricultores",
+          "Acceso preferencial a credito para pequenos y medianos agricultores",
+          "Apoyo financiero a traves de la banca publica",
+          "Reformular sistema financiero agricola: tasas de interes mas bajas",
+          "Credito para equipo y maquinaria agricola",
+          "Reformar sistema de banca de desarrollo para mejorar acceso a credito"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Promover valor agregado y agroindustria",
+        "candidatos": ["ACRM", "PIN", "PNG", "PNR"],
+        "variantes": [
+          "Promover valor agregado agricola y agroindustria en zonas como Guanacaste",
+          "Evolucion hacia agroindustria: productos terminados",
+          "Parques agroindustriales",
+          "Transformacion a agroindustria con tecnologia"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proteger produccion nacional frente a importaciones",
+        "candidatos": ["CR1", "FA", "PEL", "PJSC", "PNG"],
+        "variantes": [
+          "Proteger la produccion nacional frente a importaciones subsidiadas",
+          "Establecer politicas que favorezcan produccion nacional sobre importaciones agricolas",
+          "Proteger a agricultores nacionales que producen alimentos basicos",
+          "Revisar y renegociar tratados de libre comercio para proteger produccion nacional",
+          "Detener importacion masiva de arroz, papa, cebolla, tomate y granos basicos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Garantizar seguridad alimentaria nacional",
+        "candidatos": ["PCDS", "PDLCT", "PCAC", "PUCD", "UP"],
+        "variantes": [
+          "Crear plan de seguridad alimentaria",
+          "Planificacion economica agricola que priorice soberania alimentaria",
+          "Garantizar seguridad alimentaria manteniendo produccion nacional robusta",
+          "Fortalecer la seguridad alimentaria nacional como prioridad urgente",
+          "Politica de estado a largo plazo con cultivos estrategicos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Implementar seguros agricolas",
+        "candidatos": ["PCAC", "PPSO", "PUSC", "UP"],
+        "variantes": [
+          "Restablecer seguros de cosechas indexados con disparadores climaticos automaticos",
+          "Implementar seguros agropecuarios con apoyo estatal en primas",
+          "Fortalecer sistema de seguros agricolas ante cambio climatico",
+          "Seguros de cosechas con el INS como requisito para credito"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Mejorar infraestructura rural (caminos, riego, conectividad)",
+        "candidatos": ["PCAC", "PEN", "PLP"],
+        "variantes": [
+          "Mejorar infraestructura vial en zonas rurales productoras",
+          "Aumentar conectividad digital en regiones agropecuarias",
+          "Mejora de caminos y carreteras rurales para facilitar transporte de productos",
+          "Desarrollar tecnologia de desalinizacion de agua de mar para agricultura"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fortalecer cooperativas y organizaciones de productores",
+        "candidatos": ["ACRM", "PEN"],
+        "variantes": [
+          "Fortalecer cooperativas y asociaciones de productores"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Promover agricultura organica y sostenible",
+        "candidatos": ["ACRM", "PEN"],
+        "variantes": [
+          "Apoyar transicion a agricultura organica y sostenible para mercados premium",
+          "Promocion de la agricultura organica y sostenible"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Revisar tratados de libre comercio (TLC)",
+        "candidatos": ["CR1", "PJSC", "PPSD"],
+        "variantes": [
+          "Revisar tratados de libre comercio que perjudican a productores nacionales",
+          "Revisar y renegociar tratados de libre comercio",
+          "Revision de balanza comercial de TLC para beneficiar agricultores nacionales"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma agraria y acceso a tierra",
+        "candidatos": ["PDLCT", "PLN"],
+        "variantes": [
+          "Reforma agraria para que familias campesinas tengan acceso a tierra",
+          "Nacionalizacion de tierras y grandes conglomerados agricolas",
+          "Resolver seguridad juridica de agricultores en parcelas de INDER"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Actualizar legislacion agropecuaria",
+        "candidatos": ["PPSO"],
+        "variantes": [
+          "Actualizar ley del sector agropecuario (40 anos sin reforma) incorporando cambio climatico"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Combatir contrabando y comercio ilicito",
+        "candidatos": ["PPSO"],
+        "variantes": [
+          "Estrategia de cero tolerancia al contrabando y comercio ilicito en frutas, carne y lacteos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Compras estatales de productos locales",
+        "candidatos": ["PEN", "PIN"],
+        "variantes": [
+          "Programas de compras estatales que privilegien productos locales",
+          "Garantia de compra por parte del CNP y otras instituciones publicas a precio fijo"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Capacitar agricultores en nuevas tecnologias",
+        "candidatos": ["ACRM", "PIN"],
+        "variantes": [
+          "Capacitar agricultores en nuevas tecnologias y practicas modernas",
+          "Ensenanza de tecnicas modernas de produccion (hidroponia)"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Descentralizar instituciones agricolas",
+        "candidatos": ["PNR"],
+        "variantes": [
+          "Descentralizacion del MAG"
+        ]
+      }
+    ]
+  },
+  "environment": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Balance entre desarrollo economico y proteccion ambiental",
+        "candidatos": ["ACRM", "CR1", "PA", "PEN", "PNR"],
+        "variantes": [
+          "Balancear conservacion con desarrollo economico sostenible",
+          "Balancear proteccion ambiental con desarrollo economico",
+          "Balance entre desarrollo economico y consideraciones ambientales tecnicas",
+          "Revision de politicas ambientales que limitan desarrollo economico",
+          "Balance entre proteccion y desarrollo economico"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Promover ecoturismo y turismo sostenible",
+        "candidatos": ["ACRM", "PNG"],
+        "variantes": [
+          "Promover ecoturismo inteligente como motor economico",
+          "Aprovechar imagen de pais verde para atraer turismo de alto valor",
+          "Parque ecotematico en zona Caribe",
+          "Comunidades de interes turistico para turismo rural comunitario"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Desarrollar energias renovables",
+        "candidatos": ["PEN", "PNG"],
+        "variantes": [
+          "Promocion de energias renovables vinculadas a desarrollo productivo",
+          "Explotar completamente yacimiento geotermico de Miravalles",
+          "Proyectos de energia eolica en todo el pais",
+          "Proyectos hidroelectricos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Explorar y explotar recursos minerales/petroleros de forma responsable",
+        "candidatos": ["PA", "PEN", "PNR"],
+        "variantes": [
+          "Permitir explotacion de recursos minerales con ciencia y tecnica sostenible",
+          "Apertura a exploracion y explotacion de recursos naturales (mineria responsable)",
+          "Exploracion de cobre, oro, gas natural y petroleo"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proyectos de carbono neutralidad y bonos de carbono",
+        "candidatos": ["ACRM"],
+        "variantes": [
+          "Desarrollar proyectos de carbono neutralidad y venta de bonos de carbono"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Incentivar tecnologias limpias en sectores productivos",
+        "candidatos": ["ACRM"],
+        "variantes": [
+          "Implementar tecnologias limpias en sectores productivos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Utilizar fondos verdes internacionales",
+        "candidatos": ["FA"],
+        "variantes": [
+          "Utilizar fondos verdes internacionales disponibles para renovacion ambiental",
+          "Destinar prestamos ambientales comprometidos a proyectos de sostenibilidad"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Transporte publico moderno y menos contaminante",
+        "candidatos": ["PCAC", "PJSC"],
+        "variantes": [
+          "Sistema de transporte publico moderno y eficiente que reduzca uso de vehiculo privado",
+          "Construccion de ferrocarril como medio de transporte menos contaminante"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proyectos de energia a partir de basura",
+        "candidatos": ["PNG"],
+        "variantes": [
+          "Programa dame tu basura y te doy energia para municipalidades"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proteccion ambiental con beneficios a comunidades locales",
+        "candidatos": ["PLP"],
+        "variantes": [
+          "Crear mecanismos para que areas protegidas generen beneficios a comunidades indigenas y locales",
+          "Incentivar a poblaciones locales para actuar en favor de proteccion ambiental"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Fiscales especializados en crimen ambiental",
+        "candidatos": ["PLP"],
+        "variantes": [
+          "Aumentar recursos para fiscales especializados en crimen ambiental"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Pago por servicios ambientales (FONAFIFO)",
+        "candidatos": ["PIN", "PPSO"],
+        "variantes": [
+          "Fondos de FONAFIFO para comunidades indigenas como ingreso por conservacion",
+          "Planes forestales para territorios indigenas para recibir recursos de pago de servicios ambientales"
+        ]
+      }
+    ]
+  },
+  "reforms": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Digitalizar y simplificar tramites gubernamentales",
+        "candidatos": ["ACRM", "PEN", "PPSO"],
+        "variantes": [
+          "Digitalizar completamente tramites y servicios publicos",
+          "Crear ventanilla unica digital para permisos y tramites empresariales",
+          "Simplificacion y digitalizacion total de tramites gubernamentales"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reducir y fusionar instituciones publicas",
+        "candidatos": ["ACRM", "CR1", "PEN"],
+        "variantes": [
+          "Reducir aparato estatal eliminando instituciones duplicadas y fusionando ministerios",
+          "Reducir el numero de ministerios de 23 a aproximadamente 12-14",
+          "Eliminacion de instituciones autonomas y semi-autonomas"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar sistema de pensiones",
+        "candidatos": ["PA", "PEL", "PLP", "PNG", "PPSO", "PUCD", "PUSC"],
+        "variantes": [
+          "Adaptar sistema de pensiones a realidad demografica (envejecimiento poblacional)",
+          "Reforma al sistema de pensiones con enfoque de corto y largo plazo",
+          "Migrar sistema de pensiones de modelo de reparto a cuentas individuales capitalizadas",
+          "Implementar pension por consumo",
+          "Capitalizar el IVM de la CCSS con recursos de venta del BCR",
+          "Reforma al sistema de regimenes de pensiones",
+          "Reformas a sistemas de pensiones protegiendo IVM, ROP"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Descentralizacion del Estado",
+        "candidatos": ["PEN", "PLN", "PNR"],
+        "variantes": [
+          "Descentralizacion administrativa dando mayor autonomia a regiones y municipios",
+          "Descentralizacion del Estado: devolver poder, recursos y competencias a comunidades locales",
+          "Descentralizacion para una sola Costa Rica"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Implementar democracia directa (consultas, revocatoria)",
+        "candidatos": ["CR1"],
+        "variantes": [
+          "Implementar consultas populares vinculantes para decisiones importantes",
+          "Establecer revocatoria de mandato para funcionarios electos",
+          "Implementar iniciativa popular para presentacion de leyes"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reducir privilegios de diputados y funcionarios",
+        "candidatos": ["CR1"],
+        "variantes": [
+          "Reducir el numero de diputados y eliminar sus privilegios",
+          "Limitar la reeleccion de diputados y otros funcionarios"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma electoral para alianzas y bloques politicos",
+        "candidatos": ["PEN"],
+        "variantes": [
+          "Reforma electoral para permitir alianzas y bloques politicos estables",
+          "Modificacion del sistema de votacion para facilitar coaliciones"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar el Codigo Penal y Procesal Penal",
+        "candidatos": ["PNG", "PPSO", "PUSC"],
+        "variantes": [
+          "Reforma al articulo 55 del Codigo Penal para trabajo obligatorio de privados de libertad",
+          "Reforma al procedimiento penal para eliminar medidas alternativas en casos graves",
+          "Revisar Codigo Procesal Penal y Codigo Penal Juvenil para aumentar castigos",
+          "Reforma al Codigo Procesal Penal para que crimenes violentos cumplan sentencia completa"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma migratoria",
+        "candidatos": ["PCDS", "PJSC"],
+        "variantes": [
+          "Suavizar tramites migratorios para reducir tiempo de permisos de trabajo",
+          "Formalizar trabajadores migrantes: que coticen en caja y paguen impuestos",
+          "Reforma inmediata de ley de migracion con declaratoria de amnistia"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Modernizar instituciones del Estado",
+        "candidatos": ["FA", "PA", "PCAC", "PPSO", "UP"],
+        "variantes": [
+          "Lograr nuevos pactos historicos y acuerdos del siglo XXI para modernizar instituciones",
+          "Modernizar instituciones del Estado del siglo XIX al siglo XXI",
+          "Modernizar institucionalidad para convertirla en facilitadora del crecimiento",
+          "Reforma integral del CONAPDIS: eliminar burocracia, digitalizar procesos",
+          "Cambio de mentalidad en instituciones publicas para facilitar en lugar de obstaculizar"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar INAMU",
+        "candidatos": ["PNR", "PPSO"],
+        "variantes": [
+          "INAMU convertido en Ministerio de la Familia",
+          "Reformar INAMU para focalizar mejor atencion a mujeres victimas de violencia"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma de la CCSS",
+        "candidatos": ["ACRM", "UP"],
+        "variantes": [
+          "Reformar CCSS eliminando monopolio y permitiendo competencia",
+          "Reforma de la CCSS para que asegure por tiempo real trabajado"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma educativa estructural",
+        "candidatos": ["PA", "PIN", "PLP"],
+        "variantes": [
+          "Reforma educativa feroz y urgente como prioridad nacional absoluta",
+          "Reforma curricular educativa basada en desarrollo de destrezas",
+          "Reforma educativa integral abandonando meta del 8% PIB por metas basadas en resultados"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reformar instituciones agricolas (MAG, SENASA)",
+        "candidatos": ["PPSO"],
+        "variantes": [
+          "Transformacion institucional del MAG, SENASA y servicio fitosanitario"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Reforma constitucional para personas con discapacidad",
+        "candidatos": ["PPSD"],
+        "variantes": [
+          "Reforma constitucional para reconocer LESCO como lengua oficial",
+          "Reforma constitucional para eliminar interdiccion judicial de personas con discapacidad"
+        ]
+      }
+    ]
+  },
+  "social": {
+    "propuestas_agrupadas": [
+      {
+        "propuesta_generalizada": "Fortalecer y ampliar red de cuido (ninos, adultos mayores, discapacidad)",
+        "candidatos": ["PA", "PCAC", "PIN", "PLN", "PLP", "PNG", "PPSO", "PUSC", "UP"],
+        "variantes": [
+          "Expandir red de cuido para mujeres cabeza de hogar",
+          "Fortalecer sistema nacional de cuidados con corresponsabilidad Estado-sociedad",
+          "Redes de cuido para ninos y adultos mayores integradas",
+          "Red de cuido universal con copago segun ingresos",
+          "Ampliar red de cuido con servicios didacticos y estimulacion temprana",
+          "Fortalecer redes de cuido mediante recursos subejecultados del Estado",
+          "Fortalecer y ampliar red de cuido de ninos y adultos mayores",
+          "Crear sistema unificado de cuido universal",
+          "Red de cuido ampliada con horarios flexibles"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Apoyo integral a mujeres (capacitacion, credito, empleo)",
+        "candidatos": ["PA", "PCAC", "PCDS", "PLN", "PLP", "PNG", "PPSD", "PPSO"],
+        "variantes": [
+          "Combatir violencia contra mujeres y reducir femicidios",
+          "Apoyo a mujeres: capacitacion, cuido infantil, financiamiento semilla",
+          "Subvencion del Estado en primer ano para pymes de mujeres",
+          "Acceso a prestamos internacionales para emprendimiento femenino",
+          "Aumentar tasa de participacion laboral femenina",
+          "Beneficios fiscales e incentivos a empresas que den prioridad a madres solteras",
+          "Creditos especificos para mujeres emprendedoras",
+          "Promover independencia economica de mujeres mediante capacitacion"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Proteccion contra violencia hacia mujeres (femicidio, violencia domestica)",
+        "candidatos": ["PCAC", "PCDS", "PLN", "PPSD", "PPSO"],
+        "variantes": [
+          "Programa Alerta Naranja: seguimiento 24/7 a mujeres agredidas",
+          "Construir mas albergues para mujeres",
+          "Combatir violencia contra mujeres y reducir femicidios",
+          "Decreto de emergencia para atencion del femicidio",
+          "Aumentar penas a la violencia contra mujeres"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Inclusion laboral y apoyo a personas con discapacidad",
+        "candidatos": ["PCAC", "PCDS", "PEN", "PIN", "PLP", "PNG", "PPSD", "PPSO"],
+        "variantes": [
+          "Hacer valer ley del 5% de plazas para personas con discapacidad en sector publico",
+          "Ciudades accesibles para personas con discapacidad",
+          "Atencion a personas con discapacidad mediante mejora de accesibilidad",
+          "Mejoras en accesibilidad: aceras con rampas, buses urbanos con piso bajo",
+          "Crear ley de inclusion laboral con incentivos para empresas que contraten personas con discapacidad",
+          "Discriminacion positiva para personas con discapacidad",
+          "Cumplimiento efectivo de ley del 5% de contratacion para personas con discapacidad",
+          "Programa ABC de la discapacidad: capacitacion para todo el sector publico"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Pension universal o digna para adultos mayores",
+        "candidatos": ["PCDS", "PEL", "PLN"],
+        "variantes": [
+          "Pension universal para adultos mayores sin acceso a medios economicos",
+          "Garantizar pension digna a adultos mayores",
+          "Pension basica universal"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Atencion y respeto a adultos mayores",
+        "candidatos": ["PCDS", "PEL", "PEN", "PJSC", "PLN", "PUSC"],
+        "variantes": [
+          "Transporte seguro y accesible para adultos mayores",
+          "Apoyo a adultos mayores mediante mejora de pensiones y centros de cuido",
+          "Crear centros de cuido para adultos mayores",
+          "Reforzar red geriatrica nacional",
+          "Fortalecimiento de observatorios de envejecimiento"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Consulta y respeto a pueblos indigenas y afrodescendientes",
+        "candidatos": ["ACRM", "PCAC", "PCDS", "PIN", "PLP", "PJSC", "PPSD", "UP"],
+        "variantes": [
+          "Escuchar activamente a comunidades indigenas y afrodescendientes",
+          "Participacion activa de comunidades indigenas en decisiones que les afectan",
+          "Negociar con pueblos indigenas sobre territorios traslapados",
+          "Desarrollo turistico en comunidades indigenas",
+          "Gobernar dialogando con poblaciones indigenas y afrodescendientes",
+          "Respetar lenguas tradicionales de pueblos indigenas",
+          "Presencia institucional real en pueblos indigenas",
+          "Enlace directo de territorios indigenas con Casa Presidencial"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Inversion social sostenida en poblaciones vulnerables",
+        "candidatos": ["FA", "PDLCT", "PEL", "PUCD"],
+        "variantes": [
+          "Aumentar significativamente la inversion social en poblaciones vulnerables",
+          "Garantizar inversion social sostenida en cuido, salud y educacion",
+          "Proteccion integral de ninez y adolescencia",
+          "Inversion social sostenida en cuido, salud y educacion"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Vivienda de interes social",
+        "candidatos": ["PCAC", "PCDS", "PPSD", "PPSO"],
+        "variantes": [
+          "Vivienda de interes social con financiamiento accesible para familias vulnerables",
+          "Modificacion de bonos de vivienda para jovenes",
+          "Programa de vivienda para personas con discapacidad",
+          "Programas de vivienda de interes social con fast-track"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Politica migratoria ordenada (bienvenida trabajo, control delincuencia)",
+        "candidatos": ["ACRM", "PCDS", "PCAC", "PNG", "PPSD", "UP"],
+        "variantes": [
+          "Gestionar migracion de forma selectiva priorizando personas calificadas",
+          "Politica migratoria: bienvenida quien venga a trabajar, no quien venga a delinquir",
+          "Politica migratoria basada en dignidad humana, derechos humanos, orden y legalidad",
+          "Politica migratoria equilibrada: ni puertas abiertas ni hostilidad extrema",
+          "Migracion controlada, registrada y segura con respeto mutuo",
+          "Migracion ordenada: bienvenida para quien trabaja y aporta, deportacion para quien delinque"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Promover empleo sobre asistencialismo",
+        "candidatos": ["ACRM", "CR1", "PA", "PEN", "PPSO", "PUCD", "UP"],
+        "variantes": [
+          "Promover trabajo y capacitacion para poblaciones vulnerables en lugar de dependencia de subsidios",
+          "Reducir programas asistencialistas y promover generacion de empleo",
+          "Eliminar asistencialismo y promover desarrollo humano sostenible",
+          "Promocion del empleo formal como principal mecanismo de inclusion social",
+          "Promover independencia economica de mujeres mediante capacitacion",
+          "Generacion de empleo como solucion fundamental contra la pobreza",
+          "Autonomia economica para jefas de hogar mediante educacion dual"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Apoyo a derechos LGBTQ+",
+        "candidatos": ["ACRM"],
+        "variantes": [
+          "Apoyar derechos LGBTQ+ incluyendo matrimonio igualitario y adopcion",
+          "Rechazar discriminacion por orientacion sexual o identidad de genero"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Defender valores tradicionales y familia",
+        "candidatos": ["CR1", "PEL", "PEN", "PNR"],
+        "variantes": [
+          "Defender valores tradicionales de familia",
+          "Conservacion de la familia como valor fundamental",
+          "Promocion de valores familiares tradicionales desde la educacion",
+          "Ministerio de la Familia en lugar de INAMU"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Programas para ninez y juventud",
+        "candidatos": ["PCDS", "PDLCT", "PEL", "PNG", "PPSO"],
+        "variantes": [
+          "Inversion social sostenida en ninez: cuido, salud, educacion",
+          "Proteger a la ninez aumentando inversion social",
+          "Proteccion integral de ninez y adolescencia",
+          "Programas culturales para ninez y juventud",
+          "Enfoque de no institucionalizacion de ninos"
+        ]
+      },
+      {
+        "propuesta_generalizada": "Programas de empleo juvenil",
+        "candidatos": ["PJSC", "PEN"],
+        "variantes": [
+          "Crear creditos especiales para jovenes 18-25 anos con buenas ideas",
+          "Programas de empleo juvenil vinculados a capacitacion tecnica"
+        ]
+      }
+    ]
+  }
+}

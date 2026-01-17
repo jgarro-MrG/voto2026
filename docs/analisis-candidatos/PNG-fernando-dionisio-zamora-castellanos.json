@@ -1,0 +1,123 @@
+{
+  "party": "PNG",
+  "candidate": "Fernando Dionisio Zamora Castellanos",
+  "overallSummary": "Fernando Zamora del PNG se posiciona como defensor del sector agropecuario con 37 años de experiencia en derecho constitucional. Su plataforma se centra en tres pilares filosóficos: cultura productiva, familia y fe. Propone cambiar el modelo económico de importación masiva hacia uno productivo nacional, con énfasis en infraestructura crítica (aeropuertos, carreteras, ferrocarril), revolución energética y fortalecimiento del agro. Lidera acciones legales contra políticas que considera perjudiciales para agricultores y propone reformas penales con mano firme. Su visión es hacer de Costa Rica una potencia agroindustrial.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone mano firme contra la delincuencia mediante reformas al procedimiento penal y al código penal. Enfatiza la necesidad de prisión preventiva para casos graves y trabajo obligatorio para privados de libertad.",
+      "keyProposals": [
+        "Reforma al artículo 55 del Código Penal para obligar al trabajo de privados de libertad",
+        "Reforma al procedimiento penal para eliminar medidas alternativas en casos de femicidios, sicariato y narcotráfico",
+        "Prohibición de descarcelación cuando hay amenaza a víctimas o testigos",
+        "Prisión preventiva obligatoria para casos graves",
+        "Programas de trabajo carcelario (producción de ropa de cama para CCSS)"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone cambiar de un modelo importador a uno productivo mediante tres ejes: inversión en infraestructura crítica, revolución energética y fortalecimiento de la cultura productiva agroindustrial. Incluye alianzas público-privadas y reducción de costos energéticos.",
+      "keyProposals": [
+        "Inventario ambicioso de infraestructura: aeropuertos internacionales de Limón y del Sur, nuevo aeropuerto para sustituir Juan Santamaría",
+        "Corredor noratlántico: ruta de alta velocidad desde Guápiles-Sarapiquí-Florencia-San Ramón con ferrocarril",
+        "Aeropuerto internacional de carga en zona Huetar Norte",
+        "Revolución energética: geotermia (Miravalles completo, Huetar Norte), energía eólica, hidroeléctrica (Bagaces), energía por basura",
+        "Alianzas público-privadas para financiar aeropuertos, puertos y carreteras",
+        "Revertir modelo de importación masiva hacia producción nacional",
+        "Hacer de Costa Rica una potencia agroindustrial",
+        "Pensión por consumo: destinar porcentaje del IVA a cuentas individuales de pensión sin aumentar el impuesto",
+        "Inversión de fondos de pensiones en infraestructura nacional en lugar de bolsa de Nueva York"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "education",
+      "summary": "Propone reforma educativa integral en cuatro ejes: definición de ruta educativa centrada en principios y valores, revisión de malla curricular, mejoramiento del método de evaluación, y mejora de infraestructura educativa. Incluye reversión de ley 9999 considerada antieducador.",
+      "keyProposals": [
+        "Definir ruta educativa centrada en principios, valores e identidad (responder quién soy, para qué estoy en esta tierra)",
+        "Revisión de malla curricular para incluir habilidades prácticas para el empleo",
+        "Plataforma virtual de idiomas (segundo y tercer idioma) coordinada entre MEP e INA",
+        "Mejoramiento del método de evaluación",
+        "Infraestructura educativa mediante alianzas público-privadas (resolver 1000 intervenciones del Ministerio de Salud)",
+        "Reversión de ley 9999 para devolver prestigio y mejores condiciones laborales a educadores",
+        "Desmotivar criminalización del educador"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone fortalecer redes de cuido mediante recursos subejecultados del Estado, especialmente para madres cabeza de hogar y menores de edad.",
+      "keyProposals": [
+        "Destinar porcentaje de recursos subejecultados del Estado a redes de cuido",
+        "Atención de menores de edad, especialmente hijos de madres cabeza de hogar",
+        "Fortalecer régimen no contributivo de pensiones mediante pensión por consumo"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Se posiciona como el partido del agro, proponiendo revertir importaciones masivas y fortalecer la producción nacional mediante asistencia técnica, tecnológica y crediticia. Lidera lucha legal contra ultrarresoluciones del Estado y la ruta del arroz.",
+      "keyProposals": [
+        "Detener Alianza del Pacífico y Acuerdo Transpacífico (considerados destructivos para el agro)",
+        "Detener importación masiva de arroz, papa, cebolla, tomate y granos básicos",
+        "Asistencia técnica y tecnológica al sector agropecuario",
+        "Parques agroindustriales",
+        "Crédito para equipo y maquinaria agrícola",
+        "Orientar banca de crédito comercial hacia crédito productivo",
+        "Convertir a Costa Rica en potencia agroindustrial",
+        "Defensa legal de pequeños campesinos y productores pecuarios contra ultrarresoluciones del Estado",
+        "Retorno de aduana a Limón para productos que entran por ese puerto"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Propone revolución energética con énfasis en energías renovables: geotermia, eólica, hidroeléctrica y conversión de basura en energía. Incluye parques ecotemáticos para dinamizar turismo sostenible.",
+      "keyProposals": [
+        "Explotar completamente yacimiento geotérmico de Miravalles",
+        "Desarrollar beta geotérmica en Huetar Norte",
+        "Proyectos de energía eólica en todo el país",
+        "Proyectos hidroeléctricos en Bagaces con capacidad de drenaje de canales",
+        "Programa 'dame tu basura y te doy energía' para municipalidades",
+        "Parque ecotemático en zona Caribe (modelo similar a Quintana Roo, México)",
+        "Comunidades de interés turístico (Comunidades Pura Vida) para turismo rural comunitario"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reformas enfocadas en detener políticas de esterilización, mejorar régimen de pensiones, reformar procedimiento penal y código penal, y políticas migratorias equilibradas.",
+      "keyProposals": [
+        "Detener políticas de esterilización implementadas durante gobierno PAC",
+        "Implementar pensión por consumo (destinar porcentaje del IVA a cuentas individuales)",
+        "Invertir fondos de pensiones en infraestructura nacional en lugar de mercados de Nueva York",
+        "Reforma al artículo 55 del Código Penal para trabajo obligatorio de privados de libertad",
+        "Reforma al procedimiento penal para eliminar alcahuetería y medidas alternativas en casos graves",
+        "Política migratoria equilibrada: ni puertas abiertas ni hostilidad extrema",
+        "Reversión de ley 9999 (ley antieducador del gobierno PAC 2018-2022)"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "social",
+      "summary": "Propone discriminación positiva para personas con discapacidad, beneficios fiscales para empresas que contraten madres solteras, programas culturales y deportivos para niñez y juventud, y desarrollo de zonas rurales mediante infraestructura y turismo comunitario.",
+      "keyProposals": [
+        "Discriminación positiva para personas con discapacidad mediante decretos y proyectos de ley",
+        "Reducción de trámitología y costos de legalidad para personas con discapacidad",
+        "Cuotas de acceso al trabajo para personas con discapacidad",
+        "Beneficios fiscales e incentivos a empresas que den prioridad a madres solteras",
+        "Piso menor de impuesto de renta para madres solteras",
+        "Mejor condición de IVA para madres solteras",
+        "Programas culturales para niñez y juventud: Costa Rica Canta, Costa Rica Actúa, Costa Rica Escribe, Costa Rica Toca",
+        "Masificación del deporte mediante programas vocacionales en colegios (coordinación MEP-Ministerio de Deportes)",
+        "Visores deportivos para descubrir talentos en comunidades",
+        "Fortalecer turismo rural comunitario",
+        "Comunidades de interés turístico (Comunidades Pura Vida): Grano de Oro de Turrialba, Bijagua de Upala, Ríos de Upala",
+        "Política migratoria equilibrada: permitir trabajo migrante en agricultura y construcción sin apertura indiscriminada"
+      ],
+      "stance": "moderate"
+    }
+  ],
+  "generatedAt": "2026-01-12T02:18:00.000Z"
+}

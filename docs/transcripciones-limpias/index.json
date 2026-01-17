@@ -1,0 +1,122 @@
+[
+  {
+    "party": "ACRM",
+    "candidate": "Ronny Castillo Gonzalez",
+    "filename": "ACRM-ronny-castillo-gonzalez.txt",
+    "wordCount": 12323
+  },
+  {
+    "party": "CR1",
+    "candidate": "Douglas Caamao Quiros",
+    "filename": "CR1-douglas-caamao-quiros.txt",
+    "wordCount": 15732
+  },
+  {
+    "party": "FA",
+    "candidate": "Andres Ariel Robles Barrantes",
+    "filename": "FA-andres-ariel-robles-barrantes.txt",
+    "wordCount": 30362
+  },
+  {
+    "party": "PA",
+    "candidate": "Jose Miguel Aguilar Berrocal",
+    "filename": "PA-jose-miguel-aguilar-berrocal.txt",
+    "wordCount": 24479
+  },
+  {
+    "party": "PCAC",
+    "candidate": "Claudia Vanessa Dobles Camargo",
+    "filename": "PCAC-claudia-vanessa-dobles-camargo.txt",
+    "wordCount": 27391
+  },
+  {
+    "party": "PCDS",
+    "candidate": "Ana Virginia Calzada Miranda",
+    "filename": "PCDS-ana-virginia-calzada-miranda.txt",
+    "wordCount": 15094
+  },
+  {
+    "party": "PDLCT",
+    "candidate": "David Hernandez Brenes",
+    "filename": "PDLCT-david-hernandez-brenes.txt",
+    "wordCount": 15816
+  },
+  {
+    "party": "PEL",
+    "candidate": "Marco David Rodriguez Badilla",
+    "filename": "PEL-marco-david-rodriguez-badilla.txt",
+    "wordCount": 19131
+  },
+  {
+    "party": "PEN",
+    "candidate": "Claudio Alberto Alpizar Otoya",
+    "filename": "PEN-claudio-alberto-alpizar-otoya.txt",
+    "wordCount": 21377
+  },
+  {
+    "party": "PIN",
+    "candidate": "Luis Esteban Amador Jimenez",
+    "filename": "PIN-luis-esteban-amador-jimenez.txt",
+    "wordCount": 15254
+  },
+  {
+    "party": "PJSC",
+    "candidate": "Walter Ruben Hernandez Juarez",
+    "filename": "PJSC-walter-ruben-hernandez-juarez.txt",
+    "wordCount": 21576
+  },
+  {
+    "party": "PLN",
+    "candidate": "Alvaro Roberto Ramos Chaves",
+    "filename": "PLN-alvaro-roberto-ramos-chaves.txt",
+    "wordCount": 20306
+  },
+  {
+    "party": "PLP",
+    "candidate": "Eliecer Feinzaig Mintz",
+    "filename": "PLP-eliecer-feinzaig-mintz.txt",
+    "wordCount": 23047
+  },
+  {
+    "party": "PNG",
+    "candidate": "Fernando Dionisio Zamora Castellanos",
+    "filename": "PNG-fernando-dionisio-zamora-castellanos.txt",
+    "wordCount": 20185
+  },
+  {
+    "party": "PNR",
+    "candidate": "Gerardo Fabricio Alvarado Muoz",
+    "filename": "PNR-gerardo-fabricio-alvarado-muoz.txt",
+    "wordCount": 21581
+  },
+  {
+    "party": "PPSD",
+    "candidate": "Luz Mary Alpizar Loaiza",
+    "filename": "PPSD-luz-mary-alpizar-loaiza.txt",
+    "wordCount": 20028
+  },
+  {
+    "party": "PPSO",
+    "candidate": "Laura Fernandez Delgado",
+    "filename": "PPSO-laura-fernandez-delgado.txt",
+    "wordCount": 18998
+  },
+  {
+    "party": "PUCD",
+    "candidate": "Boris Molina Acevedo",
+    "filename": "PUCD-boris-molina-acevedo.txt",
+    "wordCount": 18893
+  },
+  {
+    "party": "PUSC",
+    "candidate": "Juan Carlos Hidalgo Bogantes",
+    "filename": "PUSC-juan-carlos-hidalgo-bogantes.txt",
+    "wordCount": 18287
+  },
+  {
+    "party": "UP",
+    "candidate": "Natalia Diaz Quintana",
+    "filename": "UP-natalia-diaz-quintana.txt",
+    "wordCount": 16560
+  }
+]

@@ -1,0 +1,150 @@
+{
+  "party": "PEN",
+  "candidate": "Claudio Alberto Alpizar Otoya",
+  "overallSummary": "Claudio Alpizar del PEN presenta una plataforma centrada en la reactivación económica mediante la reducción del gasto público (hasta 30% del PIB), descentralización administrativa, y un enfoque en productividad agropecuaria. Propone reformas institucionales significativas incluyendo la eliminación de instituciones autónomas, reforma electoral para promover bloques políticos, y cambios en el sistema de salud hacia un modelo privado competitivo. Su visión enfatiza la eficiencia del Estado, la reducción de impuestos, y el fortalecimiento del sector privado como motor del desarrollo. Muestra posiciones conservadoras en temas sociales y ambientales, priorizando el desarrollo económico sobre regulaciones ambientales estrictas.",
+  "dimensions": [
+    {
+      "name": "security",
+      "summary": "Propone un enfoque integral de seguridad con énfasis en prevención, inteligencia policial, reforma del sistema penitenciario y coordinación interinstitucional. Reconoce la necesidad de profesionalizar las fuerzas policiales y mejorar las condiciones carcelarias.",
+      "keyProposals": [
+        "Creación de una Comisión Nacional de Seguridad que coordine ministerios y entidades de seguridad",
+        "Implementación de sistema de inteligencia policial para prevención del crimen",
+        "Descentralización de la seguridad pública a nivel cantonal y distrital",
+        "Reforma del sistema penitenciario para evitar hacinamiento y mejorar reinserción",
+        "Mejora salarial y de condiciones para oficiales de policía y guardas penitenciarios",
+        "Equipamiento tecnológico y modernización de las fuerzas de seguridad",
+        "Enfoque preventivo trabajando con comunidades y jóvenes en riesgo",
+        "Mejora de condiciones carcelarias para dignificar a las personas privadas de libertad"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "economy",
+      "summary": "Propone una transformación económica profunda basada en la reducción drástica del Estado (del 35% al 30% del PIB), eliminación de instituciones autónomas, reducción de impuestos, y promoción del sector privado. Enfatiza la eficiencia, productividad y competitividad como pilares del desarrollo económico.",
+      "keyProposals": [
+        "Reducción del gasto público del 35% al 30% del PIB mediante eliminación de duplicidades",
+        "Eliminación de instituciones autónomas y semi-autónomas, centralizando funciones en ministerios",
+        "Reducción significativa de la carga impositiva para empresas y ciudadanos",
+        "Incentivos fiscales para inversionistas y emprendedores (exenciones de 5-10 años)",
+        "Reforma del IVA para aplicar tasas diferenciadas (canasta básica 0%, otros productos hasta 13%)",
+        "Simplificación y digitalización de trámites para reducir burocracia",
+        "Apoyo a PYMES mediante acceso a crédito y reducción de cargas tributarias",
+        "Promoción de zonas francas y atracción de inversión extranjera",
+        "Eliminación del timbre de educación y cultura",
+        "Creación de una Comisión Nacional de Productividad y Competitividad",
+        "Descentralización administrativa para dar autonomía económica a regiones"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "education",
+      "summary": "Plantea una reforma educativa enfocada en calidad, tecnología, y vinculación con el sector productivo. Propone descentralizar el MEP, fortalecer la educación técnica, y mejorar infraestructura escolar. Menciona la eliminación del timbre de educación pero asegura mantener el 8% constitucional.",
+      "keyProposals": [
+        "Descentralización del MEP creando direcciones regionales con autonomía",
+        "Fortalecimiento de colegios técnicos y vinculación con sectores productivos",
+        "Modernización tecnológica de centros educativos (internet, computadoras)",
+        "Mejora de infraestructura educativa (reparación de techos, baños, mobiliario)",
+        "Capacitación docente en nuevas tecnologías y metodologías",
+        "Reforma curricular para incluir más educación técnica y práctica",
+        "Promoción de valores cívicos, morales y éticos desde la educación",
+        "Mejora salarial para docentes y personal educativo",
+        "Eliminación del timbre de educación y cultura",
+        "Programas de becas para estudiantes en condición de vulnerabilidad",
+        "Mayor vinculación entre universidades públicas y sector productivo"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "health",
+      "summary": "Propone una transformación radical del sistema de salud mediante la apertura a la competencia privada, eliminación del monopolio de la CCSS, y creación de un sistema mixto donde el Estado garantiza cobertura básica pero permite opciones privadas. Enfatiza la reducción de listas de espera y mejora de infraestructura.",
+      "keyProposals": [
+        "Eliminación del monopolio de la CCSS y apertura a competencia privada",
+        "Creación de un sistema de salud mixto con aseguradores públicos y privados",
+        "El Estado garantizaría una póliza básica de salud universal",
+        "Ciudadanos podrían elegir entre CCSS u opciones privadas",
+        "Reducción drástica de listas de espera mediante mayor eficiencia y competencia",
+        "Mejora de infraestructura hospitalaria (EBAIS, clínicas, hospitales)",
+        "Modernización tecnológica del sistema de salud",
+        "Mejora salarial para médicos, enfermeras y personal de salud",
+        "Fortalecimiento de la medicina preventiva y atención primaria",
+        "Mayor autonomía de gestión para hospitales y áreas de salud",
+        "Reforma de la gestión administrativa de la CCSS para eliminar ineficiencias"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "agriculture",
+      "summary": "Presenta un fuerte enfoque en la reactivación del sector agropecuario como motor de desarrollo económico y seguridad alimentaria. Propone incentivos productivos, mejora de infraestructura rural, acceso a crédito, tecnificación, y apoyo integral a pequeños y medianos productores.",
+      "keyProposals": [
+        "Creación de una Comisión Nacional de Productividad Agropecuaria",
+        "Incentivos y exenciones fiscales para productores agropecuarios",
+        "Mejora de caminos y carreteras rurales para facilitar transporte de productos",
+        "Acceso preferencial a crédito para pequeños y medianos agricultores",
+        "Tecnificación del agro mediante capacitación y transferencia tecnológica",
+        "Eliminación de intermediarios excesivos para mejorar rentabilidad del productor",
+        "Apoyo a la agroindustria y valor agregado de productos agrícolas",
+        "Promoción de la agricultura orgánica y sostenible",
+        "Fortalecimiento de cooperativas y organizaciones de productores",
+        "Mejora de sistemas de riego y acceso al agua para producción",
+        "Protección de la producción nacional mediante aranceles estratégicos",
+        "Programas de compras estatales que privilegien productos locales",
+        "Apoyo específico a sectores estratégicos (café, arroz, ganadería, hortalizas)"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "environment",
+      "summary": "Muestra una posición pragmática sobre temas ambientales, priorizando el desarrollo económico y la explotación responsable de recursos naturales. Propone revisar políticas ambientales que considera excesivamente restrictivas, aunque reconoce la importancia de la conservación.",
+      "keyProposals": [
+        "Revisión de políticas ambientales que limitan desarrollo económico",
+        "Apertura a exploración y explotación de recursos naturales (minería responsable)",
+        "Balance entre conservación ambiental y desarrollo productivo",
+        "Revisión de restricciones en zonas de protección que afectan producción",
+        "Promoción de agricultura sostenible y orgánica",
+        "Mantenimiento de áreas protegidas pero con criterios de sostenibilidad económica",
+        "Enfoque pragmático sobre cambio climático priorizando adaptación",
+        "Promoción de energías renovables vinculadas a desarrollo productivo"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "reforms",
+      "summary": "Propone reformas institucionales radicales que transformarían profundamente el Estado costarricense. Incluye reforma electoral para promover bloques políticos, eliminación masiva de instituciones autónomas, descentralización administrativa, y cambios constitucionales para reducir el tamaño del Estado.",
+      "keyProposals": [
+        "Reforma electoral para permitir alianzas y bloques políticos estables",
+        "Modificación del sistema de votación para facilitar coaliciones",
+        "Eliminación de instituciones autónomas y semi-autónomas (centralización en ministerios)",
+        "Descentralización administrativa dando mayor autonomía a regiones y municipios",
+        "Reforma constitucional para permitir reducción del aparato estatal",
+        "Simplificación y digitalización total de trámites gubernamentales",
+        "Reforma del sistema de contratación pública para agilizar procesos",
+        "Reducción del número de diputados o reforma de funciones legislativas",
+        "Profesionalización del servicio civil y reducción de personal estatal",
+        "Reforma fiscal integral que simplifique el sistema tributario",
+        "Eliminación de duplicidades entre instituciones",
+        "Mayor transparencia y rendición de cuentas en el uso de recursos públicos"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "social",
+      "summary": "Mantiene un enfoque conservador en temas sociales, enfatizando valores tradicionales, familia, y orden social. Propone programas sociales focalizados pero condicionados a la reducción del Estado. Reconoce necesidades de poblaciones vulnerables pero prioriza la responsabilidad individual y el trabajo.",
+      "keyProposals": [
+        "Programas de vivienda para familias de bajos ingresos mediante bonos focalizados",
+        "Apoyo a adultos mayores mediante mejora de pensiones y centros de cuido",
+        "Programas de empleo juvenil vinculados a capacitación técnica",
+        "Atención a personas con discapacidad mediante mejora de accesibilidad",
+        "Promoción de valores familiares tradicionales desde la educación",
+        "Apoyo a madres solteras jefas de hogar mediante programas de empleo",
+        "Programas de prevención de adicciones y violencia intrafamiliar",
+        "Focalización de programas sociales en población realmente vulnerable",
+        "Promoción del empleo formal como principal mecanismo de inclusión social",
+        "Mejora de infraestructura comunitaria (espacios recreativos, centros comunales)",
+        "Programas de capacitación para población desempleada",
+        "Fortalecimiento de la familia como núcleo fundamental de la sociedad"
+      ],
+      "stance": "conservative"
+    }
+  ],
+  "generatedAt": "2026-01-12T19:30:00Z"
+}

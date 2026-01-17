@@ -1,0 +1,86 @@
+{
+  "party": "PNR",
+  "candidate": "Gerardo Fabricio Alvarado Muñoz",
+  "overallSummary": "Candidato conservador del Partido Nueva República con agenda centrada en seguridad (mano dura), desarrollo económico mediante grandes proyectos (Canal Verde Interoceánico, FODENAL), exploración de recursos naturales y valores cristianos. Propone estado de excepción para zonas críticas, exploración minera y petrolera con 40% de ganancias para Costa Rica, y transformación profunda de instituciones sociales con énfasis en familia y valores tradicionales.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Postura de mano dura con aumento de penas (hasta 50 años para sicariato), estado de excepción en zonas críticas, grupos policiales de choque y deportación de delincuentes migrantes. Considera la seguridad como prioridad número uno.",
+      "keyProposals": [
+        "Mano dura contra delincuencia con penas de hasta 50 años",
+        "Estado de excepción para comunidades con alta criminalidad",
+        "Grupos policiales de choque contra crimen organizado"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Modelo de desarrollo basado en grandes proyectos nacionales financiados por FODENAL (Canal Verde Interoceánico, exploración minera/petrolera, zonas francas). Propone explotar recursos naturales con 60/40 (40% para Costa Rica) y generar 10,000 empleos directos solo con el Canal.",
+      "keyProposals": [
+        "Fondo de Desarrollo Nacional (FODENAL) con múltiples fuentes",
+        "Canal Verde Interoceánico (Siquirres-La Cruz)",
+        "Exploración de cobre, oro, gas natural y petróleo"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "education",
+      "summary": "Transformación hacia educación STEAM (ciencia, tecnología, ingeniería, artes, matemáticas) con conectividad 100%, inglés y mandarín obligatorios. Rechaza ideología de género, propone valores cristianos y menciona presencia de Dios en escuelas. Educación dual con empresas.",
+      "keyProposals": [
+        "Educación STEAM con conectividad universal",
+        "Inglés y mandarín desde primaria",
+        "Rechazo a ideología de género, énfasis en valores cristianos"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone reformas al sistema de pensiones y CCSS, pero enfoca más en demografía que en servicios de salud. Reconoce envejecimiento poblacional como desafío.",
+      "keyProposals": [
+        "Reforma al sistema de pensiones",
+        "Atención al envejecimiento poblacional"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Visión de transformar sector agro en agroindustria moderna con conectividad, acceso a mercados y eliminación de intermediarios. Menciona descentralización de instituciones agrícolas para dar servicio regional.",
+      "keyProposals": [
+        "Transformación a agroindustria con tecnología",
+        "Eliminación de intermediarios",
+        "Descentralización del MAG"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Postura pragmática que prioriza desarrollo económico con sostenibilidad técnica. Propone explotar recursos minerales y petroleros 'con ciencia y técnica sostenible'. Menciona protección pero subordinada a desarrollo.",
+      "keyProposals": [
+        "Exploración sostenible de recursos naturales",
+        "Balance entre protección y desarrollo económico"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reformas estructurales profundas: INAMU a Ministerio de la Familia, trabajo penitenciario obligatorio, pastores evangélicos en cárceles, descentralización territorial para reducir desigualdad GAM vs zonas rurales.",
+      "keyProposals": [
+        "INAMU convertido en Ministerio de la Familia",
+        "Trabajo obligatorio para reos",
+        "Descentralización para 'una sola Costa Rica'"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "social",
+      "summary": "Agenda centrada en familia tradicional y valores cristianos. Propone convertir INAMU en Ministerio de la Familia, rechaza enfoque exclusivo en mujeres. Énfasis en combate a violencia intrafamiliar, drogas y alcoholismo. Políticas para adultos mayores, niñez y discapacidad con enfoque en familia.",
+      "keyProposals": [
+        "Ministerio de la Familia en lugar de INAMU",
+        "Combate integral a violencia intrafamiliar",
+        "Políticas centradas en valores familiares y cristianos"
+      ],
+      "stance": "conservative"
+    }
+  ],
+  "generatedAt": "2026-01-11T16:16:00.000Z"
+}

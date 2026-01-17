@@ -1,0 +1,83 @@
+{
+  "party": "PUSC",
+  "candidate": "Juan Carlos Hidalgo Bogantes",
+  "overallSummary": "Juan Carlos Hidalgo Bogantes propone una agenda centrada en 'emparejar la cancha' para reducir las desigualdades regionales en Costa Rica. Su enfoque principal está en reformas estructurales para modernizar el sistema educativo, crear un sistema unificado de cuido universal, y reducir las cargas sociales para generar empleo formal especialmente en zonas rurales y costeras. Proviene de San Carlos, es producto de la educación pública, y trabajó como analista de políticas públicas en Washington D.C. antes de regresar a la política costarricense.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone diferenciar entre crimen violento y no violento, con énfasis en que criminales violentos cumplan sentencias completas sin reducciones. Rechaza medidas populistas como megacárceles y favorece alternativas para crímenes no violentos con monitoreo electrónico para reducir costos y evitar que las cárceles sean 'escuelas del crimen'.",
+      "keyProposals": [
+        "Reforma al Código Procesal Penal para que crímenes violentos cumplan sentencia completa sin reducción",
+        "Separar criminales violentos de no violentos y crear centro penitenciario especializado para crimen organizado",
+        "Implementar sistema de monitoreo electrónico para casa por cárcel en casos de crímenes no violentos"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Su primer proyecto de ley sería reducir las cargas sociales del 26.6% al 19%, manteniendo las contribuciones a CCSS y pensiones pero trasladando el financiamiento de FODESAF, IMAS e INA al presupuesto ordinario. Busca incentivar la contratación formal, especialmente de mano de obra poco calificada en zonas rurales y costeras. También propone abrir el mercado eléctrico para reducir tarifas comerciales e industriales.",
+      "keyProposals": [
+        "Reducir cargas sociales patronales de 26.6% a 19% sin afectar financiamiento de CCSS ni pensiones complementarias",
+        "Apertura del mercado eléctrico con inversión privada para bajar costos de electricidad comercial e industrial",
+        "Fomentar industrias intensivas en mano de obra en zonas costeras y rurales"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "education",
+      "summary": "Plantea una reforma educativa robusta centrada en mejorar la calidad docente, reducir cargas administrativas, implementar evaluación constante y capacitación continua. Propone transicionar hacia educación técnica vocacional adaptada a realidades regionales, educación bilingüe en inglés (no solo clases de inglés, sino educación impartida en inglés), y flexibilizar la ley de educación dual para que más jóvenes obtengan experiencia laboral mientras estudian.",
+      "keyProposals": [
+        "Reforma educativa enfocada en calidad docente: reducir cargas burocráticas, más capacitación y sistema de evaluación constante",
+        "Convertir más colegios académicos en técnicos con oferta adaptada a realidades regionales y educación bilingüe",
+        "Flexibilizar requisitos de educación dual para aumentar de 300 a miles de estudiantes con experiencia laboral"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "health",
+      "summary": "Se compromete a mantener el financiamiento de la CCSS sin reducir el 14% que aportan los patronos a la seguridad social. Reconoce retos futuros por el envejecimiento poblacional pero no presenta propuestas específicas de reforma del sistema de salud más allá de proteger su financiamiento actual.",
+      "keyProposals": [
+        "Proteger el financiamiento de la CCSS manteniendo la contribución patronal del 14%",
+        "Reconocer desafíos del envejecimiento poblacional en el sistema de salud"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Propone cambiar el enfoque tradicional de asistencialismo y subsidios hacia un agro más resiliente, productivo e independiente. Enfatiza inversión en innovación y desarrollo tecnológico, con crítica a que las universidades estatales dedican solo 20% de su investigación a problemas productivos. Plantea mejorar sistema de seguros agrícolas ante volatilidad climática y reformar la banca de desarrollo para crédito más accesible.",
+      "keyProposals": [
+        "Aumentar inversión en investigación, desarrollo e innovación agrícola, reorientando investigación universitaria estatal hacia problemas productivos del sector",
+        "Fortalecer sistema de seguros agrícolas ante cambio climático y volatilidad climática",
+        "Reformar sistema de banca de desarrollo para mejorar acceso a crédito y crear instrumentos financieros de largo plazo (ejemplo: Icafé para café)"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona el cambio climático únicamente en el contexto de su impacto en la agricultura (mayor volatilidad de efectos climáticos que exponen a los agricultores a pérdidas). No presenta propuestas específicas sobre protección ambiental, cambio climático o políticas ambientales en general.",
+      "keyProposals": [],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Su agenda se centra en reformas estructurales para 'emparejar la cancha' y reducir desigualdades regionales. Propone reformas en sistemas de pensiones protegiendo pilares como IVM, ROP y pensiones voluntarias. Plantea emular programa de Unión Europea para que municipalidades adopten estándares amigables con adultos mayores. Crítica al sistema de protección demográfica invertida (Costa Rica nunca llegará a 6 millones, será 3.5 millones en 2100).",
+      "keyProposals": [
+        "Reformas a sistemas de pensiones protegiendo IVM, ROP y fomentando pensiones voluntarias",
+        "Emular programa de Unión Europea para municipalidades con estándares de infraestructura y servicios para adultos mayores",
+        "Transicionar el gasto social hacia un sistema unificado de cuido universal"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Su propuesta central es la 'gran reforma social de los 2020-2030': universalizar el cuido mediante un sistema unificado que incluya niños, adultos mayores y personas con discapacidad. Critica el incentivo perverso de la Red de Cuido actual (pierdes beneficio si sales de pobreza). Busca liberar a las mujeres para trabajo remunerado y dar educación temprana a niños. La tasa de participación laboral femenina es 27 puntos menor que la masculina, bajo el promedio latinoamericano.",
+      "keyProposals": [
+        "Crear sistema unificado de cuido universal empezando por hogares en pobreza (actualmente solo cubre 40% de mujeres pobres)",
+        "Eliminar incentivo perverso de Red de Cuido: universalizar para que no se pierda beneficio al salir de pobreza",
+        "Promover educación temprana (prekinder) que mejora desempeño académico futuro y enseña inglés y habilidades blandas"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-11T00:00:00Z"
+}

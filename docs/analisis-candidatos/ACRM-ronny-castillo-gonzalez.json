@@ -1,0 +1,141 @@
+{
+  "party": "ACRM",
+  "candidate": "Ronny Castillo Gonzalez",
+  "overallSummary": "Ronny Castillo González presenta una plataforma centrada en la innovación tecnológica, la transformación digital del Estado y políticas de mano dura en seguridad. Su visión económica se basa en ecosistemas de innovación, atracción de inversión extranjera y reducción del tamaño del Estado. Propone reformas significativas en salud (modelo de seguro privado obligatorio), educación (enfoque en habilidades digitales y STEM) y agricultura (valor agregado y tecnología). Su postura en temas sociales tiende hacia posiciones conservadoras, especialmente en seguridad ciudadana y políticas migratorias, aunque mantiene apertura moderada en temas de derechos LGBTQ+.",
+  "dimensions": [
+    {
+      "name": "security",
+      "summary": "Propone una política de mano dura con endurecimiento de penas, fortalecimiento policial, creación de unidades especializadas anticorrupción y colaboración internacional para combatir crimen organizado. Rechaza políticas blandas en el sistema penitenciario y busca eliminar call centers y extorsiones desde las cárceles. Enfatiza que los costarricenses viven en 'cárceles' (casas con rejas) y busca revertir esta realidad mediante mayor control del crimen.",
+      "keyProposals": [
+        "Endurecer las penas para delitos graves",
+        "Fortalecer policía con mecanismos de choque y control de bandas organizadas",
+        "Crear unidades especializadas para combatir corrupción, narcotráfico y crimen organizado",
+        "Implementar tribunales especializados en delitos organizados (ya aprobados pero sin presupuesto)",
+        "Fortalecer alianzas con agencias extranjeras (DEA, CIA, agencias colombiana, mexicana e italiana)",
+        "Eliminar call centers y mecanismos de extorsión desde las cárceles",
+        "Implementar política de mano dura alineada con derechos humanos pero con control estricto",
+        "Hacer que población privada de libertad trabaje para no ser carga del Estado",
+        "Garantizar seguridad ciudadana para eliminar necesidad de rejas en casas"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "economy",
+      "summary": "Enfoque en transformación digital, atracción de inversión extranjera de alto valor agregado, reducción del aparato estatal y creación de ecosistemas de innovación. Propone un Estado eficiente, reducido en tamaño pero eficaz en regulación y facilitación de negocios. Busca diversificar economía mediante clusters tecnológicos y especialización regional, con énfasis en eliminar burocracia y simplificar trámites empresariales.",
+      "keyProposals": [
+        "Crear ecosistemas de innovación basados en ADN productivo regional (Limón: logística con blockchain; Guanacaste: valor agregado agrícola y ecoturismo inteligente)",
+        "Atraer inversión extranjera de alto valor agregado mediante ventanilla única digital",
+        "Reducir aparato estatal eliminando duplicidades y burocracia",
+        "Simplificar trámites empresariales y permisos de construcción mediante plataforma digital única",
+        "Transformar BPDC en banca de desarrollo enfocada en PYMES con capital semilla y acompañamiento técnico",
+        "Eliminar impuesto de ventas para abaratar costo de vida",
+        "Aplicar IVA únicamente a servicios suntuarios o de lujo",
+        "Crear fondo de capital semilla para emprendimientos de base tecnológica",
+        "Establecer clusters especializados por región para aprovechar ventajas competitivas",
+        "Implementar sistema de trámites 100% digitales con firma digital"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "education",
+      "summary": "Propone transformación radical del sistema educativo con enfoque en habilidades digitales, STEM, pensamiento crítico y bilingüismo. Busca preparar estudiantes para empleos del futuro mediante uso intensivo de tecnología, programación desde primaria, y educación técnica fortalecida. Enfatiza colaboración con sector privado y actualización curricular para cerrar brecha entre educación y mercado laboral.",
+      "keyProposals": [
+        "Reformar currículo para enfocarse en habilidades del siglo XXI: pensamiento crítico, creatividad, colaboración",
+        "Enseñar programación y habilidades digitales desde primaria",
+        "Implementar bilingüismo efectivo (inglés) como prioridad",
+        "Fortalecer educación STEM y carreras técnicas alineadas con demanda laboral",
+        "Capacitar docentes en metodologías modernas y uso de tecnología educativa",
+        "Colaborar con sector privado para identificar necesidades del mercado laboral",
+        "Reformar INA para crear capacitaciones técnicas alineadas con ecosistemas de innovación regionales",
+        "Implementar educación técnica en áreas emergentes: IA, blockchain, desarrollo de software",
+        "Usar tecnología educativa para personalizar aprendizaje",
+        "Crear programas de formación continua para adultos en reconversión laboral"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "name": "health",
+      "summary": "Propone reforma radical del sistema de salud eliminando monopolio de CCSS y estableciendo modelo de seguro obligatorio privado o mixto, con competencia entre proveedores. Busca mantener cobertura universal pero con gestión privada eficiente. Plantea separar financiamiento de provisión de servicios y permitir libre elección de proveedores por parte de usuarios.",
+      "keyProposals": [
+        "Eliminar monopolio de CCSS manteniendo cobertura universal obligatoria",
+        "Implementar modelo de seguro obligatorio con opción de proveedores privados o CCSS",
+        "Separar financiamiento de provisión de servicios de salud",
+        "Permitir libre elección de proveedores por parte de usuarios (público o privado)",
+        "Crear competencia entre prestadores para mejorar calidad y reducir tiempos de espera",
+        "Mantener contribución obligatoria pero con opción de elegir aseguradora",
+        "Garantizar cobertura básica universal con posibilidad de planes complementarios",
+        "Mejorar eficiencia mediante gestión privada de servicios",
+        "Reducir listas de espera a través de competencia y mayor capacidad instalada"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "agriculture",
+      "summary": "Enfoque en valor agregado, innovación tecnológica, acceso a mercados internacionales y apoyo a pequeños productores. Propone transformar agricultura tradicional en agroindustria moderna mediante tecnología, certificaciones internacionales y eliminación de intermediarios. Busca crear clusters agrícolas especializados y conectar productores directamente con mercados.",
+      "keyProposals": [
+        "Promover valor agregado agrícola y agroindustria en zonas como Guanacaste",
+        "Facilitar acceso a mercados internacionales mediante apoyo a certificaciones",
+        "Eliminar intermediarios conectando productores directamente con compradores mediante plataformas digitales",
+        "Proveer asistencia técnica y tecnológica a pequeños productores",
+        "Crear clusters agrícolas especializados por región según ADN productivo",
+        "Desarrollar agricultura de precisión y tecnologías 4.0",
+        "Apoyar transición a agricultura orgánica y sostenible para mercados premium",
+        "Fortalecer cooperativas y asociaciones de productores",
+        "Proveer capital semilla para proyectos de agroindustria",
+        "Capacitar agricultores en nuevas tecnologías y prácticas modernas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "environment",
+      "summary": "Propone balance entre desarrollo económico y conservación ambiental, con énfasis en ecoturismo inteligente, tecnologías limpias y aprovechamiento sostenible de recursos naturales. Busca monetizar capital natural mediante turismo de alto valor y proyectos de carbono neutralidad. Mantiene compromiso con conservación pero con enfoque pragmático que permita desarrollo económico sostenible.",
+      "keyProposals": [
+        "Promover ecoturismo inteligente como motor económico especialmente en Guanacaste y zonas costeras",
+        "Desarrollar proyectos de carbono neutralidad y venta de bonos de carbono",
+        "Implementar tecnologías limpias en sectores productivos",
+        "Balancear conservación con desarrollo económico sostenible",
+        "Crear incentivos para empresas que adopten prácticas ambientalmente sostenibles",
+        "Aprovechar imagen de país verde para atraer turismo de alto valor",
+        "Desarrollar agricultura sostenible y orgánica",
+        "Proteger recursos naturales mientras se permite aprovechamiento económico responsable",
+        "Invertir en infraestructura turística sostenible"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "name": "reforms",
+      "summary": "Propone reformas estructurales profundas enfocadas en reducción del Estado, eliminación de duplicidades institucionales, simplificación regulatoria y transformación digital. Busca Estado pequeño pero eficiente, con reducción drástica de burocracia y modernización de instituciones públicas. Plantea reformas fiscales eliminando impuestos regresivos y focalizando gasto público.",
+      "keyProposals": [
+        "Reducir aparato estatal eliminando instituciones duplicadas y fusionando ministerios",
+        "Digitalizar completamente trámites y servicios públicos",
+        "Simplificar marco regulatorio para facilitar hacer negocios",
+        "Eliminar impuesto de ventas y aplicar IVA solo a servicios suntuarios",
+        "Reformar CCSS eliminando monopolio y permitiendo competencia",
+        "Transformar BPDC en verdadera banca de desarrollo para PYMES",
+        "Crear ventanilla única digital para permisos y trámites empresariales",
+        "Reformar sistema tributario para hacerlo más progresivo y simple",
+        "Eliminar burocracia y 'trámite-logía' que frena desarrollo",
+        "Modernizar instituciones públicas con enfoque en eficiencia y resultados"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "name": "social",
+      "summary": "Postura moderada-conservadora en temas sociales. Apoya derechos de población LGBTQ+ incluyendo matrimonio igualitario pero sin priorizar agenda progresista. En migración, propone enfoque selectivo priorizando migración calificada mientras mantiene apertura humanitaria para refugiados. Busca escuchar comunidades indígenas y afrodescendientes históricamente marginadas. En poblaciones vulnerables, enfatiza trabajo sobre subsidios. Propone políticas de inclusión pragmáticas sin discurso ideológico fuerte.",
+      "keyProposals": [
+        "Apoyar derechos LGBTQ+ incluyendo matrimonio igualitario y adopción",
+        "Rechazar discriminación por orientación sexual o identidad de género",
+        "Gestionar migración de forma selectiva priorizando personas calificadas que aporten al país",
+        "Mantener tradición de país solidario con refugiados",
+        "Implementar programas de educación cívica para integración de migrantes",
+        "Escuchar activamente a comunidades indígenas y afrodescendientes mediante visitas y comunicación constante",
+        "Atender necesidades específicas de territorios históricamente abandonados (puentes, infraestructura básica)",
+        "Crear mecanismos de comunicación eficiente con poblaciones marginadas",
+        "Realizar inversiones estratégicas en comunidades indígenas y afrodescendientes",
+        "Promover trabajo y capacitación para poblaciones vulnerables en lugar de dependencia de subsidios"
+      ],
+      "stance": "moderate"
+    }
+  ],
+  "generatedAt": "2026-01-12T00:00:00Z"
+}

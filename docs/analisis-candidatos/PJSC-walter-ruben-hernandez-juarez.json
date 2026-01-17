@@ -1,0 +1,101 @@
+{
+  "party": "PJSC",
+  "candidate": "Walter Ruben Hernandez Juarez",
+  "overallSummary": "Walter Hernández, de 67 años, es un candidato con amplia experiencia diplomática y gubernamental (embajador, viceministro, ministro) que propone un modelo de país basado en el diálogo, la educación y el fortalecimiento institucional. Su enfoque es pragmático, reconociendo la necesidad de planes de emergencia realistas en educación, salud y seguridad ciudadana. Busca equilibrar el desarrollo entre campo y ciudad, fortalecer la producción nacional y atender las necesidades de poblaciones vulnerables mediante reformas profundas en educación, salud, migración y el sistema penitenciario.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone un enfoque realista alejado de promesas grandilocuentes. Rechaza la construcción de una megacárcel y aboga por centros penitenciarios más pequeños (máximo 800 personas). Se opone al aumento de penas y a la cadena perpetua, enfatizando que las penas extremas no disuaden el delito. Prioriza la rehabilitación mediante el contacto familiar y critica el sexismo en el sistema penitenciario.",
+      "keyProposals": [
+        "Planes de emergencia de seguridad ciudadana con recursos existentes, sin promesas irreales de miles de policías o patrullas",
+        "Rechazar construcción de megacárcel para 5,000 personas, en su lugar crear centros de máximo 800 privados de libertad",
+        "Establecer límite de 22,000 espacios carcelarios (tope por cada 100,000 habitantes) para evitar fracaso de política criminal",
+        "Crear centros penitenciarios regionales para mujeres, acabando con el sexismo que concentra a todas en el Buen Pastor",
+        "Respetar derechos humanos de privados de libertad sin tratarlos como en hoteles, priorizar rehabilitación con contacto familiar"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone utilizar fondos de pensiones para obra pública e inversión en proyectos científicos. Busca fortalecer la producción nacional, revisar tratados de libre comercio y eliminar intermediarios que perjudican a productores. Plantea un modelo económico que aproveche el talento en tecnología e inteligencia artificial para desarrollo propio, no solo para call centers.",
+      "keyProposals": [
+        "Usar fondos de pensiones para construir obra pública y financiar proyectos científicos como el de Franklin Chang",
+        "Revisar y renegociar tratados de libre comercio (incluyendo TLC con Estados Unidos, México y Canadá) para proteger producción nacional",
+        "Regular márgenes de ganancia de intermediarios y grandes cadenas que no ajustaron precios al bajar el dólar",
+        "Incentivar fiscalmente a empresas privadas para que salgan del área metropolitana e instalarse en zonas de producción",
+        "Construir ferrocarril de frontera a frontera como medio de transporte barato y menos contaminante para abaratar costos"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "education",
+      "summary": "La educación es el pilar fundamental de su propuesta, considerándola clave para el desarrollo diferenciado de Costa Rica. Propone reforma educativa profunda con énfasis en educación técnica, enseñanza de artes, educación cívica real, historia verdadera del país y retorno a la excelencia académica mediante exámenes. Critica fuertemente el sistema actual por no enseñar historia nacional más allá de Juan Santamaría.",
+      "keyProposals": [
+        "Reforma educativa: primeros 3 años uniformes con matemática básica para pensamiento lógico, luego especialización técnica o académica según capacidad",
+        "Ampliar modelo de colegios técnicos y desarrollar capacidades artísticas (pintura, escultura, teatro, música)",
+        "Fortalecer educación cívica realista y enseñar historia verdadera de Costa Rica (incluyendo Guerra Civil del 48 con 4000-6000 muertos)",
+        "Volver a implementar exámenes y premiar la excelencia, rechazar nivelar para abajo donde todos reciben la misma medalla",
+        "Crear grupos de conversación en inglés con adultos mayores bilingües y aprovechar guías turísticos en temporada baja para fortalecer bilingüismo"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "health",
+      "summary": "Critica duramente el alto costo de medicamentos en Costa Rica y propone revisión profunda del sistema farmacéutico. Busca negociar con países como India para producción de genéricos en el país y revisar patentes que ya recuperaron inversión. Propone atención integral a adultos mayores para combatir el síndrome de soledad.",
+      "keyProposals": [
+        "Revisar legislación y decretos que permiten refacturación de medicamentos desde zona franca, encareciendo precios artificialmente",
+        "Establecer que patentes farmacéuticas no excedan 15 años de protección, eliminando cobros excesivos en medicamentos de 20-30 años",
+        "Negociar con India (mayor fabricante mundial de genéricos) para establecer producción de fármacos genéricos y crear 20,000 empleos",
+        "Sentarse a negociar con compañías farmacéuticas para reducir márgenes de ganancia leoninos vs. ganancias razonables",
+        "Crear centros de cuido para adultos mayores (tipo CECUDI) para combatir síndrome de soledad"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Propone eliminar decretos que perjudican producción nacional, revisar tratados de libre comercio y frenar la intermediación que afecta a agricultores y ganaderos. Reconoce la necesidad de mantener capacidad de producción nacional para seguridad alimentaria. Plantea reingeniería del Ministerio de Agricultura y reactivación del CNP transformado.",
+      "keyProposals": [
+        "Eliminar vía decreto aquellos que han ido contra la producción nacional",
+        "Revisar intermediación y márgenes de cadenas que establecieron precios con dólar a 600 y no los bajaron con dólar a menos de 500",
+        "Reingeniería profunda del Ministerio de Agricultura y Ganadería, especialmente en tema de moléculas para producción",
+        "Negociar con países productores de agroquímicos para reducir costos de insumos agrícolas",
+        "Reactivar y transformar CNP en un modelo realista de estanco para proteger a productores nacionales y frenar intermediarios"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Propone ferrocarril como medio de transporte menos contaminante (solo contaminación sónica) para reducir impacto ambiental. Menciona inversión en proyectos científicos como el combustible de plasma de Franklin Chang. No presenta propuestas detalladas de política ambiental.",
+      "keyProposals": [
+        "Construcción de ferrocarril de frontera a frontera como medio de transporte menos contaminante",
+        "Invertir en proyectos científicos como fabricación de combustible de plasma (hacer funcionar máquinas con agua) de Franklin Chang"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reformas profundas en múltiples áreas: educativa, migratoria, judicial (negociación para agilizar juzgados de trabajo), legislativa (igualdad salarial), y administrativa. Enfatiza la cooperación entre poderes por sobre la división, citando que la división de poderes es un mito y debe haber especialización y cooperación.",
+      "keyProposals": [
+        "Reforma inmediata de ley de migración con declaratoria de amnistía para regularizar situación de irregulares",
+        "Negociación con poder judicial para reforma interna y funcionamiento más efectivo y expedito de juzgados de trabajo",
+        "Ajustes en legislación laboral para garantizar igualdad salarial entre hombres y mujeres por igual trabajo",
+        "Reformar cobros de CCSS para migrantes (cobros razonables de 3,500-15,000 colones vs. 32,000 actuales) para aumentar cotizantes",
+        "Establecer cooperación entre poderes mediante diálogo y tender puentes de plata, rechazando idea de división absoluta"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Presenta propuestas integrales para poblaciones vulnerables: niñez, mujeres, personas con discapacidad, adultos mayores, pueblos indígenas y afrodescendientes, y migrantes. Propone comisionados presidenciales para atención específica y busca ampliar redes de cuido con horarios extendidos (24 horas). Rechaza machismo y discriminación, promoviendo inclusión real.",
+      "keyProposals": [
+        "Nombrar comisionado de personas con discapacidad en Ministerio de Presidencia para revisión continua y señalar fallas",
+        "Ampliar sistema CECUDI con horarios hasta de 24 horas en regiones con fábricas de tres turnos, en alianza público-privada",
+        "Crear créditos especiales para jóvenes 18-25 años con buenas ideas (software, tecnología, emprendimientos) sin requisitos excesivos",
+        "Respetar lenguas tradicionales de pueblos indígenas y enseñar patuá a afrodescendientes en escuelas",
+        "Amnistía inmediata para migrantes irregulares, fortalecer centros de ayuda (no detención) y atención del PANI a niños en situación de calle"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T00:00:00Z"
+}

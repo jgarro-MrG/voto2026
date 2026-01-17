@@ -1,0 +1,98 @@
+{
+  "party": "PDLCT",
+  "candidate": "David Hernandez Brenes",
+  "overallSummary": "David Hernández Brenes representa una visión socialista del Partido de la Clase Trabajadora (PDLCT). Su propuesta central es la transformación radical del sistema económico capitalista mediante planificación económica, nacionalización de sectores estratégicos, y redistribución de la riqueza. Identifica a la 'clase trabajadora' como el sujeto político central y propone eliminar progresivamente la desigualdad que atribuye al sistema capitalista. Sus propuestas incluyen reforma agraria integral, sistema carcelario rehabilitador, red nacional de cuido robusta, y garantía de salarios dignos. Todas sus políticas están orientadas a eliminar la explotación y priorizar las necesidades de la clase trabajadora.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone abordar la inseguridad como un problema sistémico vinculado al sistema económico. Critica el sistema carcelario actual y propone reformarlo con enfoque en rehabilitación. Menciona que la violencia y el crimen están ligados a la explotación económica.",
+      "keyProposals": [
+        "Reformar el sistema carcelario con enfoque rehabilitador en lugar de punitivo",
+        "Abordar las causas estructurales de la inseguridad vinculadas al sistema económico",
+        "Garantizar seguridad física y laboral especialmente para mujeres trabajadoras"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone una transformación radical del sistema económico mediante planificación económica centralizada, nacionalización de sectores estratégicos, y garantía de salarios dignos. Critica el sistema capitalista por generar explotación y desigualdad. Busca que las ganancias generadas en el país se queden en Costa Rica.",
+      "keyProposals": [
+        "Implementar una economía planificada que priorice las necesidades de la clase trabajadora",
+        "Nacionalización de tierras y grandes conglomerados económicos",
+        "Garantizar salarios dignos que permitan suplir necesidades básicas y tiempo con la familia",
+        "Retener las ganancias económicas en el país en lugar de que salgan al extranjero",
+        "Eliminar progresivamente la desigualdad económica"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "education",
+      "summary": "Propone fortalecer la educación pública como derecho fundamental. Menciona la importancia de profesionales especializados en educación especial y adecuaciones. Enfatiza que el trabajo de cuido no remunerado limita el acceso a educación de las mujeres.",
+      "keyProposals": [
+        "Fortalecer red nacional de cuido con profesionales especializados en educación especial",
+        "Garantizar acceso universal a educación de calidad",
+        "Redistribuir el trabajo de cuido para que no limite el acceso a educación de las mujeres",
+        "Asegurar que estudiantes con necesidades especiales reciban las adecuaciones necesarias"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone garantizar salud de calidad para toda la clase trabajadora. Menciona que las pensiones actuales no cubren medicinas ni alquiler. Enfatiza la necesidad de fortalecer la CCSS y proteger regímenes especiales de pensión.",
+      "keyProposals": [
+        "Garantizar salud de calidad para toda la clase obrera, nacional o extranjera",
+        "Proteger y fortalecer los regímenes especiales de pensiones",
+        "Asegurar que la Caja Costarricense del Seguro Social tenga recursos suficientes",
+        "Garantizar que las pensiones cubran medicinas y necesidades básicas como alquiler",
+        "Atención médica especializada para personas con discapacidad"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Propone una reforma agraria integral con nacionalización de tierras y eliminación de condiciones inhumanas en plantaciones. Enfatiza la soberanía alimentaria y el derecho de familias campesinas a acceder a la tierra. Critica el modelo agroexportador actual.",
+      "keyProposals": [
+        "Reforma agraria para que familias campesinas tengan acceso a tierra",
+        "Nacionalización de tierras y grandes conglomerados agrícolas",
+        "Planificación económica agrícola que priorice soberanía alimentaria",
+        "Eliminar condiciones inhumanas en plantaciones (piña, palma, etc.)",
+        "Revertir el modelo de producción que destruye la soberanía alimentaria",
+        "Garantizar derechos laborales para trabajadores agrícolas"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "environment",
+      "summary": "No se mencionan propuestas específicas sobre medio ambiente o cambio climático en la transcripción.",
+      "keyProposals": [],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone múltiples reformas estructurales: reforma agraria para redistribuir tierras, reforma del sistema carcelario con enfoque rehabilitador, reforma del sistema de pensiones para garantizar dignidad en la vejez, y políticas laborales inclusivas que garanticen todos los derechos laborales sin discriminación.",
+      "keyProposals": [
+        "Reforma agraria para redistribución de tierras a familias campesinas",
+        "Reforma del sistema carcelario hacia modelo rehabilitador",
+        "Reforma de pensiones para evitar que la vejez sea etapa de empobrecimiento",
+        "Políticas laborales inclusivas que garanticen derechos a todas las personas trabajadoras",
+        "Reforma integral del país con enfoque en justicia social"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Propone eliminar progresivamente la desigualdad social mediante redistribución de riqueza, red nacional de cuido robusta, protección de adultos mayores con pensiones dignas, e inversión social sostenida. Enfatiza que el trabajo de cuido doméstico (24% del PIB) debe ser reconocido y no recaer solo en mujeres.",
+      "keyProposals": [
+        "Crear una red nacional de cuido robusta y universal",
+        "Redistribuir el trabajo de cuido que actualmente recae en mujeres (equivalente al 24% del PIB)",
+        "Garantizar inversión social sostenida en cuido, salud y educación",
+        "Proteger a población adulta mayor con pensiones que cubran necesidades básicas",
+        "Eliminar progresivamente la desigualdad social",
+        "Garantizar que la mayoría de la población sea feliz y tenga lo que necesita",
+        "Proteger a la niñez aumentando inversión social y reduciendo violencia"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-12T02:22:00.000Z"
+}

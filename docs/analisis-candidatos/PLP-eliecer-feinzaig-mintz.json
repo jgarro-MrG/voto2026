@@ -1,0 +1,120 @@
+{
+  "party": "PLP",
+  "candidate": "Eliecer Feinzaig Mintz",
+  "overallSummary": "Eliecer Feinzaig del Partido Liberal Progresista se presenta como un ciudadano josefino con experiencia desde su juventud trabajando en el Mercado Central, lo que le dio contacto directo con diversos sectores de la población. Su visión se centra en recuperar la paz en las calles, generar prosperidad económica y mejorar las condiciones de vida mediante reformas en educación, seguridad con enfoque en recursos judiciales, y desarrollo económico que beneficie tanto al Gran Área Metropolitana como a zonas rurales. Enfatiza la necesidad de medición de desempeño, gobernanza basada en resultados, y un enfoque liberal en derechos humanos.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Propone un enfoque integral de seguridad que prioriza fortalecer la capacidad del sistema judicial para procesar casos efectivamente. Rechaza soluciones simplistas y enfatiza que el problema central no está en los jueces sino en la falta de recursos para fiscales. Distingue entre diferentes perfiles criminales y propone separación en el sistema carcelario. Reconoce condiciones deplorables en las cárceles actuales y propone inversión en nuevos módulos con perfilamiento adecuado de criminales.",
+      "keyProposals": [
+        "Aumentar recursos a la Fiscalía para contratar 120 fiscales nuevos en áreas de narcotráfico, violencia contra la mujer y crimen ambiental",
+        "Fortalecer capacidad del OIJ para investigar y de la Fiscalía para preparar casos judiciales sólidos",
+        "Invertir en nuevos módulos carcelarios y separación de poblaciones criminales según perfilamiento",
+        "Mejorar condiciones carcelarias tanto para privados de libertad como para guardas",
+        "Enfocarse en aumentar la probabilidad de detención y enjuiciamiento efectivo, no solo en aumentar penas",
+        "Rechazar propuestas populistas de atacar al Poder Judicial sin dar recursos necesarios"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Plantea un modelo económico liberal con énfasis en competitividad, apertura comercial preparada, y desarrollo de zonas económicas especiales para descentralizar oportunidades. Propone reducir cargas sociales mediante reformas a la CCSS con contabilidad de costos, y dignificar al productor nacional preparándolo para competir en tratados comerciales. Enfatiza la necesidad de crear empleo digno fuera del Gran Área Metropolitana mediante incentivos especiales y alianzas público-privadas.",
+      "keyProposals": [
+        "Crear zonas económicas especiales con beneficios adicionales fuera del GAM para atraer inversión",
+        "Permitir que empresas inviertan en infraestructura pública y descuenten de impuestos",
+        "Establecer contabilidad de costos en CCSS para identificar desperdicios y reducir cargas sociales",
+        "Preparar a productores nacionales antes de firmar tratados comerciales, no solo dar plazos de desgravación",
+        "Dignificar al productor nacional considerando sensibilidades sectoriales en negociaciones comerciales",
+        "Recurrir a capital privado y modelos de alianza público-privada para infraestructura",
+        "Mayor apertura en el mercado laboral con enfoque en competitividad"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "education",
+      "summary": "Propone una reforma educativa profunda enfocada en pertinencia y relevancia del siglo XXI. Critica fuertemente la reducción de inversión educativa por debajo del 5% del PIB por parte del gobierno actual. Su visión incluye modernización pedagógica, énfasis en educación técnica (50% de graduados), habilidades blandas y pensamiento crítico. Rechaza metas sin objetivos medibles y propone sistema de rendición de cuentas con medición de desempeño tanto de alumnos como de docentes.",
+      "keyProposals": [
+        "Incrementar inversión en educación significativamente desde el actual menos de 5% del PIB",
+        "Reforma educativa basada en reforzar habilidades básicas, informáticas y blandas",
+        "Enseñar pensamiento crítico y capacidad de investigación desde temprana edad",
+        "Lograr que 50% de jóvenes se gradúen de colegios técnicos con preparación para empleo bien remunerado",
+        "Modernizar métodos pedagógicos adaptados a la era digital y chat GPT",
+        "Implementar medición de desempeño de alumnos y docentes con rendición de cuentas",
+        "Establecer metas basadas en resultados (ej: mejorar rendimiento en pruebas PISA 30% en 15 años)",
+        "Garantizar conectividad real y capacitación docente en herramientas tecnológicas",
+        "Incluir educación cívica, cultural, música, teatro y artes plásticas para formación integral"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "health",
+      "summary": "Aborda el sistema de salud desde múltiples ángulos: salud preventiva desde la primera infancia, atención especializada para poblaciones con discapacidad, y reforma al sistema de pensiones considerando el envejecimiento poblacional. Reconoce la necesidad de planificar para una población adulta mayor creciente mientras disminuye la población joven. Propone extensión de programas de seguimiento desde el embarazo hasta todas las etapas de desarrollo infantil.",
+      "keyProposals": [
+        "Implementar salud preventiva desde la primera infancia con seguimiento continuo",
+        "Extender programa de seguimiento a madres embarazadas para incluir todas las etapas del desarrollo infantil",
+        "Crear programas con equipos especializados y apoyos técnicos subsidiados para población con discapacidad",
+        "Iniciar discusión nacional sobre cómo atender el envejecimiento relativo de la población",
+        "Reforma al sistema de pensiones de CCSS para hacerlo sostenible ante cambio demográfico",
+        "Aumentar presupuesto de CONAPAN significativamente para atender población adulta mayor creciente",
+        "Planificar redistribución de recursos educativos hacia atención de adultos mayores conforme disminuye población escolar"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Propone revitalizar el sector agropecuario mediante fortalecimiento del MAG como asesor técnico real, no como agencia burocrática. Critica que funcionarios del MAG solo visitan fincas cada 6 meses para llenar formularios sin dar asesoría técnica. Enfatiza preparar al sector antes de tratados comerciales, crear condiciones competitivas reales, y desarrollar proyectos de riego mediante desalinización en zonas costeras áridas.",
+      "keyProposals": [
+        "Recuperar el rol del MAG como asesor técnico del agricultor, no solo agencia de formularios",
+        "Aumentar frecuencia y calidad de visitas técnicas del MAG a fincas con asesoría práctica",
+        "Desarrollar tecnología de desalinización de agua de mar para agricultura en Guanacaste, Puntarenas y Limón",
+        "Resolver problemas de infraestructura básica como agua para posibilitar producción agrícola",
+        "Retomar proyecto de agua para Guanacaste detenido por gobierno actual",
+        "Preparar a agricultores durante períodos de desgravación de tratados comerciales",
+        "Considerar sensibilidades sectoriales agrícolas en negociaciones comerciales"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona el ambiente principalmente en el contexto de fiscales especializados en crimen ambiental y la relación con poblaciones indígenas que viven en o cerca de áreas protegidas. Propone crear mecanismos para que la protección ambiental genere beneficios a comunidades locales, incentivando su participación activa en conservación. Su enfoque busca integrar desarrollo económico sostenible con protección ambiental.",
+      "keyProposals": [
+        "Aumentar recursos para fiscales especializados en crimen ambiental",
+        "Crear mecanismos para que áreas protegidas generen beneficios a comunidades indígenas y locales",
+        "Incentivar a poblaciones locales para actuar en favor de protección ambiental mediante beneficios directos",
+        "Integrar protección ambiental con desarrollo económico en zonas rurales y territorios indígenas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reforma profunda al sistema de pensiones migrando de modelo de reparto a cuentas individuales capitalizadas, reconociendo la inversión demográfica (de 32 trabajadores por pensionado en 1970 a 4-5 actualmente). Enfatiza reformas educativas integrales, modernización del Estado con medición de desempeño, y cambio en gobernanza de metas de gasto a metas de resultados. Rechaza mantener sistema actual insostenible.",
+      "keyProposals": [
+        "Migrar sistema de pensiones de modelo de reparto a cuentas individuales capitalizadas",
+        "Crear cuentas individuales donde aportes de trabajador, patrono y Estado sean visibles mensualmente",
+        "Reforma educativa integral abandonando meta del 8% PIB por metas basadas en resultados medibles",
+        "Cambiar gobernanza estatal de metas de gasto a metas de resultados con rendición de cuentas",
+        "Adaptar instituciones al cambio demográfico (menos jóvenes, más adultos mayores)",
+        "Implementar sistemas de medición de desempeño en instituciones públicas"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Propone políticas sociales enfocadas en grupos vulnerables: mujeres, personas con discapacidad, niñez, indígenas y afrodescendientes. Enfatiza aumentar participación laboral femenina mediante expansión de red de cuido con enfoque didáctico, no solo guardería. Propone inclusión laboral de personas con discapacidad mediante incentivos empresariales. Defiende derechos de migrantes refugiados desde perspectiva liberal de derechos humanos. Critica cultura machista y propone educación desde primaria para cambio generacional.",
+      "keyProposals": [
+        "Ampliar red de cuido con servicios didácticos y estimulación temprana, no solo guardería",
+        "Aumentar tasa de participación laboral femenina al promedio OCDE para crecimiento económico",
+        "Crear ley de inclusión laboral con incentivos para empresas que contraten personas con discapacidad",
+        "Ofrecer capacitación a personas con discapacidad para incorporarse a fuerza laboral",
+        "Incluir accesibilidad en diseño de obra pública y transporte desde el inicio",
+        "Implementar campañas de concientización y educación desde primaria contra cultura machista",
+        "Defender derecho de refugio para personas perseguidas por motivos políticos o religiosos",
+        "Permitir migración laboral reconociendo actividades económicas que dependen de migrantes",
+        "Gobernar dialogando con poblaciones indígenas y afrodescendientes para soluciones a la medida",
+        "Formar docentes indígenas en sus lenguas maternas para escuelas en territorios indígenas"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-11T19:45:00.000000"
+}

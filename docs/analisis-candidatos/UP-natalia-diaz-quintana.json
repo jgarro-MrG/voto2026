@@ -1,0 +1,102 @@
+{
+  "party": "UP",
+  "candidate": "Natalia Diaz Quintana",
+  "overallSummary": "Natalia Díaz Quintana del partido Unidos Podemos presenta una visión centrada en la planificación a largo plazo, la facilitación estatal para el desarrollo y la autonomía económica de la población. Su enfoque busca un estado que facilite en lugar de obstaculizar, con énfasis en la articulación entre gobierno central, gobiernos locales y sector privado. Propone soluciones pragmáticas basadas en educación dual, modernización institucional (especialmente del INA) y generación de oportunidades económicas en lugar de subsidios directos.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Aborda la seguridad desde una perspectiva preventiva, vinculándola con oportunidades económicas y formación desde la primera infancia. Menciona la necesidad de combatir células terroristas de crimen organizado con influencia de Venezuela y Colombia. Propone coordinación con gobiernos locales para control migratorio de personas vinculadas a redes criminales.",
+      "keyProposals": [
+        "Deportación inmediata de personas identificadas en redes de crimen organizado",
+        "Coordinación con gobiernos locales para revisar estatus migratorio en hoteles, edificios abandonados y cuarterías ilegales",
+        "Control fronterizo con tecnología y alianzas con sector privado",
+        "Prevención del crimen mediante oportunidades de empleo en zonas rurales y urbanas abandonadas"
+      ],
+      "stance": "conservative"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Enfoque liberal centrado en autonomía económica, independencia financiera y generación de riqueza en lugar de subsidios. Prioriza la formalización laboral, educación dual y articulación público-privada. Busca facilitar el emprendimiento mediante ventanillas únicas y reducción de obstáculos burocráticos. Apoya la entrega del ROP de forma escalonada según solvencia fiscal.",
+      "keyProposals": [
+        "Ventanillas únicas en gobiernos locales para orientar emprendimientos y acceso a programas (MEP, Banco Popular, INA, IMAS)",
+        "Formalización del 37-38% de la fuerza laboral informal que no cotiza",
+        "Entrega escalonada del ROP según solvencia fiscal, priorizando equidad en lugar de grupos específicos",
+        "Modernización del INA con horarios flexibles y programas ajustados a actividad económica regional",
+        "Educación dual con programas de 9-18 meses que ofrecen compensación económica mientras se estudia"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "education",
+      "summary": "Propone planificación educativa a 20-25 años con énfasis en formación integral desde la primera infancia. Busca reducir carga administrativa de docentes para que se enfoquen en enseñanza. Prioriza educación dual, habilidades blandas y vinculación con demanda laboral regional. Defiende capacidad disciplinaria de docentes con respeto.",
+      "keyProposals": [
+        "Acompañamiento desde primera infancia con tutorías dentro y fuera del aula",
+        "Expansión de centros educativos especializados para personas con discapacidad más allá de Centeno, Fernando Centeno Güell y Napoleón Quesada",
+        "Reducción de labores administrativas para que profesores se dediquen a enseñar",
+        "Restauración de programas formativos como DARE para toma de decisiones",
+        "Modernización del INA con ajuste de oferta educativa según actividad económica regional",
+        "Educación dual con programas cortos (9-18 meses) vinculados a empleo"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "health",
+      "summary": "Aborda salud principalmente desde la perspectiva de red de cuido y acceso en territorios indígenas. Menciona la necesidad de mejorar servicios básicos en zonas marginadas. Propone reforma a la CCSS basada en tiempo real trabajado en lugar de base mínima para abaratar seguros.",
+      "keyProposals": [
+        "Reforma de la CCSS para que asegure por tiempo real trabajado, no por base mínima, para abaratar seguros",
+        "Acceso a servicios de salud la mayoría de días en territorios indígenas (actualmente solo visita médica 1-2 veces por semana o cada 15 días)",
+        "Red de cuido con horarios flexibles para mujeres en agricultura, comercio y seguridad que trabajan horarios no tradicionales",
+        "Ampliación de red de cuido para después de los 13-14 años"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Posición fuerte a favor del sector agropecuario como eje de seguridad alimentaria y posicionamiento internacional. Rechaza subsidios pero propone herramientas para competir en igualdad de condiciones. Enfatiza valor agregado, innovación tecnológica y relevo generacional. Busca convertir a Costa Rica en país exportador de alimentos saludables.",
+      "keyProposals": [
+        "Política de estado a largo plazo con cultivos estratégicos para posicionar a Costa Rica como país que vende alimentos saludables al mundo",
+        "MAG como rector directo del registro de moléculas (reducir años de espera), sin depender de Salud o MINAE",
+        "Crédito adaptado al ciclo de producción de cada cultivo con asesoría del MAG a entidades financieras",
+        "Seguros de cosechas con el INS como requisito para crédito",
+        "Hacer agricultura rentable para atraer relevo generacional joven",
+        "Diversificación con turismo rural comunitario, cafeterías, barismo, catación, microbeneficios"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "environment",
+      "summary": "No menciona explícitamente políticas ambientales o climáticas. Las referencias indirectas están relacionadas con agricultura sostenible y moléculas más modernas menos contaminantes para agroquímicos.",
+      "keyProposals": [
+        "Uso de moléculas más modernas y menos contaminantes en agricultura"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone reformas institucionales para modernización y articulación, especialmente en INA, CCSS y estructuras carcelarias. Enfatiza trabajo colaborativo entre gobierno central, local y sector privado. Busca cambiar mentalidad del estado de hacer favores a facilitar servicios.",
+      "keyProposals": [
+        "Reforma de la CCSS para asegurar por tiempo real trabajado en lugar de base mínima",
+        "Modernización del INA: horarios flexibles, oferta ajustada a demanda regional, programas de 9-18 meses",
+        "Cambio de mentalidad en instituciones públicas para facilitar en lugar de obstaculizar",
+        "Reforma del sistema penitenciario: trabajo obligatorio para privados de libertad en lugar de bodegaje humano",
+        "Articulación mediante ventanillas únicas entre gobierno local y central (sin nuevas leyes)"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "social",
+      "summary": "Enfoque en autonomía e independencia económica por sobre asistencialismo. Prioriza oportunidades de empleo, educación y emprendimiento. Propone políticas de articulación (no nuevas leyes) entre gobierno central, local, asociaciones de desarrollo y sector privado. Defiende igualdad de oportunidades para todas las poblaciones sin diferenciación.",
+      "keyProposals": [
+        "Red de cuido ampliada con horarios flexibles para trabajos no tradicionales y cobertura hasta después de los 13-14 años",
+        "Autonomía económica para jefas de hogar mediante educación dual, orientación y ventanillas únicas de acceso a programas",
+        "Acceso real a servicios básicos en territorios indígenas (educación, salud, carreteras)",
+        "Enlace directo de territorios indígenas y afrodescendientes con Casa Presidencial, no solo a través de asociaciones de desarrollo",
+        "Migración ordenada: bienvenida para quien trabaja y aporta, deportación para quien delinque",
+        "Fronteras abiertas sábados y domingos para trabajadores agrícolas de Panamá y Nicaragua",
+        "Trabajo obligatorio para población privada de libertad con separación de privados de libertad peligrosos"
+      ],
+      "stance": "moderate"
+    }
+  ],
+  "generatedAt": "2026-01-12T00:00:00Z"
+}

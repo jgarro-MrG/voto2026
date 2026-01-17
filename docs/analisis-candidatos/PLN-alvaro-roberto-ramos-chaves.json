@@ -1,0 +1,86 @@
+{
+  "party": "PLN",
+  "candidate": "Alvaro Roberto Ramos Chaves",
+  "overallSummary": "Álvaro Ramos es un candidato que enfatiza la justicia social, las oportunidades para todos y la democracia plena como valores fundamentales. Su visión se centra en sistemas universales (salud, educación, pensiones, cuido), el rechazo a la meritocracia cruel, y la descentralización del país con énfasis en el desarrollo rural. Propone un modelo multipolar de desarrollo basado en ciudades emergentes fuera del GAM, con fuerte inversión en infraestructura regional y programas sociales integrales.",
+  "dimensions": [
+    {
+      "dimension": "security",
+      "summary": "Enfoque en prevención del crimen y desarticulación del crimen organizado. Rechaza el endurecimiento generalizado de penas y los estados de excepción. Propone enfocarse en proteger víctimas, mejorar coordinación entre policía, OIJ y fiscalía, y atacar las 43 comunidades violentas identificadas donde grupos ejercen intimidación colectiva.",
+      "keyProposals": [
+        "Reforzar la policía y mejorar coordinación con OIJ y fiscalía para prevención y desarticulación del crimen organizado",
+        "Construir edificio multinivel carcelario de baja intensidad para 1,000 espacios con programas de rehabilitación y reinserción social",
+        "Restablecer controles fronterizos (marítimos, terrestres y aéreos) que fueron eliminados en la administración actual"
+      ],
+      "stance": "moderate"
+    },
+    {
+      "dimension": "economy",
+      "summary": "Propone un modelo multipolar de desarrollo económico centrado en ciudades emergentes (Liberia, Ciudad Quesada, Guápiles, San Isidro del General) para descentralizar el crecimiento. Critica la política macroeconómica actual, especialmente tipo de cambio bajo que afecta sectores como turismo. Busca coherencia entre políticas productivas y educativas.",
+      "keyProposals": [
+        "Modelo multipolar con inversión prioritaria en infraestructura fuera del GAM (vial, ferroviaria, aeropuertos, puertos) para impulsar ciudades emergentes que pueden crecer 40-100% más rápido que el GAM",
+        "Corregir política monetaria y tipo de cambio que está quebrando sectores como turismo en San Carlos",
+        "Fortalecer educación dual para conectar sistema educativo con sistema productivo"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "education",
+      "summary": "Compromiso absoluto de volver al 8% del PIB en educación tras 8 años de reducción continua. Propone universalizar educación preescolar bilingüe, fortalecer educación dual y conectar formación educativa con oportunidades laborales reales. Critica la incoherencia de entrenar jóvenes para sectores que el gobierno descuida.",
+      "keyProposals": [
+        "Volver al 8% del PIB en educación (el Estado de la Educación calcula que tomará 11 años, pero avanzar significativamente en 4 años de gobierno)",
+        "Universalizar educación preescolar bilingüe, aprovechando la mejor ventana de tiempo para aprender segundo idioma",
+        "Fortalecer educación dual y alinear formación con sectores productivos protegidos (turismo, agro)"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "health",
+      "summary": "Propone sistemas universales de salud física y mental. Plantea expandir la red de atención primaria completando los 400 EBAIS pendientes y crear el SECOSAM (centros comunitarios de salud mental) para apoyar familias y escuelas. Para adultos mayores, reforzar la red gerontológica nacional con enfoque regional y local.",
+      "keyProposals": [
+        "Completar y equipar los 400 EBAIS pendientes para fortalecer red de salud física comunitaria",
+        "Crear SECOSAM (centros comunitarios de salud mental) para apoyar familias, niños y maestros afectados por problemas de salud mental",
+        "Reforzar red gerontológica nacional con enfoque regional y local, no solo el hospital geriátrico"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "agriculture",
+      "summary": "Propone 'Alfombra Roja para el Agro' como concepto integral de múltiples políticas específicas. Enfatiza que la agricultura es fundamental para seguridad alimentaria y motor de desarrollo. Critica duramente el trato actual al sector agrícola, que describe como maltratado y abandonado. Usa ejemplo de crisis alimentaria de México 2007 para ilustrar importancia estratégica.",
+      "keyProposals": [
+        "Reformular sistema financiero agrícola: tasas de interés más bajas, más fácil obtener crédito para producción que para consumo",
+        "Derogar decretos dañinos no consensuados con agricultores, reestructurar Ministerio de Agricultura disfuncional",
+        "Mejorar control de alimentos importados (etiquetado, disposiciones), resolver seguridad jurídica de agricultores en parcelas de INDER"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "environment",
+      "summary": "Menciona el cambio climático como uno de los retos complejos que enfrenta el país y que requiere estar unidos y sólidos. Sin embargo, no desarrolla propuestas específicas sobre medio ambiente o cambio climático en la entrevista.",
+      "keyProposals": [
+        "Reconoce cambio climático como reto complejo que requiere unidad nacional"
+      ],
+      "stance": "not_mentioned"
+    },
+    {
+      "dimension": "reforms",
+      "summary": "Propone descentralización profunda del Estado, devolviendo poder a comunidades y tejido social. Critica centralización excesiva desde San José. Plantea empoderar asociaciones de desarrollo comunal, comunidades indígenas y gobiernos locales con recursos, autonomía y competencias. Busca reforma financiera para favorecer emprendimiento femenino mediante taxonomía clara.",
+      "keyProposals": [
+        "Descentralización del Estado: devolver poder, recursos y competencias a comunidades locales, asociaciones de desarrollo comunal y gobiernos locales",
+        "Formar profesionales (médicos, especialistas) en hospitales regionales para generar arraigo local y evitar fuga de talento a GAM",
+        "Definir taxonomía clara en CONASIF para emprendimiento femenino y acceder a préstamos internacionales favorables"
+      ],
+      "stance": "progressive"
+    },
+    {
+      "dimension": "social",
+      "summary": "Propone sistemas universales como eje central: pensión básica universal, red de cuido universal, sistema de salud universal. Enfatiza que toda persona merece vida digna independientemente de errores cometidos. Rechaza la 'meritocracia cruel' que culpa individuos por su situación. Propone red de cuido universal con copago según ingresos.",
+      "keyProposals": [
+        "Pensión básica universal para evitar que mujeres que no son lo suficientemente pobres ni contribuyeron suficiente queden en limbo",
+        "Red de cuido universal con copago según ingresos (los más pobres no pagan, otros pagan moderadamente según ingresos) en lugar de quitar apoyo cuando mejoran económicamente",
+        "Acceso a préstamos internacionales para emprendimiento femenino definiendo taxonomía clara de qué califica como emprendimiento femenino"
+      ],
+      "stance": "progressive"
+    }
+  ],
+  "generatedAt": "2026-01-11T00:00:00Z"
+}
