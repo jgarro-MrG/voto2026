@@ -66,7 +66,7 @@ export function DebateQuestionCard({
 
         {/* Moderator context */}
         <p className="text-sm text-gray-600 italic mb-3">
-          "{question.contexto}"
+          &ldquo;{question.contexto}&rdquo;
         </p>
 
         {/* Main question */}

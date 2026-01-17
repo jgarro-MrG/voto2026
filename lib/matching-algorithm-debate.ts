@@ -503,7 +503,7 @@ export function calculatePartialDebateScores(
   })
 }
 
-export default {
+const debateAlgorithm = {
   calculateDebateMatching,
   validateDebateResponses,
   processDebateResponses,
@@ -512,3 +512,5 @@ export default {
   getCandidatesForDebateOption,
   calculatePartialDebateScores
 }
+
+export default debateAlgorithm
