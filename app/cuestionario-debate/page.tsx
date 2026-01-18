@@ -20,7 +20,7 @@ type DemographicData = {
 type ViewMode = 'liveRace' | 'finalResults'
 
 const AGE_RANGES = ['18-25', '26-35', '36-45', '46-55', '56-65', '65+']
-const PROVINCES = ['San José', 'Alajuela', 'Cartago', 'Heredia', 'Guanacaste', 'Puntarenas', 'Limón']
+const PROVINCES = ['San José', 'Alajuela', 'Cartago', 'Heredia', 'Guanacaste', 'Puntarenas', 'Limón', 'Fuera del país']
 const GENDERS = ['Masculino', 'Femenino', 'Otro', 'Prefiero no decir']
 const VOTE_INTENTIONS = [
   'Tengo un candidato en mente',
@@ -177,7 +177,11 @@ export default function CuestionarioDebatePage() {
         throw new Error('Error al calcular resultados')
       }
 
-      // 4. Redirect to results page
+      // 4. Save sessionId to localStorage for later access
+      localStorage.setItem('voto2026_sessionId', sessionId)
+      localStorage.setItem('voto2026_completedAt', new Date().toISOString())
+
+      // 5. Redirect to results page
       router.push(`/resultados-debate/${sessionId}`)
     } catch (error) {
       console.error('Error submitting quiz:', error)
@@ -238,14 +242,14 @@ export default function CuestionarioDebatePage() {
             {/* Province */}
             <div>
               <label className="mb-2 block text-sm font-medium text-cr-blue-700">
-                Provincia de residencia
+                Lugar de residencia
               </label>
               <select
                 value={demographics.province || ''}
                 onChange={(e) => handleDemographicChange('province', e.target.value)}
                 className="w-full rounded-md border-2 border-cr-blue-300 px-4 py-2 focus:border-cr-red-500 focus:outline-none focus:ring-2 focus:ring-cr-red-500"
               >
-                <option value="">Selecciona tu provincia</option>
+                <option value="">Selecciona tu lugar de residencia</option>
                 {PROVINCES.map((province) => (
                   <option key={province} value={province}>
                     {province}
@@ -303,13 +307,13 @@ export default function CuestionarioDebatePage() {
                   onClick={() => setViewMode('liveRace')}
                   className={`flex items-center gap-3 rounded-lg border-2 p-4 text-left transition-all ${
                     viewMode === 'liveRace'
-                      ? 'border-cr-red-500 bg-cr-red-50'
+                      ? 'border-cr-blue-600 bg-cr-blue-100'
                       : 'border-cr-blue-200 hover:border-cr-blue-400'
                   }`}
                 >
-                  <Eye className={`h-6 w-6 ${viewMode === 'liveRace' ? 'text-cr-red-600' : 'text-gray-400'}`} />
+                  <Eye className={`h-6 w-6 ${viewMode === 'liveRace' ? 'text-cr-blue-600' : 'text-gray-400'}`} />
                   <div>
-                    <p className={`font-semibold ${viewMode === 'liveRace' ? 'text-cr-red-700' : 'text-gray-700'}`}>
+                    <p className={`font-semibold ${viewMode === 'liveRace' ? 'text-cr-blue-700' : 'text-gray-700'}`}>
                       Carrera en vivo
                     </p>
                     <p className="text-xs text-gray-500">
@@ -322,13 +326,13 @@ export default function CuestionarioDebatePage() {
                   onClick={() => setViewMode('finalResults')}
                   className={`flex items-center gap-3 rounded-lg border-2 p-4 text-left transition-all ${
                     viewMode === 'finalResults'
-                      ? 'border-cr-red-500 bg-cr-red-50'
+                      ? 'border-cr-blue-600 bg-cr-blue-100'
                       : 'border-cr-blue-200 hover:border-cr-blue-400'
                   }`}
                 >
-                  <EyeOff className={`h-6 w-6 ${viewMode === 'finalResults' ? 'text-cr-red-600' : 'text-gray-400'}`} />
+                  <EyeOff className={`h-6 w-6 ${viewMode === 'finalResults' ? 'text-cr-blue-600' : 'text-gray-400'}`} />
                   <div>
-                    <p className={`font-semibold ${viewMode === 'finalResults' ? 'text-cr-red-700' : 'text-gray-700'}`}>
+                    <p className={`font-semibold ${viewMode === 'finalResults' ? 'text-cr-blue-700' : 'text-gray-700'}`}>
                       Solo al final
                     </p>
                     <p className="text-xs text-gray-500">

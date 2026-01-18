@@ -218,8 +218,8 @@ export const DEBATE_QUESTIONS: DebateQuestion[] = [
       },
       {
         id: 'amb-d',
-        postura: 'Posición no definida en entrevista',
-        descripcion: 'El candidato no abordó este tema en profundidad durante la entrevista del TSE.',
+        postura: 'No tengo una posición clara sobre este tema',
+        descripcion: 'Prefiero no definirme o necesito más información para tomar una postura.',
         candidatos: ['PCDS', 'PDLCT', 'PIN', 'PLN', 'PPSD', 'PPSO', 'PUCD', 'PUSC', 'UP']
       }
     ]

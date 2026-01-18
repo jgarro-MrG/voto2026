@@ -162,29 +162,58 @@ export default function ResultadosDebatePage() {
 
             {/* Spectrum bar */}
             <div className="mb-4">
-              <div className="flex justify-between text-xs text-gray-500 mb-1">
-                <span>Tradicional</span>
-                <span>Moderado</span>
-                <span>Progresista</span>
+              <div className="flex h-10 rounded-lg overflow-hidden bg-gray-100 border border-gray-200">
+                {conservativePercent > 0 && (
+                  <div
+                    className="bg-red-400 transition-all flex items-center justify-center"
+                    style={{ width: `${conservativePercent}%` }}
+                  >
+                    {conservativePercent >= 15 && (
+                      <span className="text-white text-xs font-bold drop-shadow-sm">
+                        {results.userProfile.conservativeCount}
+                      </span>
+                    )}
+                  </div>
+                )}
+                {moderatePercent > 0 && (
+                  <div
+                    className="bg-yellow-400 transition-all flex items-center justify-center"
+                    style={{ width: `${moderatePercent}%` }}
+                  >
+                    {moderatePercent >= 15 && (
+                      <span className="text-gray-800 text-xs font-bold">
+                        {results.userProfile.moderateCount}
+                      </span>
+                    )}
+                  </div>
+                )}
+                {progressivePercent > 0 && (
+                  <div
+                    className="bg-blue-400 transition-all flex items-center justify-center"
+                    style={{ width: `${progressivePercent}%` }}
+                  >
+                    {progressivePercent >= 15 && (
+                      <span className="text-white text-xs font-bold drop-shadow-sm">
+                        {results.userProfile.progressiveCount}
+                      </span>
+                    )}
+                  </div>
+                )}
               </div>
-              <div className="flex h-6 rounded-full overflow-hidden bg-gray-200">
-                <div
-                  className="bg-red-400 transition-all"
-                  style={{ width: `${conservativePercent}%` }}
-                />
-                <div
-                  className="bg-yellow-400 transition-all"
-                  style={{ width: `${moderatePercent}%` }}
-                />
-                <div
-                  className="bg-blue-400 transition-all"
-                  style={{ width: `${progressivePercent}%` }}
-                />
-              </div>
-              <div className="flex justify-between text-xs font-medium mt-1">
-                <span className="text-red-600">{results.userProfile.conservativeCount} preguntas</span>
-                <span className="text-yellow-600">{results.userProfile.moderateCount} preguntas</span>
-                <span className="text-blue-600">{results.userProfile.progressiveCount} preguntas</span>
+              {/* Leyenda */}
+              <div className="flex flex-wrap justify-center gap-4 mt-3">
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-4 rounded bg-red-400"></div>
+                  <span className="text-xs text-gray-700">Tradicional ({results.userProfile.conservativeCount})</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-4 rounded bg-yellow-400"></div>
+                  <span className="text-xs text-gray-700">Moderado ({results.userProfile.moderateCount})</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-4 rounded bg-blue-400"></div>
+                  <span className="text-xs text-gray-700">Progresista ({results.userProfile.progressiveCount})</span>
+                </div>
               </div>
             </div>
 

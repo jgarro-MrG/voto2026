@@ -1,7 +1,44 @@
+'use client'
+
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { ArrowRight, MessageSquare, Users, TrendingUp, Shield, BarChart3 } from 'lucide-react'
+import { ArrowRight, MessageSquare, Users, TrendingUp, Shield, BarChart3, History, RefreshCw } from 'lucide-react'
 
 export default function HomePage() {
+  const [savedSession, setSavedSession] = useState<{
+    sessionId: string
+    completedAt: string
+  } | null>(null)
+  const [isLoading, setIsLoading] = useState(true)
+
+  useEffect(() => {
+    // Check for saved session in localStorage
+    const sessionId = localStorage.getItem('voto2026_sessionId')
+    const completedAt = localStorage.getItem('voto2026_completedAt')
+
+    if (sessionId && completedAt) {
+      setSavedSession({ sessionId, completedAt })
+    }
+    setIsLoading(false)
+  }, [])
+
+  const handleClearResults = () => {
+    localStorage.removeItem('voto2026_sessionId')
+    localStorage.removeItem('voto2026_completedAt')
+    setSavedSession(null)
+  }
+
+  const formatDate = (dateString: string) => {
+    const date = new Date(dateString)
+    return date.toLocaleDateString('es-CR', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit'
+    })
+  }
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-cr-blue-50 via-white to-cr-red-50">
       {/* Header */}
@@ -40,19 +77,73 @@ export default function HomePage() {
             Basado en las entrevistas oficiales del TSE a cada candidato.
           </p>
 
-          <Link
-            href="/cuestionario-debate"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-full text-lg font-bold transition-all shadow-lg hover:shadow-xl hover:scale-105"
-            style={{
-              backgroundColor: '#CE1126',
-              color: '#FFFFFF',
-              border: '3px solid #002B7F'
-            }}
-          >
-            <MessageSquare className="w-5 h-5" />
-            Iniciar Debate
-            <ArrowRight className="w-5 h-5" />
-          </Link>
+          {/* Saved Session Card */}
+          {!isLoading && savedSession && (
+            <div className="mb-8 p-6 bg-white rounded-xl shadow-lg border-2 border-cr-blue-200 max-w-md mx-auto">
+              <div className="flex items-center gap-2 text-cr-blue-700 mb-3">
+                <History className="w-5 h-5" />
+                <span className="font-semibold">Tienes resultados guardados</span>
+              </div>
+              <p className="text-sm text-gray-600 mb-4">
+                Completaste el debate el {formatDate(savedSession.completedAt)}
+              </p>
+              <div className="flex flex-col gap-3">
+                <Link
+                  href={`/resultados-debate/${savedSession.sessionId}`}
+                  className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-bold transition-all shadow-md hover:shadow-lg hover:scale-105"
+                  style={{
+                    backgroundColor: '#002B7F',
+                    color: '#FFFFFF',
+                    border: '2px solid #CE1126'
+                  }}
+                >
+                  <History className="w-5 h-5" />
+                  Ver mis resultados
+                </Link>
+                <button
+                  onClick={handleClearResults}
+                  className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-medium transition-all text-gray-600 hover:text-gray-800 hover:bg-gray-100"
+                >
+                  <RefreshCw className="w-4 h-4" />
+                  Empezar de nuevo
+                </button>
+              </div>
+            </div>
+          )}
+
+          {/* Main CTA - always visible */}
+          {!isLoading && !savedSession && (
+            <Link
+              href="/cuestionario-debate"
+              className="inline-flex items-center gap-2 px-8 py-4 rounded-full text-lg font-bold transition-all shadow-lg hover:shadow-xl hover:scale-105"
+              style={{
+                backgroundColor: '#CE1126',
+                color: '#FFFFFF',
+                border: '3px solid #002B7F'
+              }}
+            >
+              <MessageSquare className="w-5 h-5" />
+              Iniciar Debate
+              <ArrowRight className="w-5 h-5" />
+            </Link>
+          )}
+
+          {/* Secondary CTA when has saved session */}
+          {!isLoading && savedSession && (
+            <Link
+              href="/cuestionario-debate"
+              className="inline-flex items-center gap-2 px-8 py-4 rounded-full text-lg font-bold transition-all shadow-lg hover:shadow-xl hover:scale-105"
+              style={{
+                backgroundColor: '#CE1126',
+                color: '#FFFFFF',
+                border: '3px solid #002B7F'
+              }}
+            >
+              <RefreshCw className="w-5 h-5" />
+              Realizar nuevo debate
+              <ArrowRight className="w-5 h-5" />
+            </Link>
+          )}
 
           <p className="text-sm text-gray-600 mt-4">
             11 preguntas sobre temas clave para Costa Rica

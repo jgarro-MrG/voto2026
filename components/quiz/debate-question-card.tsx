@@ -120,7 +120,7 @@ function DebateOptionItem({
       className={cn(
         'relative cursor-pointer rounded-lg border-2 p-4 transition-all hover:bg-cr-blue-50',
         isSelected
-          ? 'border-cr-red-500 bg-cr-red-50 shadow-md'
+          ? 'border-cr-blue-600 bg-cr-blue-100 shadow-md'
           : 'border-cr-blue-200'
       )}
       onClick={onClick}
@@ -140,7 +140,7 @@ function DebateOptionItem({
           className={cn(
             'mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full border-2 transition-all',
             isSelected
-              ? 'border-cr-red-500 bg-cr-red-500'
+              ? 'border-cr-blue-600 bg-cr-blue-600'
               : 'border-cr-blue-300'
           )}
         >
@@ -156,7 +156,7 @@ function DebateOptionItem({
             <span
               className={cn(
                 'block font-semibold',
-                isSelected ? 'text-cr-red-700' : 'text-gray-900'
+                isSelected ? 'text-cr-blue-700' : 'text-gray-900'
               )}
             >
               {option.postura}
@@ -183,7 +183,7 @@ function DebateOptionItem({
           {/* Brief description */}
           <p className={cn(
             'text-sm mt-1',
-            isSelected ? 'text-cr-red-600' : 'text-gray-600'
+            isSelected ? 'text-cr-blue-600' : 'text-gray-600'
           )}>
             {option.descripcion}
           </p>
@@ -260,7 +260,7 @@ export function DebateQuestionCardCompact({
             className={cn(
               'w-full text-left px-3 py-2 text-sm rounded border transition-all',
               selectedOption === option.id
-                ? 'border-cr-red-500 bg-cr-red-50 text-cr-red-700 font-medium'
+                ? 'border-cr-blue-600 bg-cr-blue-100 text-cr-blue-700 font-medium'
                 : 'border-gray-200 hover:border-cr-blue-300 hover:bg-cr-blue-50'
             )}
           >
